@@ -1,0 +1,19 @@
+{
+  "name": "ccm",
+  "version": "1.0.0",
+  "description": "Cicada Creative Magazine's official website. Accepting submissions of all things weird.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "literary",
+    "magazine"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.4.12",
+    "bootstrap": "^5.2.1"
+  }
+}

@@ -1,0 +1,59 @@
+ BaseURL = "https://www.cicadacreativemag.com/"
+  languageCode = "en-us"
+  defaultContentLanguage = "en"
+  baseURL = "/"
+  title = "Cicada Creative Magazine"
+  theme = "theme"
+  relativeURLS = true
+
+  [taxonomies]
+  tag = "tags"
+
+  [permalinks]
+  post = "/:filename/"
+
+  [params]
+  author = "Blog Author"
+  description = "Stay Creative."
+  custom_css = ["css/main.scss"]
+  custom_js = ["js/theme.js"]
+
+  [module]
+    [[module.mounts]]
+      source = "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
+      target = "assets/js/bootstrap.bundle.min.js"
+      
+ [frontmatter]
+    date = ["date", "publishDate", "lastmod"]
+    lastmod = ["lastmod", ":fileModTime", ":default"]
+
+  sectionPagesMenu = "main"
+  [menu]
+  [[menu.main]]
+  name = "Home"
+  url = "/landing"
+  weight = 1
+  [[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 2
+  [[menu.main]]
+  name = "Staff"
+  url = "/staff/"
+  weight = 3
+  [[menu.main]]
+  name = "Issues"
+  url = "/issues/"
+  weight = 4
+  [[menu.main]]
+  name = "Blog"
+  url = "/blog/"
+  weight = 5
+  [[menu.main]]
+  name = "Submit"
+  url = "/submit/"
+  weight = 6
+  [[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 7

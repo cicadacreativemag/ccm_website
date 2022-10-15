@@ -1,0 +1,15 @@
+
+    {{- partial "head.html" . -}}
+    <title>{{ block "title" . }}
+      {{ .Site.Title }}
+      {{ end }}</title>
+        {{- partial "menu.html" . -}}
+
+        {{- block "main" . }}{{ .Content }}
+        
+  
+        
+        {{- end }}
+
+        {{- partial "footer.html" . -}}
+

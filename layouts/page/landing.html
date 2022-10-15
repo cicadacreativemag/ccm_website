@@ -1,0 +1,87 @@
+{{ define "main" }}
+{{- partial "menu.html" . -}}
+
+<div class="container">
+
+    <div class="row" data-masonry='{"percentPosition": true }'>
+
+        <!-- ISSUE 06 RELEASE -->
+            <div class="col-sm-4 py-3">
+            <div class="card mb-3">
+                <img src="/images/issue5/thumb/cover-icon.png" class="img-fluid" alt="...">
+                <div class="card-body">
+                <h5 class="card-title">ISSUE 06 OUT!</h5>
+                <p class="card-text">Issue 06 is finally out. (EDITOR STATEMENT) Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos neque explicabo voluptas sapiente. Et perferendis, impedit dolores ullam voluptas dolore eveniet, cumque ea, nemo recusandae nostrum vitae optio nobis blanditiis? </p>
+                <p class="card-text"><small class="text-muted"><a href="/issue-6">Read it here <i class='fa fa-long-arrow-right'></i></small></a></p>
+                </div>
+            </div>
+            </div>
+
+        <!-- SUBMISSIONS -->    
+            <div class="col-sm-4 py-3">
+                <div class="card border-color">
+                    <div class="row g-0">
+                    <div class="card-body">
+                        <h5 class="card-title">SUBMISSIONS OPEN</h5>
+                            <p class="card-text">Announce theme (time?). Include short copy about time, how it affected the timeline of this issue, discuss flexibility. Deadline will be on Blah Blah at Blah Blah time. 
+                            </p>
+                                <p class="card-text"><small class="text-muted"><a href="/submissions">Read more here <i class='fa fa-long-arrow-right'></i></small></a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+        <!-- APPLICATIONS -->   
+            <div class="col-sm-4 py-3">
+                <div class="card border-color">
+                    <div class="card-body">
+                        <h3 class="card-title">APPLICATIONS OPEN</h3>
+                            <p class="card-text">We're looking for staff! Brief explanation we are looking for both CTM & EB. Read more here (GOOGLE DOC). </p>
+                            <p class="card-text"><small class="text-muted"><a href="/submissions">Read more here <i class='fa fa-long-arrow-right'></i></small></a></p>
+                        </div>
+                    </div>
+                </div>
+        
+
+    <!-- BLOG POST UPDATES -->
+            <div class="col-sm-4 py-3">
+                <div class="card border-color">
+                    <div class="card-body">
+                        <h3 class="card-title">BLOG POSTS</h3>
+                        <p class="card-text"><img src="/images/blog/escapism.png" class="img-fluid" alt="...">
+                            <b>Title.</b> Description. Format similarly to newsletter. CHECK: Is there a way to feed these posts in directly from the blog list page (pull in a partial?) Auto-populate each month's posts (content directory?) <a href="/submissions">Read more here <i class='fa fa-long-arrow-right'></i></a> </p>
+                    </div>
+                    <div class="card-body">
+                        <p class="card-text"><img src="/images/blog/oct 1.png" class="img-fluid" alt="...">Format similarly to newsletter. <a href="/submissions">Read more here <i class='fa fa-long-arrow-right'></i></a></p>
+                    </div>
+                </div>
+            </div>
+
+
+        <!-- SPOTIFY -->
+            <div class="col-sm-4 py-3">
+                <div class="card border-color">
+                    <div class="card-body">
+                        <h3 class="card-title">SPOTIFY PLAYLIST</h3>
+                        <p class="card-text">Check out our collaborative playlist!</p>
+                        <iframe style="border-radius:0px" src="https://open.spotify.com/embed/playlist/4a8Nhz7K81x9oUc3uOQgIN?utm_source=generator" width="100%" height="420" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+                    </div>
+                </div>
+            </div>
+
+
+        <!-- EXTRA NODULE? 
+                <div class="col-md-4 py-2">
+                    <div class="card border-color">
+                        <div class="card-body">
+                            <h3 class="card-title">Contact Us</h3>
+                            <p class="card-text"><i class="fa fa-instagram"></i></p>
+                            (Placeholder. Not totally sure how to fill this one.)
+                        </div>
+                    </div>
+                </div> -->
+
+    </div>
+</div>
+{{- partial "footer.html" . -}}
+    {{ end }}
