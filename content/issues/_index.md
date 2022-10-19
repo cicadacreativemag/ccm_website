@@ -1,7 +1,9 @@
 ---
 title: "Issues"
-date: 2022-09-26T16:22:06-06:00
 draft: false
-layout: issues
 ---
-why is this duplicating a
+
+# ISSUES
+## Every year, we at Cicada call for your work. Every year, you deliver. 
+
+With extreme care and deliberation, we review this work and present the very best our community has to offer. Please enjoy these selected pieces – for you, by you.

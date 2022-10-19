@@ -1,0 +1,22 @@
+---
+title: "A Love Story"
+draft: false
+date: 2021-02-15T21:57:10-06:00
+authors: ["Gracie Neirynck, Creative Team Member"]
+layout: blog
+featuredImage: "/images/blog/love-story.png"
+summary: Agh, February! The month of love. This month I was determined to present you all with a love story—cliché, I know. 
+---
+
+# A Love Story
+## Gracie Neirynck, Creative Team Member
+
+Agh, February! The month of love. This month I was determined to present you all with a love story—cliché, I know. In my desperate quest for a love story, I scanned the internet, spending many hours skimming across its many whimsical love poems and falling victim to its endless rabbit holes. I even braved the journey into the desperate and truly dangerous land of the second page of Google (yes, turns out it does exist), determined to find the perfect love story. After many (oh so many) futile hours of reading about the many people littered across history who died for each other, killed for each other, wrote for each other, loved each other, this is the only love story I want to tell you all.  
+
+Allow me to set the scene: it is early in the morning, a tired 5 a.m. This is not the fun 5 a.m. It's not Saturday at 5 a.m. at the drive-through at Taco Bell coming back from a road trip. This is not the drunken 5 a.m., sitting on the kitchen floor with your friends waiting for the microwave to cook an entire bag of pizza rolls. You are not in an airplane looking out the window over to the lights in the city, wondering who is still awake. You have not woken up to begin that steep climb up the mountain, racing the sunrise to the top. No, this 5 a.m. is different. The hour where you feel like someone has taken your brain and rung it out like a washcloth, where your bones have turned to molasses under your skin and you are pretty sure that you are incapable of walking.  
+
+We open here, on an October 5 a.m. where my mother has just been woken up by contractions as she realizes that her first child is on the way. You can imagine the chaos that follows, the half-asleep rush to the hospital, and the many hours of labor. As my mom enters labor, she receives an epidural to numb the pain. While epidurals numb the pain of labor, they can also prolong it. This is what happens to my mom, who endures nearly 23 hours of labor before my sister is born. When midnight rolls around, everyone has fallen asleep as my mom is still not yet in active labor. My dad is passed out in the chair next to the hospital bed, but my mom refuses to go to bed. 
+
+There is an EKG hooked up to my mom's belly, recording my sister's heartbeat, making sure that my sister stays alive throughout the night. If my sister's heart were to stop beating at some point during, the nurses and doctors would be alerted. Unfortunately, my mom doesn’t know this. So, my mom, who has been in labor for nineteen hours at this point, forces herself to stay awake for the entire night, watching the rhythm of my sister’s heartbeat on the screen. Fighting off the sandman with grit, she stays up the whole night, her eyes glued to EKG, making sure that my sister’s heart keeps beating throughout the night.  
+
+She recounts this as stupid now, rolls her eyes and laughs at herself. She says she should have just gone to sleep, but she didn’t. So, there you have it: maybe a little atypical, but it's what comes to my mind when someone asks me to tell them a love story. We often think that romantic love stories are the ones worth telling, the grand gestures and dramatic speeches. However, most love stories to me aren’t romantic; they are quiet and humble and are easily mistaken for the dust and monotony of everyday life, and these are my favorite kinds of love stories. 

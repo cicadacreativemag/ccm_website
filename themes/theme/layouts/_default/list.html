@@ -1,30 +1,28 @@
 {{ define "main" }}
-<main>
-    <article>{{- partial "menu.html" . -}}
-        <header>
-            <h1>{{.Title}}</h1>
-        </header>
-        <!-- "{{.Content}}" pulls from the markdown content of the corresponding _index.md -->
-        {{.Content}}
-    </article>
-    
+{{- partial "menu.html" . -}}
+<div class="container">
+   <header>
+      <h1>{{.Title}}</h1>
+  </header>
+  {{.Content}}
 
-<!-- Ranges through content/posts/*.md -->
-
-    {{ range .Pages }}
-
-    <div class="row">    
-    <div class="col-sm-4 py-2">
-        <div class="card title">
-            <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
-          </div>
-        </div>
+  <div class="row" data-masonry='{"percentPosition": true }'>  
+   {{ range .Pages }}
+    <div class="col-md-6 py-3">
+      <div class="card">
+       <img class="img-fluid rounded" src="{{ .Param `featuredImage` }}" alt="featured image">
+          <div class="card-body">
+            <div class="card-title">
+               {{ .Title }}
+            </div>
+         <p class="card-text"> {{ .Summary | truncate 300 }} </p>
+         <p class="card-text"><a href="{{.Permalink}}"> Keep reading <i class='fa fa-long-arrow-right'></i></a> </p>
+            </div>
+         </div>
       </div>
+      {{ end }}
+   </div>
 
-
-    {{ end }}
-  
-
-    {{- partial "footer.html" . -}}
-</main>
+   </div>
+{{- partial "footer.html" . -}}
 {{ end }}

@@ -1,8 +1,8 @@
 ---
 title: "On Healthy Escapism"
 draft: false
-date: 2022-10-13T21:06:34-06:00
-author: Jay Serrano, Editorial Director
+date: 2021-09-13T21:06:34-06:00
+authors: ["Jay Serrano, Editorial Director"]
 featuredimage: "/images/blog/escapism.png"
 summary: Escapism gets a bad rap, understandably so. It’s often perceived as someone running away from their feelings by refusing to engage with reality--an unhealthy coping mechanism. Conventional wisdom says that the Right Way™ to deal with negative emotions is to feel all of it and work through the weeds of it. Maybe you talk it out with friends, have a good cry, or draw a bubble bath. I’ve tried all that. It makes me feel worse. 
 ---

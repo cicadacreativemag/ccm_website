@@ -2,86 +2,109 @@
 {{- partial "menu.html" . -}}
 
 <div class="container">
-
-    <div class="row" data-masonry='{"percentPosition": true }'>
-
+     <div class="row" data-masonry='{"percentPosition": true }'>
         <!-- ISSUE 06 RELEASE -->
-            <div class="col-sm-4 py-3">
+        <div class="col-sm-4 py-3">
             <div class="card mb-3">
-                <img src="/images/issue5/thumb/cover-icon.png" class="img-fluid" alt="...">
+                <img src="/images/issue6/ccm6_cover.png" class="img-fluid" alt="...">
                 <div class="card-body">
                 <h5 class="card-title">ISSUE 06 OUT!</h5>
-                <p class="card-text">Issue 06 is finally out. (EDITOR STATEMENT) Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos neque explicabo voluptas sapiente. Et perferendis, impedit dolores ullam voluptas dolore eveniet, cumque ea, nemo recusandae nostrum vitae optio nobis blanditiis? </p>
-                <p class="card-text"><small class="text-muted"><a href="/issue-6">Read it here <i class='fa fa-long-arrow-right'></i></small></a></p>
+                <p class="card-text">After a long delay in publishing this issue, Issue 06: Space is finally out! After a long delay in publishing this issue, Issue 06: Space is finally out!After a long delay in publishing this issue, Issue 06: Space is finally out!</p>
+                <p class="card-text"><small class="text-muted"><a href="/issues/issue-6">Read it here <i class='fa fa-long-arrow-right'></i></small></a></p>
                 </div>
             </div>
             </div>
 
         <!-- SUBMISSIONS -->    
-            <div class="col-sm-4 py-3">
-                <div class="card border-color">
-                    <div class="row g-0">
-                    <div class="card-body">
-                        <h5 class="card-title">SUBMISSIONS OPEN</h5>
-                            <p class="card-text">Announce theme (time?). Include short copy about time, how it affected the timeline of this issue, discuss flexibility. Deadline will be on Blah Blah at Blah Blah time. 
-                            </p>
-                                <p class="card-text"><small class="text-muted"><a href="/submissions">Read more here <i class='fa fa-long-arrow-right'></i></small></a></p>
-                            </div>
+        <div class="col-sm-4 py-3">
+            <div class="card border-color">
+                <div class="card-body">
+                    <h5 class="card-title">SUBMISSIONS OPEN</h5>
+                        <p class="card-text">Announce theme (time?). Include short copy about time, how it affected the timeline of this issue, discuss flexibility. Deadline will be on Blah Blah at Blah Blah time. 
+                        </p>
+                            <p class="card-text"><small class="text-muted"><a href="/submit">Read more here <i class='fa fa-long-arrow-right'></i></small></a></p>
                         </div>
                     </div>
                 </div>
+            
 
         <!-- APPLICATIONS -->   
-            <div class="col-sm-4 py-3">
-                <div class="card border-color">
-                    <div class="card-body">
-                        <h3 class="card-title">APPLICATIONS OPEN</h3>
-                            <p class="card-text">We're looking for staff! Brief explanation we are looking for both CTM & EB. Read more here (GOOGLE DOC). </p>
-                            <p class="card-text"><small class="text-muted"><a href="/submissions">Read more here <i class='fa fa-long-arrow-right'></i></small></a></p>
-                        </div>
-                    </div>
-                </div>
-        
-
-    <!-- BLOG POST UPDATES -->
-            <div class="col-sm-4 py-3">
-                <div class="card border-color">
-                    <div class="card-body">
-                        <h3 class="card-title">BLOG POSTS</h3>
-                        <p class="card-text"><img src="/images/blog/escapism.png" class="img-fluid" alt="...">
-                            <b>Title.</b> Description. Format similarly to newsletter. CHECK: Is there a way to feed these posts in directly from the blog list page (pull in a partial?) Auto-populate each month's posts (content directory?) <a href="/submissions">Read more here <i class='fa fa-long-arrow-right'></i></a> </p>
-                    </div>
-                    <div class="card-body">
-                        <p class="card-text"><img src="/images/blog/oct 1.png" class="img-fluid" alt="...">Format similarly to newsletter. <a href="/submissions">Read more here <i class='fa fa-long-arrow-right'></i></a></p>
+        <div class="col-sm-4 py-3">
+            <div class="card border-color">
+                <div class="card-body">
+                    <h3 class="card-title">APPLICATIONS OPEN</h3>
+                        <p class="card-text">We're looking for staff! Brief explanation we are looking for both CTM & EB. Read more here (GOOGLE DOC). </p>
+                        <p class="card-text"><small class="text-muted"><a href="/submissions">Read more here <i class='fa fa-long-arrow-right'></i></small></a></p>
                     </div>
                 </div>
             </div>
 
+        <!-- BLOG POST UPDATES -->
+        <div class="col-sm-4 py-3">
+            <div class="card border-color">
+                <div class="card-body">
+                    <h3 class="card-title">RECENT BLOG POSTS</h3>
+                    {{- range ( where site.RegularPages "Section" "blog" | first 2 ) }}
+                    <img class="img-fluid rounded" src="{{ .Param `featuredImage` }}" alt="featured image">
+                <div class="card-body">
+                    <h3 class="card-title">{{ .Title }}</h3>
+                        <div class="card-subtitle mb-2">
+                        <i> {{ range .Param "authors" }}
+                            {{ . }}
+                        {{ end }} </i>
+                        </div>
+                <div class="row justify-content-between">
+                    <div class="col-auto">
+                        <p class="card-text"><small class="text-muted"><a href="{{.Permalink}}">Read <i class='fa fa-long-arrow-right'></i></small></a></p>
+                     </div>
+                     </div>
+                    </div>
+                {{ end }}
+                </div>
+            </div>        
+        </div>
 
         <!-- SPOTIFY -->
-            <div class="col-sm-4 py-3">
-                <div class="card border-color">
-                    <div class="card-body">
-                        <h3 class="card-title">SPOTIFY PLAYLIST</h3>
-                        <p class="card-text">Check out our collaborative playlist!</p>
-                        <iframe style="border-radius:0px" src="https://open.spotify.com/embed/playlist/4a8Nhz7K81x9oUc3uOQgIN?utm_source=generator" width="100%" height="420" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        <div class="col-sm-4 py-3">
+            <div class="card border-color">
+                <div class="card-body">
+                    <h3 class="card-title">SPOTIFY PLAYLIST</h3>
+                    <p class="card-text">Check out our collaborative playlist!</p>
+                    <iframe style="border-radius:0px" src="https://open.spotify.com/embed/playlist/4a8Nhz7K81x9oUc3uOQgIN?utm_source=generator" width="100%" height="450" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+                </div>
+            </div>
+        </div>
+
+        <!-- UQUIZ -->
+        <div class="col-sm-4 py-3">
+            <div class="card border-color">
+                <div class="card-body">
+                        <h3 class="card-title">WHICH CICADA ARE YOU?</h3>
+                        {{.Content}}
+                        <p class="card-text">Ever wanted to know what kind of cicada you would be? Check out this quiz to find out. CW: photos of bugs. </p>
+                        <p class="card-text"><small class="text-muted"><a href="https://uquiz.com/quiz/xIPn5U/which-cicada-are-you">Take it here! <i class='fa fa-long-arrow-right'></i></small></a></p>
                     </div>
                 </div>
             </div>
 
 
-        <!-- EXTRA NODULE? 
-                <div class="col-md-4 py-2">
-                    <div class="card border-color">
-                        <div class="card-body">
-                            <h3 class="card-title">Contact Us</h3>
-                            <p class="card-text"><i class="fa fa-instagram"></i></p>
-                            (Placeholder. Not totally sure how to fill this one.)
-                        </div>
-                    </div>
-                </div> -->
 
+
+
+        <!-- TWITTER 
+        <div class="col-md-8 py-2">
+            <div class="card border-color">
+                <div class="card-body">
+                    <h3 class="card-title">TWITTER FEED</h3>
+                    <p class="card-text">
+                        <a class="twitter-timeline" data-width="100%" data-height="100rem" data-dnt="true" data-theme="dark" href="https://twitter.com/cicadacreatemag?ref_src=twsrc%5Etfw">Tweets by cicadacreatemag</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+                     </p>
+                </div>
+            </div>
+        </div> -->
+                
+        </div>
     </div>
-</div>
+
 {{- partial "footer.html" . -}}
     {{ end }}

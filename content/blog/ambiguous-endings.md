@@ -1,8 +1,8 @@
 ---
 title: "I Guess We’ll Never Know: Ambiguous Endings in Horror"
 draft: false
-date: 2022-10-13T22:28:58-06:00
-author: Anna Dunn, Managing Editor
+date: 2021-10-13T22:28:58-06:00
+authors: ["Anna Dunn, Managing Editor"]
 layout: blog
 featuredImage: "/images/blog/oct 1.png"
 images:
@@ -12,7 +12,6 @@ summary: The best horror movies have ambiguous endings. Endings that make you le
 # I Guess We’ll Never Know: Ambiguous Endings in Horror
 
 ## Anna Dunn, Managing Editor
-
 
 The best horror movies have ambiguous endings. Endings that make you leave confused, in disbelief, and searching the internet for more details and answers. The movie remains in your head, and you’re stuck thinking, what happens next?
 

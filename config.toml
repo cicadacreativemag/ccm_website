@@ -13,10 +13,10 @@
   post = "/:filename/"
 
   [params]
-  author = "Blog Author"
+  author = ""
   description = "Stay Creative."
   custom_css = ["css/main.scss"]
-  custom_js = ["js/theme.js"]
+  custom_js = ["js/theme.js"] 
 
   [module]
     [[module.mounts]]
