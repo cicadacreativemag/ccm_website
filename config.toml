@@ -10,10 +10,12 @@
   tag = "tags"
 
   [permalinks]
-  post = "/:filename/"
+  post = "/:title/"
+  issues = "/:sections[1:]/:title"
 
   [params]
   author = ""
+  fullImage = ""
   description = "Stay Creative."
   custom_css = ["css/main.scss"]
   custom_js = ["js/theme.js"] 
@@ -57,3 +59,8 @@
   name = "Contact"
   url = "/contact/"
   weight = 7
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

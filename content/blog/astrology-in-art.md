@@ -5,10 +5,9 @@ date: 2022-03-15T23:00:28-06:00
 authors: ["Gracie Neirynck, Publications Director"]
 layout: blog
 featuredImage: "/images/blog/astrology.jpg"
-summary:
+summary: Astrology today is, I hate to say it, a bit of a joke. It makes you think of Buzzfeed and CO-Sign and while all that's well and good, they don’t have any sizable impact on your livelihood (or at least I hope not). 
 ---
-
-#  Astrology in Art
+# Astrology in Art
 ## Gracie Neirynck, Publications Director
 
 Astrology today is, I hate to say it, a bit of a joke. It makes you think of Buzzfeed and CO-Sign and while all that's well and good, they don’t have any sizable impact on your livelihood (or at least I hope not). Maybe that's because when we go out late at night, with a baggie hoodie draped around our shoulders and the wind is rustling through our hair and we look up at the sky, most of what we see is smog, littered with one or two sparkling stars. Our relationship with stars has drastically changed because we only ever see a handful of them at a time. Before this however, stars had a very real impact on mechanics of life and art. 

@@ -4,12 +4,7 @@
       {{ .Site.Title }}
       {{ end }}</title>
         {{- partial "menu.html" . -}}
-
         {{- block "main" . }}{{ .Content }}
-        
-  
-        
         {{- end }}
-
         {{- partial "footer.html" . -}}
 

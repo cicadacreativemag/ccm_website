@@ -8,4 +8,5 @@ layout: staff
 # STAFF
 
 ## Meet the team behind CCM!
-Or consider joining us! Applications for Editorial Board Members and Creative Team Members are currently open. For more information on open Editorial Board positions, click [here](https://docs.google.com/document/d/1klgtegPO100QzFB9zHtFKY_Dk6jbjwV-jdYdaVjhpFU/edit?usp=sharing).
+
+ While the beating heart of Cicada is our creative community, we want you to know who looks over the editorial process, from selecting our themes to curating each publication. Applications open in January 2023, so keep an eye out.

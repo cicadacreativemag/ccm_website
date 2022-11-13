@@ -1,7 +1,9 @@
 ---
+weight:
 title: "{{ replace .Name "-" " " | title }}"
+authors: ["{{ .Site.Params.Author }}"]
+description: 
 draft: false
-layout: art
-featuredImage: "/images/"
+featuredImage: "/images/issue6/"
+type: art
 ---
-

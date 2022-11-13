@@ -1,0 +1,58 @@
+---
+weight: 4
+title: "Us as Parents"
+authors: ["Casey Forest"]
+description: 2019
+draft: false
+type: writing
+---
+
+In our house it was the fridge. Was always the fridge. Unless it was little Norman talking, who called it the ‘cold’ until he was old enough to know the difference. He would get confused in the winter. Cold had a singular meaning to him, and it didn’t have to do with the outdoors. 
+
+He had an obsession. He loved it. He’d put his toys in it, his juice boxes, his underwear. It got so bad that we had to invest in child locks, and at that point instead of giving up he redirected. ‘Cold’ was no longer his hiding place. 
+
+Instead he transitioned from his terrible twos to his terrible threes, and in it he went from ‘cold’ to ‘warm.’ Now he hid things in the hall cabinet, the one where the vents let out just enough radiator heat for the towel cabinet to be a little stuffier than the rest of the house. Warm, Norman would croon. Warm, warm, warm. And he’d take his Barbie, with her stiff hair and arms askew at backwards plastic angles and shove her in between two guest towels. It took us longer to understand where Warm was, and longer still to find what he hid there. Sometimes it was harmless. We would open the cabinet and grab a crinkled ball of tinfoil. Or once he hid my mother’s scarf there, behind the bin of hairdryers and curling irons and lost bobby pins.
+
+Or when he got old enough to start hiding the food he didn’t want to eat, he’d put that in there. Before then, it was always, nonononononono, don’t want, put it in the Cold, I’ll eat it tomorrow. After that it went, the minute you look away little Norman is taking that lump of meatloaf and stuffing that fucker in the hall closet, which we did not realize until the week after, when the whole upstairs smelled like putrid beef and sprouting onions. We cleaned the towels. We wiped out the bin. It still smelled faintly like meat. 
+
+Eventually he grew out of it. It only took a few months, a year at the most. Learned to call it the ‘fridge,’ the ‘closet.’ We thought he lost his habit of hiding things by the time he turned five. We wrapped his leftovers instead of letting him hoard them somewhere he thought no one could find him. He ate dinner with us quietly, always leaving a quarter of his food untouched. Which he’d only finish if one of us asked him to.
+
+By then he was old enough that people started asking him ‘do you remember this,’ ‘or that time when that.’ And of course we all asked him about the Cold and the Warm. And he always replied, I don’t remember. He had no recollection of hiding things in strange temperature-oriented places.
+
+He himself was not a temperature-oriented child. He did not lie in the sun or bundle up and spend time outdoors when it snowed. In fact, he was the most tepid child anyone could ask for. He sat in the living room and read, or rather just looked at the pictures. He sat on the rug pointing at each word and sounding it out. He watched television, but only as long as he was supposed to, and then he’d go to bed without a fuss. He never yelled.
+
+When he cried, it was a quiet kind of crying, the kind that you walked in on when it was time to read a story or wake up in the morning. As far as we could tell, he had no outlets whatsoever anymore. He had left his anger about broccoli and meatloaf behind him. Maybe in the fridge.
+
+As for us, we were not about to complain. I had not wanted a child, and neither had the man who left me as a vessel, not a woman. It was me on my own, and I could not bring myself to stop what was in motion.
+
+So I’d called in my brother as reinforcement. College dropout, spending his days working at the hardware store, he did not have pressing matters. Did he want them? I didn’t ask. I just requested help, and he was too apathetic to say no or move to avoid our new problem. And so we were stuck with the most dependent dependent anyone could ever ask for.
+
+We were relieved when Norman didn’t respond to things. We were not unsettled to walk in on him crying – honestly, we were comforted, that we were raising such a pretty crier.
+
+He started doing other odd things when he got to school age. He started bringing home things in his backpack. We didn’t know right away, until the school called us in. Do you know that your son has three – no, four – library books overdue? It’s been months, ma’am, and that’s our most popular story, we need it back . . .  the teacher gave me the kindergarten equivalent of a cease and desist letter. We took it home and expected another lukewarm night.
+
+We started the search and found that most popular story with several others under his dresser. Also there were eraser animals, ear muffs, bagged sandwiches with other kids’ names written on them. Norman was a thief. A five-year-old thief. 
+
+It was all premediated. We learned this eventually. He would, when we dropped him off, walk slowly to his class, scoping out the sorts of things his classmates were carrying. He would ask to borrow it, and then it would wind up in the new Cold.
+
+This earned him a lot of forty-pound enemies. So we decided we would switch schools for first grade.
+
+Children run hot, that’s what we realized. They do not like tepid things, and so they didn’t like Norman. He was caught up in being. Not even trying to be liked, just being. Stealing was just something he did. It was an opposite olive branch. He brought home parts of his classmates he liked, and what we soon realized was that he’d play with them. They were his friends, since he couldn’t manage to keep a whole one.
+
+He only ever threw one tantrum, when we found all his stolen knickknacks and took them away.
+
+He howled, yelled, threw his things. I did not start with him, I didn’t know how – what I did was take two bags and sorted through everything. Trash – moldy sandwiches, crumpled napkins, notes. Not Trash – the library books, the erasers, the little-kid rhinestone jewelry.
+
+My brother tried everything to make him stop crying. He sat down in front of him, cross-legged, serious. He said “Norman, we don’t get to cry over things that aren’t ours.” 
+
+Which did not make sense to a five-year-old and just made him sob harder. 
+
+He mourned the loss of his piecework friends all through dinner, story time, bath time, dessert. Even my brother could not get him to stop, and so eventually had to leave. We were so used to silence we could feel the waves of sadness coming off his small sweaty body. My brother was quietly exasperated, moderately furious, with himself but also with me. I could tell he felt trapped, and that must be why he left that night. I did not expect him to come back; but I didn’t not expect it, either. His cornerstone was his apathy and he had gone to return to it.
+
+I was the one to tuck Norman in that night. He sniffled and kicked and tossed back and forth on his pint-sized mattress. I tried to pull the covers up to his chin the way he seemed to like (we could never really tell). Instead he bucked the blankets off, showing off his fit little cotton cowboy pajamas, saying I’m Cold, I’m Cold, I’m Cold. 
+
+My brother came home from his drive through the neighborhood sometime later and he was not calmer. We sat at the kitchen table and listened to the muffled teary sounds coming from the next room over. We drank whiskey. It took a long time for him to fall asleep, and we were too scared to check on him once the sobs stopped. What if it started again? So we left him in there. I put the two bags next to the front door. We made plans to switch schools and talked like parents. The letter from the preschool teacher sat on the table in front of me, and I had an urge to get up and hide it in the hall cupboard and never look at it again. 
+
+In the quiet, in the dark, we could pretend like we didn’t owe ourselves to someone else. I had the urge to cry myself, but didn’t. As for my brother, he just sat next to me and drank from his mug, maybe too wired to sleep, maybe too tired. I also had the urge to thank him for staying, but I didn’t do that either.
+
+He stayed up later than I did. I only followed one of my instincts, the one that told me to sleep whenever I felt overwhelmed. I took my mug and my overfull head and tiptoed past the room where Norman slept, or at least lay quietly. I remember the floor creaked under me. I remember looking back at my brother, where he sat slumped in the kitchen chair. We were both terrified we’d accidentally wake him up. 

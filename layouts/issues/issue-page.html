@@ -1,0 +1,17 @@
+{{ define "main" }}
+{{- partial "menu.html" . -}}
+<div class="container">
+    {{.Content}}
+      <div class="row justify-content-start">  
+        {{ range .Pages }}
+     <div class="col-sm-3 p-4">
+       <div class="tiles h-100">
+          <a href="{{.Permalink}}" > 
+        {{ partial (printf "issue-page/%s.html" .Type) . }}  </a>
+          </div>
+        </div>
+      {{ end }}
+    </div>
+</div>
+{{- partial "footer.html" . -}}
+{{ end }}

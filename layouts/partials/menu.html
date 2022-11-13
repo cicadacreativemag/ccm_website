@@ -1,4 +1,5 @@
 <div class="container">
+  
   <!--MENU-->
     <nav class="navbar navbar-expand-lg">
         <a class="navbar-brand" href="/"><img id="navbarIcon" src='/icons/red-c.png' width="50" height="50" alt=""></a>
@@ -20,25 +21,45 @@
 
  <!--BUTTONS-->
     <div class="row-reverse">
-        <button class="btn btn-nav-blue" onclick="setTheme('blue', this)" title="blue">
-            </button>
-    
-        <button class="btn btn-nav-green" onclick="setTheme('green', this)" title="green">
-        </button>
-    
-        <button class="btn btn-nav-pink" onclick="setTheme('pink', this)" title="pink">
-        </button>
-    
-        <button class="btn btn-nav-white" onclick="setTheme('white', this)" title="white">
-        </button>
-    
-        <button class="btn btn-nav-yellow" onclick="setTheme('yellow', this)" title="yellow"></button>
-        
-        <button class="btn btn-nav-red" onclick="setTheme('red', this)" title="red">
-        </button>
-      </div>
+      <button
+      id="blue"
+      class="btn btn-nav-blue theme-button"
+      onclick="handleThemeButtonClick('blue', this)"
+      title="blue"
+    ></button>
+    <button
+      id="green"
+      class="btn btn-nav-green theme-button"
+      onclick="handleThemeButtonClick('green', this)"
+      title="green"
+    ></button>
+    <button
+      id="pink"
+      class="btn btn-nav-pink theme-button"
+      onclick="handleThemeButtonClick('pink', this)"
+      title="pink"
+    ></button>
+    <button
+      id="white"
+      class="btn btn-nav-white theme-button"
+      onclick="handleThemeButtonClick('white', this)"
+      title="white"
+    ></button>
+    <button
+      id="yellow"
+      class="btn btn-nav-yellow theme-button"
+      onclick="handleThemeButtonClick('yellow', this)"
+      title="yellow"
+    ></button>
+    <button
+      id="red"
+      class="btn btn-nav-red theme-button"
+      onclick="handleThemeButtonClick('red', this)"
+      title="red"
+    ></button>
+        </div>
     </div>
   </nav>
 </div>
 
-  
+

@@ -1,36 +1,19 @@
 {{ define "main" }}
 {{- partial "menu.html" . -}}
 <div class="container">
-    <div class="col-md-8 py-3">
-        <div class="card">
-            
+    <div class="d-flex justify-content-center">
+        <div class="col-md-6">
             <div class="card-body">
-                {{- partial "issue-page/writing.html" . -}}
-        {{.Content}}
-    <div class="row justify-content-end py-3">
-        <div class="col-auto">
-         <div class="card-subtitle">
-            {{ .PublishDate.Format "January 01, 2006" }}
+                <h1>{{ .Title }}</h1>
+                <p class="card-text">{{ range .Param "authors" }}
+                    {{ . }}
+                 {{ end }} 
+                 <h4> {{ .Description }} </h4>
+              {{.Content}} </p> 
          </div> 
        </div>
-     </div>
-        </div>
-     </div>
-  </div>
-    <div class="arrows">
-        {{ with .PrevInSection }}
-            <a href="{{ .Permalink }}">
-                <i class="fas fa-long-arrow-alt-left">
-            </i></a>
-        {{ end }}
-        <a href="/blog"><i class="fas fa-home"> 
-        </i></a>
-        {{ with .NextInSection }}
-            <a href="{{ .Permalink }}">
-                <i class="fas fa-long-arrow-alt-right">
-            </i></a>
-        {{ end }}
     </div>
+ {{- partial "arrows.html" . -}}
 </div>
 {{- partial "footer.html" . -}}
 {{ end }}

@@ -12,10 +12,10 @@
             <div class="card-title">
                {{ .Title }}
             </div>
-            <div class="card-subtitle mb-2">
+            <div class="card-subtitle mb-2"><h2>
                 {{ range .Param "authors" }}
                   {{ . }}
-               {{ end }}
+               {{ end }}</h2>
             </div>
                <p class="card-text"> {{ .Summary | truncate 300 }} </p>
         <div class="row justify-content-between">
