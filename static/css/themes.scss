@@ -43,12 +43,11 @@
       border: 1px solid var(--text-color);
     }
 
-
     .btn-white {
       background-color: #FFF;
       border-radius: 50%;
-      height: 5.25em;
-      width: 5.25em;
+      height: 5.25rem;
+      width: 5.25rem;
     }
   
     .btn-yellow {
@@ -117,3 +116,35 @@
       height: 2.25em;
       width: 2.25em;
       }
+
+      @media (min-width: 20em) {
+
+      .btn-white {
+        height: 5rem;
+        width: 5rem;
+      }
+      
+      .btn-yellow {
+        height: 5em;
+        width: 5em;
+      }
+    
+      .btn-red {
+        height: 5em;
+        width: 5em;
+      }
+    
+      .btn-pink {
+        height: 5em;
+        width: 5em;
+      }
+    
+      .btn-green {
+        height: 5em;
+        width: 5em;
+      }
+      .btn-blue {
+        height: 5em;
+        width: 5em;
+      }
+    }
