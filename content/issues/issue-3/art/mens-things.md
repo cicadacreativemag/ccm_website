@@ -8,4 +8,4 @@ featuredImage: "/images/issue3/thumb/11_mensthings_thumb.jpg"
 type: art
 ---
 
-![image](/images/issue3/11_mensthings.jpg#issues)
+<a href = "/images/issue3/11_mensthings.jpg" data-lightbox="img">![image](/images/issue3/11_mensthings.jpg#issues)</a>

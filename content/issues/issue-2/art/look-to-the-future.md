@@ -8,4 +8,4 @@ featuredImage: "/images/issue2/thumb/35_future.jpg"
 type: art
 ---
 
-![image](/images/issue2/35_future.jpeg#issues)
+<a href = "/images/issue2/35_future.jpeg" data-lightbox="img">![image](/images/issue2/35_future.jpeg#issues)</a>

@@ -7,5 +7,4 @@ draft: false
 featuredImage: "/images/issue3/thumb/8_flows_thumb.jpg"
 type: art
 ---
-
-![image](/images/issue3/8_flows.jpg#issues)
+<a href = "/images/issue3/8_flows.jpg" data-lightbox="img">![image](/images/issue3/8_flows.jpg#issues)</a>

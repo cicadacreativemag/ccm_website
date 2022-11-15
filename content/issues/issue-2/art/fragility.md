@@ -8,4 +8,4 @@ featuredImage: "/images/issue2/transparent/22_bosch.png"
 type: art
 ---
 
-![image](/images/issue2/22_fragility.jpg#issues)
+<a href = "/images/issue2/22_fragility.jpg" data-lightbox="img">![image](/images/issue2/22_fragility.jpg#issues)</a>

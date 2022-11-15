@@ -8,4 +8,4 @@ featuredImage: "/images/issue3/transparent/9_miisla_thumb.png"
 type: art
 ---
 
-![image](/images/issue3/9_miisla.jpg#issues)
+<a href = "/images/issue3/9_miisla.jpg" data-lightbox="img">![image](/images/issue3/9_miisla.jpg#issues)</a>

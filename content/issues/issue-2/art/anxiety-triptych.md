@@ -8,4 +8,4 @@ featuredImage: "/images/issue2/transparent/40_polly.png"
 type: art
 ---
 
-![image](/images/issue2/40_polly_anxietytriptych.jpg#issues)
+<a href = "/images/issue2/40_polly_anxietytriptych.jpg" data-lightbox="img">![image](/images/issue2/40_polly_anxietytriptych.jpg#issues)</a>

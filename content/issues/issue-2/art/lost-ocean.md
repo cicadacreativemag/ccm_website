@@ -8,4 +8,4 @@ featuredImage: "/images/issue2/thumb/38_umi.jpg"
 type: art
 ---
 
-![image](/images/issue2/38_umi.jpg#issues)
+<a href = "/images/issue2/38_umi.jpg" data-lightbox="img">![image](/images/issue2/38_umi.jpg#issues)</a>

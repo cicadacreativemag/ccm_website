@@ -8,5 +8,5 @@ featuredImage: "/images/issue2/transparent/7_haley.png"
 type: art
 ---
 
-![image](/images/issue2/7_haley1.jpg#issues)
-![image](/images/issue2/7_haley2.jpg#issues)
+<a href = "/images/issue2/7_haley1.jpg" data-lightbox="img">![image](/images/issue2/7_haley1.jpg#issues)</a>
+<a href = "/images/issue2/7_haley2.jpg" data-lightbox="img">![image](/images/issue2/7_haley2.jpg#issues)</a>

@@ -8,4 +8,4 @@ featuredImage: "/images/issue2/thumb/16_judith.jpg"
 type: art
 ---
 
-![image](/images/issue2/16_judith.jpeg#issues)
+<a href = "/images/issue2/16_judith.jpeg" data-lightbox="img">![image](/images/issue2/16_judith.jpeg#issues)</a>

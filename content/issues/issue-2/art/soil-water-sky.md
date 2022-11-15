@@ -8,5 +8,5 @@ featuredImage: "/images/issue2/transparent/31_hillbrand.png"
 type: art
 ---
 
-![image](/images/issue2/31_hillbrand_soilwatersky1.jpg#issues)
-![image](/images/issue2/31_hillbrand_soilwatersky2.jpg#issues)
+<a href = "/images/issue2/31_hillbrand_soilwatersky1.jpg" data-lightbox="img">![image](/images/issue2/31_hillbrand_soilwatersky1.jpg#issues)</a>
+<a href = "/images/issue2/31_hillbrand_soilwatersky2.jpg" data-lightbox="img">![image](/images/issue2/31_hillbrand_soilwatersky2.jpg#issues)</a>

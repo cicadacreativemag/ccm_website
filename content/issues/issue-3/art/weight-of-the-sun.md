@@ -8,4 +8,4 @@ featuredImage: "/images/issue3/thumb/22_weightofthesun_thumb.jpg"
 type: art
 ---
 
-![image](/images/issue3/22_weightofthesun.jpg#issues)
+<a href = "/images/issue3/22_weightofthesun.jpg" data-lightbox="img">![image](/images/issue3/22_weightofthesun.jpg#issues)</a>

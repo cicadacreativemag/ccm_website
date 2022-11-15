@@ -8,4 +8,4 @@ featuredImage: "/images/issue2/transparent/17_Zynda.png"
 type: art
 ---
 
-![image](/images/issue2/17_alms.JPG#issues)
+<a href = "/images/issue2/17_alms.JPG" data-lightbox="img">![image](/images/issue2/17_alms.JPG#issues)</a>

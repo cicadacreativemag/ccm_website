@@ -8,4 +8,4 @@ featuredImage: "/images/issue2/thumb/42_townshipsfarmhouse.jpg"
 type: art
 ---
 
-![image](/images/issue2/42_townshipsfarmhouse.jpg#issues)
+<a href = "/images/issue2/42_townshipsfarmhouse.jpg" data-lightbox="img">![image](/images/issue2/42_townshipsfarmhouse.jpg#issues)</a>

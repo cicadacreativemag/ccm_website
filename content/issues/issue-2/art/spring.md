@@ -8,4 +8,4 @@ featuredImage: "/images/issue2/transparent/26_Kim.png"
 type: art
 ---
 
-![image](/images/issue2/26_spring.jpg#issues)
+<a href = "/images/issue2/26_spring.jpg" data-lightbox="img">![image](/images/issue2/26_spring.jpg#issues)</a>

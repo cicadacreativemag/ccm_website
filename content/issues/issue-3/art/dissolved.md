@@ -8,4 +8,4 @@ featuredImage: "/images/issue3/transparent/16_disolved_thumb.png"
 type: art
 ---
 
-![image](/images/issue3/16_disolved.jpg#issues)
+<a href = "/images/issue3/16_disolved.jpg" data-lightbox="img">![image](/images/issue3/16_disolved.jpg#issues)</a>

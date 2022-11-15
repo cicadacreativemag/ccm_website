@@ -7,4 +7,5 @@ draft: false
 featuredImage: "/images/issue3/transparent/20_mirror_thumb.png"
 type: art
 ---
-![image](/images/issue3/20_mirror.jpg#issues)
+
+<a href = "/images/issue3/20_mirror.jpg" data-lightbox="img">![image](/images/issue3/20_mirror.jpg#issues)</a>

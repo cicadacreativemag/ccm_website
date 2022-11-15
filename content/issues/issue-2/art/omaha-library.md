@@ -8,4 +8,4 @@ featuredImage: "/images/issue2/thumb/15_omahalibrary.jpg"
 type: art
 ---
 
-![image](/images/issue2/15_omahalibrary.png#issues)
+<a href = "/images/issue2/15_omahalibrary.png" data-lightbox="img">![image](/images/issue2/15_omahalibrary.png#issues)</a>

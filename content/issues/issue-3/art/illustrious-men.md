@@ -8,4 +8,4 @@ featuredImage: "/images/issue3/transparent/14_illustriousmen_thumb.png"
 type: art
 ---
 
-![image](/images/issue3/14_illustriousmen.jpg#issues)
+<a href = "/images/issue3/14_illustriousmen.jpg" data-lightbox="img">![image](/images/issue3/14_illustriousmen.jpg#issues)</a>

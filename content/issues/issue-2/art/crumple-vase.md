@@ -8,4 +8,4 @@ featuredImage: /images/issue2/transparent/1_nyback.png
 type: art
 ---
 
-![image](/images/issue2/1_crumplevase.jpg#issues)
+<a href = "/images/issue2/1_crumplevase.jpg" data-lightbox="img">![image](/images/issue2/1_crumplevase.jpg#issues)</a>

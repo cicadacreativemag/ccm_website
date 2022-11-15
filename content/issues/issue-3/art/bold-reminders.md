@@ -8,5 +8,6 @@ featuredImage: "/images/issue3/transparent/4_reminders_thumb.png"
 type: art
 ---
 
-![image](/images/issue3/4_reminders_1.jpg#issues)
-![image](/images/issue3/4_reminders_2.jpg#issues)
+<a href = "/images/issue3/4_reminders_1.jpg" data-lightbox="img">![image](/images/issue3/4_reminders_1.jpg#issues)</a>
+
+<a href = "/images/issue3/4_reminders_2.jpg" data-lightbox="img">![image](/images/issue3/4_reminders_2.jpg#issues)</a>

@@ -8,4 +8,4 @@ featuredImage: "/images/issue2/thumb/15_glimmerofhope.jpg"
 type: art
 ---
 
-![image](/images/issue2/15_glimmerofhope.jpg#issues)
+<a href = "/images/issue2/15_glimmerofhope.jpg" data-lightbox="img">![image](/images/issue2/15_glimmerofhope.jpg#issues)</a>
