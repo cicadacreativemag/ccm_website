@@ -1,7 +1,7 @@
 ---
 title: "Redecorate your Room! Find Your Inspo from 8 pieces of Interior Art"
 draft: false
-date: 2022-02-15T22:52:09-06:00
+date: 2022-03-15T23:00:28-06:00
 authors: ["Diane Kim, Creative Team Member"]
 layout: blog
 featuredImage: "/images/blog/redecorate.jpg"

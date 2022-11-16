@@ -395,9 +395,9 @@
       h1 {
     font-size: 210%;
     margin-top: 2vh; }
-      h4 {
-        font-size: 1em;
-        max-width: 20em;
+    h4 {
+     font-size: 1em;
+      max-width: 20em;
     }
     .ccm {
       font-size: 4.2em;
@@ -422,16 +422,12 @@
     margin-bottom: 15%;
     padding-top: 5%;
     }
-
     h4 {
-
+      font-size: 1em;
       max-width: 23em;
     }
     .index {
       margin-top: 18vh;
-    }
-    p {
-      font-size: 1em;
     }
     .ccm {
       font-size: 4.8em;
@@ -439,41 +435,41 @@
   }
 
   @media (min-width: 54em) {
-      .index {
-        margin-top: 10vh;
+    .index {
+      margin-top: 10vh;
       }
-       .ccm {
-          font-size: 4em;
+    .ccm {
+      font-size: 4em;
         }
   }
 
   @media (min-width: 64em) {
-      h1 {
-          font-size: 195%;
-      }
+    h1 {
+     font-size: 195%;
+    }
     h2 {
+      font-size: 1em;
+    }
+     h4 {
       font-size: 1em;
     }
     .ccm {
       font-size: 5.5em;
     }
-      h4 {
-        font-size: 1em;
+    .index {
+      margin-top: 15vh;
     }
-      .index {
-        margin-top: 15vh;
-      }
-      .button-group {
-        margin-top: 2.1em;
-      }
-      .enter {
-        width: 25rem;
-      }
-      .tiles-title {
-        font-size: 1.4em;
-        margin-top: 33%;
-        margin-bottom: 33%;
-        padding-top: 5%;
+    .button-group {
+      margin-top: 2.1em;
+    }
+    .enter {
+      width: 25rem;
+    }
+    .tiles-title {
+      font-size: 1.4em;
+      margin-top: 33%;
+      margin-bottom: 33%;
+      padding-top: 5%;
       }
   }
 
@@ -481,12 +477,10 @@
       h1 {
           font-size: 190%;
       }
-
       h4 {
         font-size: 1em;
         max-width: 18em;
       }
-
       .tiles-title {
         font-size: 1.7em;
         margin-top: 20%;

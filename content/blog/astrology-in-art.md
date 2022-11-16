@@ -1,7 +1,7 @@
 ---
 title: "Astrology in Art"
 draft: false
-date: 2022-03-15T23:00:28-06:00
+date: 2022-02-15T22:52:09-06:00
 authors: ["Gracie Neirynck, Publications Director"]
 layout: blog
 featuredImage: "/images/blog/astrology.jpg"

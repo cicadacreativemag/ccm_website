@@ -119,7 +119,7 @@
     font-weight: 500;
     padding: 1.75vh;
     margin-top: 4.5vh;
-    width:20rem;
+    max-width: 25em;
     animation: 1s ease-out 0s 1 slideInFromLeft;
   }
 
@@ -197,7 +197,8 @@
     }
 
 .button-group {
-    padding: 4px;
+  margin-top: 2em;
+    padding: 2px;
     animation: 1s ease-out 0s 1 slideInFromRight;
 }
   .navbar {
@@ -322,9 +323,6 @@
 
   .index {
     padding: 2vh;
-    vertical-align: middle;
-    align-items: center;
-    justify-content: center;
     }
 
   .ccm {
@@ -397,15 +395,23 @@
       h1 {
     font-size: 210%;
     margin-top: 2vh; }
-      h4 {
-        font-size: 0.9em;
-        max-width: 20em;
+    h4 {
+     font-size: 1em;
+      max-width: 20em;
     }
-    .index {
-      margin-top: 5vh;
+    .ccm {
+      font-size: 4.2em;
+      letter-spacing:-0.1rem;
     }
-    p {
-      font-size: 1em;
+    .enter {
+      width: 18em;
+    }
+    .button-group {
+      margin-top: 0.5em;
+      padding-left: -2em;
+    }
+    .container {
+      width: 100%;
     }
   }
 
@@ -416,63 +422,54 @@
     margin-bottom: 15%;
     padding-top: 5%;
     }
-    h2 {
-      font-size: 0.95em;
-    }
-    ul {
-      font-size: 0.95em;
-    }
     h4 {
-      font-size: 0.95em;
+      font-size: 1em;
       max-width: 23em;
     }
     .index {
-      margin-top: 8vh;
+      margin-top: 18vh;
     }
-    p {
-      font-size: 1em;
+    .ccm {
+      font-size: 4.8em;
     }
   }
 
   @media (min-width: 54em) {
-
-      .index {
-        margin-top: 10vh;
+    .index {
+      margin-top: 10vh;
       }
-
-      ul {
-        font-size: 0.95em;
-      }
-        p {
-          font-size: 0.95em;
+    .ccm {
+      font-size: 4em;
         }
   }
 
   @media (min-width: 64em) {
-      h1 {
-          font-size: 195%;
-      }
+    h1 {
+     font-size: 195%;
+    }
     h2 {
       font-size: 1em;
     }
-
-    ul {
+     h4 {
       font-size: 1em;
     }
-      p {
-        font-size: 1em;
-      }
-      h4 {
-        font-size: 1em;
+    .ccm {
+      font-size: 5.5em;
     }
-      .index {
-        margin-top: 15vh;
-      }
-      .tiles-title {
-        font-size: 1.4em;
-        margin-top: 33%;
-        margin-bottom: 33%;
-        padding-top: 5%;
+    .index {
+      margin-top: 15vh;
+    }
+    .button-group {
+      margin-top: 2.1em;
+    }
+    .enter {
+      width: 25rem;
+    }
+    .tiles-title {
+      font-size: 1.4em;
+      margin-top: 33%;
+      margin-bottom: 33%;
+      padding-top: 5%;
       }
   }
 
@@ -480,13 +477,9 @@
       h1 {
           font-size: 190%;
       }
-
       h4 {
         font-size: 1em;
         max-width: 18em;
-      }
-      p {
-        font-size: 1em;
       }
       .tiles-title {
         font-size: 1.7em;
