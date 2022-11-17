@@ -1,24 +1,10 @@
-setTimeout(function () {
-    var msnry = new Masonry('.grid');
-    msnry.layout();
-  }, 100);
-  
-  setTimeout(function () {
-    var msnry = new Masonry('.grid');
-    msnry.layout();
-  }, 300);
-  
-  setTimeout(function () {
-    var msnry = new Masonry('.grid');
-    msnry.layout();
-  }, 1000);
-  
-  setTimeout(function () {
-    var msnry = new Masonry('.grid');
-    msnry.layout();
-  }, 5000);
+// external js: masonry.pkgd.js, imagesloaded.pkgd.js
 
-  Promise.all(Array.from(document.images).filter(img => !img.complete).map(img => new Promise(resolve => { img.onload = img.onerror = resolve; }))).then(() => {
-    var msnry = new Masonry('.grid');
-    msnry.layout();
-  });
+// init Masonry after all images have loaded
+var $grid = $('.grid').imagesLoaded( function() {
+  $grid.masonry({
+    itemSelector: '.grid-item',
+    percentPosition: true,
+    columnWidth: '.grid-sizer'
+  }); 
+});
