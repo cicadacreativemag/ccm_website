@@ -94,13 +94,13 @@
   }
 
   h4 {
-    font-size:2em;
+    font-size:1em;
     font-style: italic;
     border-left: 1px solid var(--text-color);
     padding-left: 1em;
     margin-left: 1rem;
   }
-  
+
   h5 {
     font-weight: 700;
   }
@@ -141,15 +141,13 @@
 
   .tiles {
     border: 2px solid var(--text-color);
-    font-weight: 500;
-    border-radius: 0px;
+  max-width: 17.5rem;
     }
 
   .tiles-title {
     font-size: 2.2em;
     font-weight: 600;
     padding: 0vh 2vh;
-    max-height: 30em;
     margin-top: 36%;
     margin-bottom: 36%;
     text-align: center;
@@ -175,7 +173,7 @@
 
   img[src*="#issues"] {
     max-width: 100%;
-    max-height: 65vh;
+    max-height: 35rem;
     padding: 0.5em;
     display: flex;
     justify-content: center;
@@ -384,131 +382,6 @@
     color: var(--bg-color);
    } 
 
-  @media (min-width: 20em) {
-      h1 {
-    font-size: 210%;
-    margin-top: 2vh; }
-    h4 {
-     font-size: 1em;
-      max-width: 20em;
-    }
-    .ccm {
-      font-size: 4.2em;
-      letter-spacing:-0.1rem;
-    }
-    .enter {
-      width: 18em;
-    }
-    .button-group {
-      margin-top: 0.5em;
-      padding-left: -2em;
-    }
-    .container {
-      width: 100%;
-    }
-
-  }
-
-  @media (min-width: 30em) {
-   .tiles-title {
-    font-size: 1em;
-    margin-top: 15%;
-    margin-bottom: 15%;
-    padding-top: 5%;
-    }
-    h4 {
-      font-size: 1em;
-      max-width: 23em;
-    }
-    .index {
-      margin-top: 18vh;
-    }
-    .ccm {
-      font-size: 4.5em;
-    }
-    .enter {
-      width: 20em;
-    }
-  }
-
-  @media (min-width: 54em) {
-    .index {
-      margin-top: 10vh;
-      }
-    .ccm {
-      font-size: 4.3em;
-        }
-  }
-
-  @media (min-width: 64em) {
-    h1 {
-     font-size: 195%;
-    }
-    h2 {
-      font-size: 1em;
-    }
-     h4 {
-      font-size: 1em;
-    }
-    .ccm {
-      font-size: 4.9em;
-    }
-    .index {
-      margin-top: 15vh;
-    }
-    .button-group {
-      margin-top: 1.5em;
-    }
-    .enter {
-      width: 22rem;
-    }
-    .tiles-title {
-      font-size: 1.4em;
-      margin-top: 33%;
-      margin-bottom: 33%;
-      padding-top: 5%;
-      }
-  }
-
-  @media (min-width: 76.5em) {
-      h1 {
-          font-size: 190%;
-      }
-      h4 {
-        font-size: 1em;
-        max-width: 18em;
-      }
-      .tiles-title {
-        font-size: 1.7em;
-        margin-top: 20%;
-        margin-bottom: 20%;
-        padding-top: 15%;
-      }
-      .ccm {
-        font-size: 5em;
-      }
-      .enter {
-        width: 25rem;
-      }
-  }
-
-  @media (min-width: 114em) {
-      h1 {
-          font-size: 220%;
-      }
-      h4 {
-        max-width: 35em;
-      }
-      .index { 
-        margin-top: 18vh;
-      }
-      .tiles-title {
-        font-size: 2.1em;
-        margin-top: 25%;
-        margin-bottom: 25%;
-        padding-top: 5%;
-      }
-  }
 
   .footer {
     border-top: 1.5px solid var(--text-color);
@@ -583,6 +456,123 @@
   #contact textarea:focus {
     outline: 0;
     }
+
+    @media (min-width: 20em) {
+      h1 {
+        font-size: 210%;
+        margin-top: 2vh; 
+      }
+      .ccm {
+        font-size: 4.2em;
+        letter-spacing:-0.1rem;
+      }
+      .enter {
+        width: 18em;
+      }
+      .button-group {
+        margin-top: 0.5em;
+        padding-left: -2em;
+      }
+      .container {
+        width: 100%;
+      }
+      .tiles {
+        max-width: 18.5rem;
+      }
+    }
   
-
-
+    @media (min-width: 30em) {
+     .tiles-title {
+      font-size: 1em;
+      margin-top: 15%;
+      margin-bottom: 15%;
+      padding-top: 5%;
+      }
+      .index {
+        margin-top: 18vh;
+      }
+      .ccm {
+        font-size: 4.5em;
+      }
+      .enter {
+        width: 20em;
+      }
+    }
+  
+    @media (min-width: 54em) {
+      .index {
+        margin-top: 10vh;
+        }
+      .ccm {
+        font-size: 4.3em;
+          }
+     .tiles {
+        max-width: 14rem;
+          }
+    }
+  
+    @media (min-width: 64em) {
+      h1 {
+       font-size: 195%;
+      }
+      h2 {
+        font-size: 1em;
+      }
+      .ccm {
+        font-size: 4.9em;
+      }
+      .index {
+        margin-top: 15vh;
+      }
+      .button-group {
+        margin-top: 1.5em;
+      }
+      .enter {
+        width: 22rem;
+      }
+      .tiles-title {
+        font-size: 1.4em;
+        margin-top: 33%;
+        margin-bottom: 33%;
+        padding-top: 5%;
+        }
+      .tiles {
+        max-width: 17.5rem;
+            }
+    }
+  
+    @media (min-width: 76.5em) {
+        h1 {
+            font-size: 190%;
+        }
+        h4 {
+          max-width: 30em;
+        }
+        .tiles-title {
+          font-size: 1.7em;
+          margin-top: 20%;
+          margin-bottom: 20%;
+          padding-top: 15%;
+        }
+        .ccm {
+          font-size: 5.2em;
+        }
+        .enter {
+          width: 25rem;
+        }
+    }
+  
+    @media (min-width: 114em) {
+        h1 {
+            font-size: 220%;
+        }
+        .index { 
+          margin-top: 18vh;
+        }
+        .tiles-title {
+          font-size: 2.1em;
+          margin-top: 25%;
+          margin-bottom: 25%;
+          padding-top: 5%;
+        }
+    }
