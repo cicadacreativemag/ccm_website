@@ -118,7 +118,7 @@
     font-family: 'Inconsolata', monospace;
     font-weight: 500;
     padding: 1.75vh;
-    margin-top: 4.5vh;
+    margin-top: 2em;
     max-width: 25em;
     animation: 1s ease-out 0s 1 slideInFromLeft;
   }
@@ -244,13 +244,7 @@
     color: var(--text-color);
   }
 
-  .socials{
-    margin-top: 1.5em;
-    padding: -0.5em;
-  }
-
   #mc_embed_signup_scroll {
-    color: var(--text-color);
     font-size: 0.75em;
   }
 
@@ -297,7 +291,6 @@
 
   .clear {
     display: inline-block;
-    color: var(--text-color);
   }
 
   input.button {
@@ -413,6 +406,7 @@
     .container {
       width: 100%;
     }
+
   }
 
   @media (min-width: 30em) {
@@ -430,7 +424,10 @@
       margin-top: 18vh;
     }
     .ccm {
-      font-size: 4.8em;
+      font-size: 4.5em;
+    }
+    .enter {
+      width: 20em;
     }
   }
 
@@ -439,7 +436,7 @@
       margin-top: 10vh;
       }
     .ccm {
-      font-size: 4em;
+      font-size: 4.3em;
         }
   }
 
@@ -454,16 +451,16 @@
       font-size: 1em;
     }
     .ccm {
-      font-size: 5.5em;
+      font-size: 4.9em;
     }
     .index {
       margin-top: 15vh;
     }
     .button-group {
-      margin-top: 2.1em;
+      margin-top: 1.5em;
     }
     .enter {
-      width: 25rem;
+      width: 22rem;
     }
     .tiles-title {
       font-size: 1.4em;
@@ -486,6 +483,12 @@
         margin-top: 20%;
         margin-bottom: 20%;
         padding-top: 15%;
+      }
+      .ccm {
+        font-size: 5em;
+      }
+      .enter {
+        width: 25rem;
       }
   }
 

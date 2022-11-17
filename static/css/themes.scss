@@ -46,39 +46,39 @@
     .btn-white {
       background-color: #FFF;
       border-radius: 50%;
-      height: 5.25rem;
-      width: 5.25rem;
+      height: 5.3rem;
+      width: 5.3rem;
     }
   
     .btn-yellow {
       background-color: #FFF380;
       border-radius: 50%;
-      height: 5.25em;
-      width: 5.25em;
+      height: 5.3em;
+      width: 5.3em;
     }
   
     .btn-red {
       background-color: #fc723f;
-      height: 5.25em;
-      width: 5.25em;
+      height: 5.3em;
+      width: 5.3em;
     }
   
     .btn-pink {
       background-color: #f3a49e;
-      height: 5.25em;
-      width: 5.25em;
+      height: 5.3em;
+      width: 5.3em;
     }
   
     .btn-green {
       background-color: #94EFA2;
-      height: 5.25em;
-      width: 5.25em;
+      height: 5.3em;
+      width: 5.3em;
     }
   
     .btn-blue {
       background-color: #5b72f5;
-      height: 5.25em;
-      width: 5.25em;
+      height: 5.3em;
+      width: 5.3em;
     }
     
     .btn-nav-white {
@@ -117,34 +117,69 @@
       width: 2.25em;
       }
 
-      @media (min-width: 20em) {
 
+    @media (min-width: 20em) {
       .btn-white {
-        height: 5rem;
-        width: 5rem;
+        height: 4.75rem;
+        width: 4.75rem;
       }
       
       .btn-yellow {
-        height: 5em;
-        width: 5em;
+        height: 4.75rem;
+        width: 4.75rem;
       }
     
       .btn-red {
-        height: 5em;
-        width: 5em;
+        height: 4.75rem;
+        width: 4.75rem;
       }
     
       .btn-pink {
-        height: 5em;
-        width: 5em;
+        height: 4.75rem;
+        width: 4.75rem;
       }
     
       .btn-green {
-        height: 5em;
-        width: 5em;
+        height: 4.75rem;
+        width: 4.75rem;
       }
+      
       .btn-blue {
-        height: 5em;
-        width: 5em;
+        height: 4.75rem;
+        width: 4.75rem;
+      }
+    }
+
+    @media (min-width: 64em) {
+      .button-group {
+        margin-top: -0.1em;
+      }
+      .btn-white {
+        height: 5.3rem;
+        width: 5.3rem;
+      }
+      .btn-yellow {
+        height: 5.3rem;
+        width: 5.3rem;
+      }
+    
+      .btn-red {
+        height: 5.3rem;
+        width: 5.3rem;
+      }
+    
+      .btn-pink {
+        height: 5.3rem;
+        width: 5.3rem;
+      }
+    
+      .btn-green {
+        height: 5.3rem;
+        width: 5.3rem;
+      }
+      
+      .btn-blue {
+        height: 5.3rem;
+        width: 5.3rem;
       }
     }

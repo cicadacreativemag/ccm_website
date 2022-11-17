@@ -33,17 +33,13 @@
             <div class="card border-color">
                 <div class="card-body">
                     <h5 class="card-title">SUBMISSIONS CLOSED</h5>
-                        <p class="card-text">Submissions are currently closed, but they will be opening in January. For our next issue, we are opening submissions to anyone anywhere. Stay tuned!
+                        <p class="card-text">Submissions are currently closed, but they will be opening in January. For our next issue, we are opening submissions to everyone. Stay tuned!
                         </p>
                             <p class="card-text"><small class="text-muted"><a href="/submit">Read more here <i class='fa fa-long-arrow-right'></i></small></a></p>
                         </div>
                     </div>
                 </div>  
     
-
-
-
-
 
         <!-- APPLICATIONS    
         <div class="col-sm-4 py-3">
@@ -58,21 +54,19 @@
 -->
 
 
-
   <!-- TWITTER 
   <div class="col-sm-4 py-3">
     <div class="card border-color">
         <div class="card-body">
             <h3 class="card-title">TWITTER FEED</h3>
             <p class="card-text">
-          
-    <a class="twitter-timeline" data-width="1200" data-height="500" data-theme="dark" href="https://twitter.com/cicadacreatemag?ref_src=twsrc%5Etfw">Tweets by cicadacreatemag</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
+    <a class="twitter-timeline" data-width="1200" data-height="20em" data-theme="dark" href="https://twitter.com/cicadacreatemag?ref_src=twsrc%5Etfw">Tweets by cicadacreatemag</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
              </p>
         </div>
     </div>
-</div> 
+</div>    -->
 
-  --> 
+
         <!-- BLOG POST UPDATES -->
         <div class="col-sm-4 py-3">
             <div class="card border-color">
@@ -81,7 +75,7 @@
                     {{- range ( where site.RegularPages "Section" "blog" | first 2 ) }}
                     <img class="img-fluid rounded" src="{{ .Param `featuredImage` }}" alt="featured image">
                 <div class="card-body">
-                    <h3 class="card-title">{{ .Title }}</h3>
+                    <h3 class="card-title">{{ .Title | truncate 26 }}</h3>
                         <div class="card-subtitle mb-2">
                         <i> {{ range .Param "authors" }}
                             {{ . }}
@@ -106,7 +100,7 @@
                 <div class="card-body">
                     <h3 class="card-title">SPOTIFY PLAYLIST</h3>
                     <p class="card-text">Check out our collaborative playlist!</p>
-                    <iframe style="border-radius:0px" src="https://open.spotify.com/embed/playlist/4a8Nhz7K81x9oUc3uOQgIN?utm_source=generator" width="100%" height="450" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+                    <iframe style="border-radius:0px" src="https://open.spotify.com/embed/playlist/4a8Nhz7K81x9oUc3uOQgIN?utm_source=generator" width="100%" height="440" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
                 </div>
             </div>
         </div>
