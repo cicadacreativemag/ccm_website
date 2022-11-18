@@ -1,4 +1,4 @@
-$('#container').imagesLoaded()
+$('.container').imagesLoaded()
   .always( function( instance ) {
     console.log('all images loaded');
   })
