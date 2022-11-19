@@ -2,10 +2,11 @@
 {{- partial "menu.html" . -}}
 <div class="container">
     {{.Content}}
-     <div class="row" data-masonry='{"percentPosition": true }'>
+
+     <div class="row masonry">
 
         <!-- ISSUE 06 RELEASE -->
-        <div class="col-sm-4 py-3">
+        <div class="col-sm-4 py-3 item">
             <div class="card">
                 <img src="/images/issue6/thumb/ccm6_cover.jpg" class="img-fluid" alt="...">
                 <div class="card-body">
@@ -17,7 +18,7 @@
             </div>
 
   <!-- DISCORD  -->  
-  <div class="col-sm-4 py-3">
+  <div class="col-sm-4 py-3 item">
     <div class="card border-color">
         <div class="card-body">
             <h5 class="card-title">JOIN OUR DISCORD</h5>
@@ -29,7 +30,7 @@
         </div> 
         
         <!-- SUBMISSIONS  --> 
-        <div class="col-sm-4 py-3">
+        <div class="col-sm-4 py-3 item">
             <div class="card border-color">
                 <div class="card-body">
                     <h5 class="card-title">SUBMISSIONS CLOSED</h5>
@@ -68,7 +69,7 @@
 
 
         <!-- BLOG POST UPDATES -->
-        <div class="col-sm-4 py-3">
+        <div class="col-sm-4 py-3 item">
             <div class="card border-color">
                 <div class="card-body">
                     <h3 class="card-title">RECENT BLOG POSTS</h3>
@@ -94,7 +95,7 @@
 
         
         <!-- SPOTIFY -->
-        <div class="col-sm-4 py-3">
+        <div class="col-sm-4 py-3 item">
             <div class="card border-color">
                 <div class="card-body">
                     <h3 class="card-title">SPOTIFY PLAYLIST</h3>
@@ -105,7 +106,7 @@
         </div>
 
         <!-- UQUIZ -->
-        <div class="col-sm-4 py-3">
+        <div class="col-sm-4 py-3 item">
             <div class="card border-color">
                 <div class="card-body">
                         <h3 class="card-title">WHICH CICADA ARE YOU?</h3>
