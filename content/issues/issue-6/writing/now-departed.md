@@ -1,7 +1,7 @@
 ---
 weight: 15
 title: "Now, Departed"
-authors: ["Tim Tan"]
+authors: ["Mitt Ann"]
 description: Poem
 draft: false
 type: writing

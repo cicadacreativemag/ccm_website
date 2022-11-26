@@ -23,7 +23,7 @@ I've always wanted CCM to have a web developer--a real one. I was the one who'd 
 
 A forced month offline seemed like the perfect time to learn. I'd rebuild the website, we'd publish once we got our domain name back, and the hiccup in our timeline would be so small it'd hardly even be noticeable. 
 
-Anyways, it took more like five months. I had so much to learn it made my head spin. I still have a lot to learn. But I feel more confident in CCM's longevity and stability than I have since we launched, and this newfound agency has made it easier for us to do some organizational soul searching. It also enabled me to set up a blog that *isn't* on Tumblr (big win).
+Anyways, it took several months. I had so much to learn it made my head spin. I still have a lot to learn. But I feel more confident in CCM's longevity and stability than I have since we launched, and this newfound agency has made it easier for us to do some organizational soul searching. It also enabled me to set up a blog that *isn't* on Tumblr (big win).
 
 We decided that in the spirit of growth, we will open CCM to everyone everwhere. Issue 07 will be our first ever issue open to students and non-students alike. Staff applications will also be accessible to the public. 
 

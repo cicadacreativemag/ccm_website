@@ -56,8 +56,6 @@ I enjoy a researched based approach which integrates sound as well as sculptural
     Poem<br>
      <a href="/issue-6/banana-slug-tongue/"><em>Banana Slug Tongue</em></a><br>
     Poem<br>
-         <a href="/issue-6/orphaned/"><em>Orphaned</em></a><br>
-    Poem<br>
      </div>
 
 <div class="contributors">
@@ -77,6 +75,16 @@ The colors and techniques that I can use with the this medium give me an opportu
     My name is Kaela Keller, and I specialize in visual development and illustration. I enjoy designing characters and narrative scenes, as I love to tell stories through my work. I hope to inspire others with the visual tales I create, and have a rockin’ time doing so!<br><br>
     <a href="/issue-6/sense-of-place/"><em>Sense of Place</em></a><br>
       Digital Illustration  <br>
+     </div>
+
+<div class="contributors">
+ <strong> Oladejo Abdullah Feranmi </strong><br>
+  <em>University of Ibadan, Nigeria, 2026<br>
+    Veterinary Medicine</em><br> <br>
+    Oladejo Abdullah Feranmi is a DVM student at the University of Ibadan, Nigeria. Pursuing his enthusiasm for poetry, He has his works published/Forthcoming in Poet's choice, Echo mag, and a few more. He reads at the sea glass lit and edits for the incognito. He tweets from @OladejoAFeranmi
+<br><br>
+    <a href="/issue-6/when-the-clock-rings-alarming-alarms/"><em>When the clock rings alarming alarms</em></a><br>
+      Poem<br>
      </div>
 
 <div class="contributors">
@@ -105,6 +113,7 @@ The colors and techniques that I can use with the this medium give me an opportu
  <strong>Timothy Tan</strong><br>
   <em>National University of Singapore, 2022<br>
     Social Work</em><br> <br>
+    Mitt Ann is a writer based in Singapore. Influenced by T. S. Eliot, Derek Walcott and Marianne Moore, his works have been published in various literary journals. His works can be found on <a href="mitt-ann.com">mitt-ann.com.</a> <br><br>
     <a href="/issue-6/god-speaks/"><em>God Speaks</em></a><br>
     Poem<br>
     <a href="/issue-6/now-departed/"><em>Now, Departed</em></a><br>

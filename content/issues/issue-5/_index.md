@@ -3,7 +3,7 @@ title: "Issue 05: Catharsis"
 draft: false
 date: 2021-12-14T02:03:11-06:00
 layout: issue-page
-featuredImage: /images/issue5/issue-5-cover.png
+featuredImage: /images/issue5/thumb/issue-5-cover.png
 summary:  For Issue 05, Cicada Creative Magazine hopes that we can provide a space for undergraduates to emotionally decompress and sift through emotions that are too heavy to hold.
 ---
 

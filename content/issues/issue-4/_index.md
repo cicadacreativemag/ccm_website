@@ -3,7 +3,7 @@ title: "Issue 04: (neg)entropy"
 date: 2021-06-14T02:03:11-06:00
 draft: false
 layout: issue-page
-featuredImage: /images/issue4/cover.jpg
+featuredImage: /images/issue4/thumb/cover.jpg
 summary:  In a world propelled by energy and disarray, this issue attempts to honor loss, memory, irreversibility, and the disordered order we try to grab ahold of. 
 ---
 

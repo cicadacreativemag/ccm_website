@@ -6,7 +6,7 @@
   <div class="row justify-content-start masonry">  
    {{ range .Pages }}
     <div class="col-sm-6 p-3 item">
-      <div class="card">
+      <div class="card" >
        <img class="img-fluid rounded" src="{{ .Param `featuredImage` }}" alt="featured image">
           <div class="card-body">
             <div class="card-title">
@@ -32,5 +32,6 @@
       {{ end }}
    </div>
 </div>
+
 {{- partial "footer.html" . -}}
 {{ end }}

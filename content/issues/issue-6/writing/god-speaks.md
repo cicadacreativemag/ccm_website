@@ -1,7 +1,7 @@
 ---
 weight: 3
 title: "God Speaks"
-authors: ["Timothy Tan"]
+authors: ["Mitt Ann"]
 description: Poem
 draft: false
 type: writing

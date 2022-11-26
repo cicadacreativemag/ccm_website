@@ -1,6 +1,4 @@
-@import "node_modules/bootstrap/scss/bootstrap.scss";
-
-  html {
+html {
     box-sizing: border-box;
     overflow-x: hidden;
     }
@@ -52,6 +50,7 @@
     height: 100%;
     animation: 0.8s ease-out 0s 1 fadeInAnimation;
   }
+  
 
   a {
     color: var(--text-color);
@@ -196,8 +195,6 @@
     }
 
 .button-group {
-  margin-top: 2em;
-    padding: 2px;
     animation: 1s ease-out 0s 1 slideInFromRight;
 }
   .navbar {
@@ -498,6 +495,7 @@
       .enter {
         width: 20em;
       }
+
     }
   
     @media (min-width: 54em) {
@@ -509,6 +507,9 @@
           }
      .tiles {
         max-width: 14rem;
+          }
+          .button-group {
+            margin-top: 1em;
           }
     }
   

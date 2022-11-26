@@ -3,7 +3,7 @@ title: "Issue 02: Moment of Impact"
 date: 2019-12-20T15:25:31-06:00
 draft: false
 layout: issue-page
-featuredImage: /images/issue2/cover2.JPG
+featuredImage: /images/issue2/thumb/cover-2.JPG
 summary: Hello again. We're happy to announce that, for the second time, Cicada Creative Magazine has published an all-arts, all-welcome, all-heart issue.
 ---
 
