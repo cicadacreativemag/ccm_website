@@ -2,7 +2,7 @@
 weight: 15
 title: "Now, Departed"
 authors: ["Mitt Ann"]
-description: Poem
+description: Poem. Previously published in Manastash Literary, Spring 2022.
 draft: false
 type: writing
 ---

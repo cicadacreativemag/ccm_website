@@ -2,7 +2,7 @@
 weight: 3
 title: "God Speaks"
 authors: ["Mitt Ann"]
-description: Poem
+description: Poem. Previously published in Armstrong Literary, Spring 2022.
 draft: false
 type: writing
 ---

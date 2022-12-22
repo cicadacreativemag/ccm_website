@@ -110,12 +110,12 @@ The colors and techniques that I can use with the this medium give me an opportu
 
 
 <div class="contributors">
- <strong>Timothy Tan</strong><br>
+ <strong>Mitt Ann</strong><br>
   <em>National University of Singapore, 2022<br>
     Social Work</em><br> <br>
     Mitt Ann is a writer based in Singapore. Influenced by T. S. Eliot, Derek Walcott and Marianne Moore, his works have been published in various literary journals. His works can be found on <a href="mitt-ann.com">mitt-ann.com.</a> <br><br>
     <a href="/issue-6/god-speaks/"><em>God Speaks</em></a><br>
-    Poem<br>
+    Poem, previously published in Armstrong Literary, Spring 2022.<br>
     <a href="/issue-6/now-departed/"><em>Now, Departed</em></a><br>
-    Poem <br>
+    Poem, previously published in Manastash Literary, Spring 2022. <br>
      </div>
