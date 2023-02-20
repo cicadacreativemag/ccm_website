@@ -7,7 +7,7 @@ layout: page
 
 # SUBMIT
 
-## Submissions are currently closed. They will open in January 2023, so check back soon.
+## Submissions are currently closed. They will open in March 2023, so check back soon.
 
 Here at CCM, we’ve branded ourselves as more than a literary magazine. We aim to reach beyond traditional definitions of art and writing. So, we've reimagined artistic categories as the following:
 
