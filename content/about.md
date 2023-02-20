@@ -22,3 +22,30 @@ Submissions open twice a year, typically in the spring and fall. At the end of e
 We acknowledge that art doesn't always come box-shaped, perfectly ready to fall into a category. Cicada Creative Magazine exists to showcase that artistic exploration and novelty.
 
 We hope to broadcast each and every way you make your mark on our world.
+
+<div class="row">
+
+<div class="col-sm-8">
+
+# GOALS
+## One of the ways we stay tethered to our mission is by putting our ideals down to paper and committing to specific goals that we want to move toward together. CCM aims to:
+
+- Create an accessible space for creative people anywhere to build community and share art.
+- Eliminate traditional barriers for artists, such as educational and financial requirements.
+- Build a sustainable project that can long outlive its original creators.
+- Craft a unique visual and personal brand for our community.
+- Collaborate with other creative publications and help to build a coalition of welcoming, inclusive mags/zines/etc.
+
+</div>
+
+<div class="col-sm-4">
+
+# GET IN TOUCH
+## Questions? Comments? Concerns? Let us know; we value your input! If you'd like to reach out to the staff at CCM, you can:
+- Email us at <u>[info@cicadacreativemag.com](mailto:info@cicadacreativemag.com)</u>
+- Join our <u>[Discord server](https://discord.gg/sgneFPdpNh)</u>
+- DM us on <u>[Twitter](https://twitter.com/cicadacreatemag)</u>
+- DM us on <u>[Instagram](https://www.instagram.com/cicadacreativemag/)</u>
+</div>
+
+</div>
