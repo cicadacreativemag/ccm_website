@@ -9,4 +9,4 @@ layout: staff
 
 ## Meet the team behind CCM!
 
- While the beating heart of Cicada is our creative community, we want you to know who looks over the editorial process, from selecting our themes to curating each publication. We also want to let you know applications are open! You can visit <u>[our documentation](https://docs.cicadacreativemag.com/#ccm_staff)</u> for more information on which positions are open and what they entail. You can also find application links there or on our server.
+ While the beating heart of Cicada is our creative community, we want you to know who looks over the editorial process, from selecting our themes to curating each publication. We also want to let you know applications are open! You can visit <u>[our documentation](https://docs.cicadacreativemag.com/docs/staff-and-membership/)</u> for more information on which positions are open and what they entail. You can also find application links there or on our server.

@@ -31,7 +31,9 @@ Here at CCM, we’ve branded ourselves as more than a literary magazine. We aim 
     - Architectural layouts
     - Interior design    
 - **Language**
-    - Poetry, flash fiction, etc.
+    - Poetry
+    - Flash fiction
+    - Short stories
     - Reporting or feature writing
     - Written sheet music
  </div>
@@ -39,9 +41,11 @@ Here at CCM, we’ve branded ourselves as more than a literary magazine. We aim 
  <div class="col-sm-6">
 
 - **Visual**
-    - Computer generated images
+    - Video games, visual novels
+    - Coding/programming
+    - Computer generated imagery
     - Culinary art
-    - Games and programming
+    - Character design
     - Textiles, clothing, and fashion design
     - Cosmetology
 - **Cultural/Social**
@@ -53,7 +57,6 @@ Here at CCM, we’ve branded ourselves as more than a literary magazine. We aim 
 
 You can combine elements of these categories -- several of the examples we provided can fall into multiple categories, and we encourage you not to let these categories limit you. If you are able to create work that exists completely outside of these categories, we will gladly review your submitted work with care and openness.
 </div>
-
 
 <div class="col-sm-6">
 
@@ -68,6 +71,6 @@ You can combine elements of these categories -- several of the examples we provi
  - If you are submitting visual art, please be sure to submit high-quality images. 150 to 300 ppi is ideal. 
 - 15,000 word limit on writing.
 - Work may be previously published, but you must clarify this on your submission and include a source as to where the work has been previously published. Please also ensure the other publication permits you to re-publish the piece.
-</div>
+- **Note on AI-generated work:** AI-generated art is still a nascent technology and, as such, our standards are subject to change. We currently allow AI-generated work as long as the AI has been exclusively trained with <u>your</u> work. Please be purposeful, ethical, and creative with any implementations of this technology for submission purposes, and clarify in your submission it is AI-generated. 
 
 </div>
