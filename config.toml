@@ -26,7 +26,8 @@
       target = "assets/js/bootstrap.bundle.min.js"
       
  [frontmatter]
-    date = ["date", "publishDate"]
+    date = ["date", "publishDate", "lastmod"]
+    lastmod = ["lastmod", ":fileModTime", ":default"]
 
   sectionPagesMenu = "main"
   [menu]
