@@ -11,7 +11,7 @@ summary: Our Discord server got a makeover, we have the beginnings of some prope
 # Roadmap: What's next?
 ## Jay Serrano, Editorial Director
 
-Hello, all! It's been a minute. We've been hard at work here at CCM, and we're happy to present to you a few updates and upcoming plans.
+Hello, all! It's been a minute. We've been hard at work here at CCM, and a few things have changed. Our Discord server got a makeover, we have the beginnings of some proper documentation, polls for Issue 07’s theme are live, and staff applications are open! But there’s lots more coming.
 
 ##### *What's new*:
 <!-- Section: Timeline -->
