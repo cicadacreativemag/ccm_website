@@ -39,7 +39,7 @@ Speaking of which, we now have some <u><a href="https://docs.cicadacreativemag.c
 <li class="timeline-item mb-5">
       <h5 class="fw-bold">Issue 07 theme poll</h5>
       <p>
-We pitched theme conceps and voted amongst ourselves, and the top two were:
+We pitched theme concepts and voted amongst ourselves, and the top two were:
 
 - **Waste**: kitsch, hot messes, waste of time/space, decadent disgust
 - **"You are here"**: maps, wayfinding, identity
