@@ -10,9 +10,9 @@ type: writing
   <em>University of California, Santa Barbara 2023<br>
     Art</em><br> <br>
    I like creating works that play with the unreal and with what we don't know. I'm drawn to all things nonsensical, from eerie off-putting creatures to dreamlike scenarios. <br><br>
-    <a href="/issue5/year-to-year/"><em>Year to Year</em></a><br>
+    <a href="/issue-5/year-to-year/"><em>Year to Year</em></a><br>
     Gouache on bristol, 8" x 10"<br>
-    <a href="/issue5/issue-05-cover/"><em>Issue 05 Cover</em></a><br>
+    <a href="/issue-5/issue-05-cover/"><em>Issue 05 Cover</em></a><br>
     Digital<br></div>
 
 <div class="contributors">
