@@ -9,7 +9,7 @@ summary: In my many years as a creative-driven being, I’ve discovered that I h
 ---
 
 # Top 10 Tattoo Artists That Make Me Want to Cover My Skin in Ink
-## Peyton Farnum, Creative Team Member
+> Peyton Farnum, Creative Team Member
 
 In my many years as a creative-driven being, I’ve discovered that I have a great affinity for tattoo art. Tattoo practice is something that is taboo in our society because of its permanence. However, tattoo artists are just as credible as other artists, and their art is worthy of admiration and respect! Especially because there is much effort and tireless work that goes into being a professional tattoo artist. 
 

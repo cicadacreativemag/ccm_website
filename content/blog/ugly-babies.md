@@ -9,8 +9,7 @@ summary: Anyone visiting an art museum or studying art history has probably enco
 ---
 
 # Scoring ugly babies across art history
-## Anna Dunn, Managing Editor
-
+> Anna Dunn, Managing Editor
 
 Anyone visiting an art museum or studying art history has probably encountered a weirdly shaped baby at some point in their life. These long-limbed babies, resembling a small man or wrinkly sock puppet, are a common staple of art from the Middle Ages all the way up into the Renaissance. It seems that no matter the style or medium, European artists could never quite get babies right. 
 

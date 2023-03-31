@@ -9,7 +9,7 @@ summary: The way a room is decorated can have everything to do with how you feel
 ---
 
 # Redecorate your Room! Find Your Inspo from 8 pieces of Interior Art
-## Diane Kim, Creative Team Member
+> Diane Kim, Creative Team Member
 
 The way a room is decorated can have everything to do with how you feel when you are in it. Blue painted walls might evoke feelings of tranquility and peace. For some, it might make them feel melancholy. Artists have been able to express the different types of beauty and feelings that are brought on from colors, shapes, and designs in interior design. Explore these 8 interior related art pieces to find what rooms you resonate emotionally with best, but also to gain inspiration for a new look to your room!
 

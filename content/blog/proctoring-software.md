@@ -9,7 +9,7 @@ summary: As you all know, COVID. In response to the lack of in-person interactio
 ---
 
 # Proctoring software is a nightmare for students. It doesn’t have to be this way.
-## Jay Serrano, Editorial Director
+> Jay Serrano, Editorial Director
 
 
 As

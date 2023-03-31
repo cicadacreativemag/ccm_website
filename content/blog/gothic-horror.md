@@ -9,7 +9,7 @@ summary: Gothic art may make you think of poorly painted Medieval friezes, but t
 ---
 
 # Gothic Influence in Horror Art
-## Gracie Neirynck, Publications Director
+> Gracie Neirynck, Publications Director
 
 Gothic art may make you think of poorly painted Medieval friezes, but this spooky season, let’s think about another form of Gothic art. Art inspired by the themes of Gothic fiction, also known as Gothic Horror. Read more to see the work of 6 talented artists who evoke the Gothic themes of sadness, fear, and terror in their work.
 

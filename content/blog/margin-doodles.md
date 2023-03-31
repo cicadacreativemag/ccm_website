@@ -9,7 +9,7 @@ summary: Sometimes stress can take hold of you, reaching its withering hands aro
 ---
 
 # Margin Doodles of a Monster Named Stress
-## Gracie Neirynck, Publications Director
+> Gracie Neirynck, Publications Director
 
 Sometimes stress can take hold of you, reaching its withering hands around your body, plucking at your heartstrings like it’s playing guitar. If you’re like me (unprepared and disorganized), then the beginning of the school year can be particularly stressful. The stress monster can linger at the corner of your eyes, fading into a haze when you try to look at it head on.
 

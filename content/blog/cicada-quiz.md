@@ -9,7 +9,7 @@ summary: Made for fun! Brought to you by Cicada Creative Magazine. CW // photos 
 ---
 
 # Which Cicada are you?
-## Jay Serrano, Editorial Director
+> Jay Serrano, Editorial Director
 
 Made for fun! Brought to you by Cicada Creative Magazine. CW // photos of bugs.
 

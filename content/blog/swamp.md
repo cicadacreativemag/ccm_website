@@ -9,7 +9,7 @@ summary: I love wildlife. I have ever since I was a child.
 ---
 
 # How the Swamp Inspired Me
-## Peyton Farnum, Creative Team Member
+> Peyton Farnum, Creative Team Member
 
 I love wildlife. I have ever since I was a child.
 

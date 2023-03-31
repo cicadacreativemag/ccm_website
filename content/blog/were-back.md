@@ -9,7 +9,7 @@ summary: First things first--go read [Issue 06](/issues/issue-6/)! It's great an
 ---
 
 # We're Back! Issue 06 and moving forward
-## Jay Serrano, Editorial Director/Web Developer
+> Jay Serrano, Editorial Director/Web Developer
 
 First things first--go read <u>[Issue 06](/issues/issue-6/)</u>! It's great and everyone worked really hard on it. 
 

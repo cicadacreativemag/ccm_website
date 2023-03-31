@@ -10,7 +10,7 @@ summary: When global lockdowns were put into place, the world felt a little safe
 ---
 
 # The Shadow Pandemic: The Worldwide Increase in Domestic Abuse
-## Katrina Clasen, Design Editor
+> Katrina Clasen, Design Editor
 
 When global lockdowns were put into place, the world felt a little safer with the pandemic seemingly contained; however, closed doors and 24/7 confinement bred a much more sinister affliction. The UN has depicted the worldwide increase in domestic violence as a "shadow pandemic" parallel to COVID-19, saying cases of domestic abuse during the pandemic have increased by 20 percent.These numbers can only reflect the reported cases. Stress and isolation generate incendiary tensions and an absence of privacy subjects many survivors to more intimate scrutiny by their abuser, making it hard to reach out for help.
 

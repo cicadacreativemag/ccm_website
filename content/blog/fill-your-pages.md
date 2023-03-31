@@ -9,7 +9,7 @@ summary: Finishing something you worked really hard on might just be one of the 
 ---
 
 # Fill! Your! Pages!
-## Peyton Farnum, Creative Team Member
+> Peyton Farnum, Creative Team Member
 
 Finishing something you worked really hard on might just be one of the best feelings in the world. But what makes this accomplishment feel even more fulfilling? When you planned every step of the way!
 

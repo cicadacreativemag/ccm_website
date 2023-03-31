@@ -5,4 +5,4 @@ layout: blog
 ---
 
 # BLOG
-## Published monthly in our newsletter.
+> Published monthly in our newsletter.

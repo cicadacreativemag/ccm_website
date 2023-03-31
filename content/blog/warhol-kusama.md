@@ -9,7 +9,7 @@ summary: If you asked a stranger to list any 5 artists off the top of their head
 ---
 
 # That time Andy Warhol plagiarized Yayoi Kusama
-## Jay Serrano, Editorial Director
+> Jay Serrano, Editorial Director
 
 If you asked a stranger to list any 5 artists off the top of their head, odds are good that Andy Warhol would be one of them. A soup can homage even sits in front of CSU’s Center for the Arts (to honor a visit from Warhol in 1981). There is no doubt that his contributions altered the trajectory of American art. He also copied part of one of Yayoi Kusama’s exhibitions. 
 

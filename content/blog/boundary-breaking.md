@@ -9,7 +9,7 @@ summary: Imagine you’re back in high school, working on a group project with t
 ---
 
 # Is art boundary-breaking if it’s stolen?
-## Anna Dunn, Managing Editor
+> Anna Dunn, Managing Editor
 
 Imagine you’re back in high school, working on a group project with the artsy philosophy guy who exclusively talks back to his female teachers. The project requires you to bring in some sort of family heirloom from home to share with your partner and then present to the class.
 

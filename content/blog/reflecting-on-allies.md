@@ -9,7 +9,7 @@ summary: Social media has acted as a primary source of information, education, a
 ---
 
 # Reflecting on allies and space on Tik Tok and Instagram
-## Anna Dunn, Art Editor
+> Anna Dunn, Art Editor
 
 Social media has acted as a primary source of information, education, and organization throughout the Black Lives Matter movement since the its inception in 2013. It has been a platform for people to share and promote speakers, books, funds and organizations. Mass participation can create a sense of unity, community, and wide-reaching support, but done ingenuously, it can run the risk of being noise. Adding to a discussion doesn’t always mean you’re listening, and it’s easy to share recommending book lists without any intention to read them for yourself. 
 

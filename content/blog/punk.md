@@ -9,7 +9,7 @@ summary: The Punk Movement was largely male-dominated, as much of the music indu
 ---
 
 # Women in punk!
-## Molly Flood, Creative Team Member
+> Molly Flood, Creative Team Member
 
 The Punk Movement was largely male-dominated, as much of the music industry is, but the women of Punk embodied the movement wholly and didn't receive adequate credit. The movement’s female artists highlighted the struggles of the female experience that didn't fit into the mainstream narrative. In their focus on anger and style of dressing, the women of the Punk Movement pushed back against societal norms more effectively than the more popular male bands could. 
 

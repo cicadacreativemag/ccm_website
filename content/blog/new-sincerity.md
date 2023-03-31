@@ -9,7 +9,7 @@ summary: Art  changes throughout time, evolving to address each century’s uniq
 ---
 
 # New Sincerity during Quarantine
-## Gracie Neirynck, Creative Team Member
+> Gracie Neirynck, Creative Team Member
 
 Art  changes throughout time, evolving to address each century’s unique  struggles and values. In an effort to retaliate against the cynicism of a  post-war era, modern writers began to pioneer a new age of writing  which they called New Sincerity. This era was founded upon the idea that  in modern times it was far more courageous to describe the subtle dust  and honesty of everyday life than it was to write about extreme emotion.  It rebelled against the idea that sentimentality was naive and instead  sought to express it. This idea appealed to me as I came to college.  Repulsed by the aftertaste of teenage angst on my tongue, I became  enchanted with the lingering notion that honesty could be a form of  rebellion. As the world began to shut down during quarantine, I wondered  if this idea would hold up in a time of isolation. I wondered if  sincerity would still be resilient.  
 

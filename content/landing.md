@@ -5,4 +5,4 @@ layout: landing
 
 # HOME
 
-## Welcome to Cicada Creative Magazine!
+> Welcome to Cicada Creative Magazine!

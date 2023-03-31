@@ -12,18 +12,18 @@
             <div class="card-title">
                {{ .Title }}
             </div>
-            <div class="card-subtitle mb-2"><h2>
+            <div class="card-subtitle mb-2"><blockquote>
                 {{ range .Param "authors" }}
                   {{ . }}
-               {{ end }}</h2>
+               {{ end }}</blockquote>
             </div>
                <p class="card-text"> {{ .Summary | truncate 300 }} </p>
         <div class="row justify-content-between">
             <div class="col-auto">
-               <p class="card-text"><a href="{{.Permalink}}"> Keep reading <i class='fa fa-long-arrow-right'></i></a> 
+               <p class="card-text"><small class="text-muted"><a href="{{.Permalink}}"> Keep reading <i class='fa fa-long-arrow-right'></i></a></small> </p>
                </div>
             <div class="col-auto">
-               {{ .PublishDate.Format "Jan. 2006" }}</p>
+               <p class="card-text"> <small class="text-muted"> {{ .PublishDate.Format "Jan. 2006" }}</small></p>
                </div>
            </div>
             </div>

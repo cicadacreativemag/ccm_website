@@ -1,103 +1,29 @@
 {{ define "main" }}
-
-
 <div class="index">
-
-  <div class=" row justify-content-center">
-
-    <div class="col-sm-4 py-3" >
-      <div class="row justify-content-center">
-        <div class="ccm">
-          Cicada <br>
-          Creative <br>
-          Magazine <br>
+    <div class=" row justify-content-center">
+        <div class="col-sm-4 py-3">
+            <div class="row justify-content-center">
+                <div class="ccm"> Cicada <br> Creative <br> Magazine <br> </div>
+            </div>
+            <div class="row justify-content-center"> <a href="/landing">
+                    <div class="enter"> Choose a color & enter. <i class='fa fa-long-arrow-right'></i> </div>
+                </a> </div>
         </div>
-      </div>
-      <div class="row justify-content-center">
-        <a href="/landing">
-          <div class="enter">
-          Choose a color & enter.
-              <i class='fa fa-long-arrow-right'></i>
-          </div>
-        </a>
-      </div>
+        <div class="col-sm-4"> <a class="navbar-brand" href="/"><img id="navbarIcon" src='/icons/red-c.png' width="0" height="0" alt=""></a> <!-- BUTTON GROUP 1 (BLUE) -->
+            <div class="button-group">
+                <div class="d-flex flex-row-reverse">
+                    <div class="order-1 p-2 "> <button id="blue" class="btn btn-blue theme-button" onclick="handleThemeButtonClick('blue', this)" title="blue"></button> </div>
+                </div> <!-- BUTTON GROUP 2 (GREEN & PINK) -->
+                <div class="d-flex flex-row-reverse">
+                    <div class="order-1 p-1"> <button id="green" class="btn btn-green theme-button" onclick="handleThemeButtonClick('green', this)" title="green"></button> </div>
+                    <div class="order-2 p-1"> <button id="pink" class="btn btn-pink theme-button" onclick="handleThemeButtonClick('pink', this)" title="pink"></button> </div>
+                </div> <!-- BUTTON GROUP 3 (WHITE, YELLOW, & RED) -->
+                <div class="d-flex flex-row-reverse">
+                    <div class="order-1 p-1"> <button id="white" class="btn btn-white theme-button" onclick="handleThemeButtonClick('white', this)" title="white"></button> </div>
+                    <div class="order-2 p-1"> <button id="yellow" class="btn btn-yellow theme-button" onclick="handleThemeButtonClick('yellow', this)" title="yellow"></button> </div>
+                    <div class="order-3 p-1"> <button id="red" class="btn btn-red theme-button" onclick="handleThemeButtonClick('red', this)" title="red"></button> </div>
+                </div>
+            </div>
+        </div>
     </div>
-
-  <div class="col-sm-4">
-        <a class="navbar-brand" href="/"><img id="navbarIcon" src='/icons/red-c.png' width="0" height="0" alt=""></a>
-  <!-- BUTTON GROUP 1 (BLUE) -->
-    <div class="button-group">
-      <div class="d-flex flex-row-reverse">
-       <div class="order-1 p-2 ">
-        <button
-          id="blue"
-          class="btn btn-blue theme-button"
-          onclick="handleThemeButtonClick('blue', this)"
-          title="blue"
-        ></button>
-       </div>
-     </div>
-   
-  <!-- BUTTON GROUP 2 (GREEN & PINK) -->
-     <div class="d-flex flex-row-reverse">
-       <div class="order-1 p-1">
-        <button
-        id="green"
-        class="btn btn-green theme-button"
-        onclick="handleThemeButtonClick('green', this)"
-        title="green"
-      ></button>
-       </div>
-       <div class="order-2 p-1">
-        <button
-        id="pink"
-        class="btn btn-pink theme-button"
-        onclick="handleThemeButtonClick('pink', this)"
-        title="pink"
-      ></button>
-       </div>
-     </div>
-   
-     <!-- BUTTON GROUP 3 (WHITE, YELLOW, & RED) -->
-     <div class="d-flex flex-row-reverse">
-       <div class="order-1 p-1">
-        <button
-        id="white"
-        class="btn btn-white theme-button"
-        onclick="handleThemeButtonClick('white', this)"
-        title="white"
-      ></button>
-       </div>
-       <div class="order-2 p-1">
-        <button
-        id="yellow"
-        class="btn btn-yellow theme-button"
-        onclick="handleThemeButtonClick('yellow', this)"
-        title="yellow"
-      ></button>
-       </div>
-       <div class="order-3 p-1">
-        <button
-      id="red"
-      class="btn btn-red theme-button"
-      onclick="handleThemeButtonClick('red', this)"
-      title="red"
-    ></button>
-       </div>
-     </div>
-   
-   
-      </div>
-
-
-
-
-
-    
-
-</div>
-
-
-      </div>
-      </div>
-    {{ end }}
+</div> {{ end }}

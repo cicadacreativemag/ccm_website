@@ -9,7 +9,7 @@ summary: Sometimes  college is the place where we lose it—it not referring to 
 ---
 
 # I Miss Being a Kid
-## Casey Forest, Creative Team Member
+> Casey Forest, Creative Team Member
 
 Sometimes
  college is the place where we lose it—it not referring to virginity, 

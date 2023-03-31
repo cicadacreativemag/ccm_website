@@ -10,7 +10,7 @@ summary: Where we live is a mess. It’s a convoluted, poorly meshed, dig-until-
 
 
 # What I Have to Say about what Marx Would Have to Say about Capitalism and COVID-19
-## Casey Forest, Content Editor
+> Casey Forest, Content Editor
 
 Where we live is a mess. It’s a convoluted, poorly meshed, dig-until-your-hands-break country. It was a rug ripped out from under those who called it home, and now it is a capitalist petri dish. It’s hard to agree on things here, even with ourselves.
 

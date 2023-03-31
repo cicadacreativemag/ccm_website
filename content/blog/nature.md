@@ -9,7 +9,7 @@ summary:
 ---
 
 # Nature is out there! (and it can help with your health and creativity, too!)
-## Peyton Farnum, Creative Team Member
+> Peyton Farnum, Creative Team Member
 
 With  all the craziness that 2020 has brought, it can be difficult to  remember to take some time to care for yourself. Luckily, I am here to  inform you that one of the easiest ways to do so is remarkably simple:  spend some time outside!
 

@@ -4,7 +4,7 @@ date: 2020-12-20T15:25:31-06:00
 draft: false
 layout: issue-page
 featuredImage: /images/issue3/cover.jpg
-Summary: In the midst of a pandemic and racial movement, we asked, who are you? Who are we? 
+Summary: In the midst of a pandemic and racial movement, we asked, who are you? Who are we?
 ---
 
 # Issue 03: Identity

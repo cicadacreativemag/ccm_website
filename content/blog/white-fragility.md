@@ -9,10 +9,8 @@ summary: In the midst of yet another reckoning with the antiblackness that perme
 
 ---
 
-
 # The commodification of Black pain: Why *"White Fragility"* falls short
-
-## Jay Serrano, Editorial Director
+> Jay Serrano, Editorial Director
 
 In the midst of yet another reckoning with the antiblackness that permeates every corner of the U.S., many people have scrambled for ways to make sense of it all. For some, it is a familiar topic of conversation, one that has shaped their entire life. For others, it is an abstract knowledge they may only be exploring for the first time. 
 

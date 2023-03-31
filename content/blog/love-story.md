@@ -9,7 +9,7 @@ summary: Agh, February! The month of love. This month I was determined to presen
 ---
 
 # A Love Story
-## Gracie Neirynck, Creative Team Member
+> Gracie Neirynck, Creative Team Member
 
 Agh, February! The month of love. This month I was determined to present you all with a love story—cliché, I know. In my desperate quest for a love story, I scanned the internet, spending many hours skimming across its many whimsical love poems and falling victim to its endless rabbit holes. I even braved the journey into the desperate and truly dangerous land of the second page of Google (yes, turns out it does exist), determined to find the perfect love story. After many (oh so many) futile hours of reading about the many people littered across history who died for each other, killed for each other, wrote for each other, loved each other, this is the only love story I want to tell you all.  
 

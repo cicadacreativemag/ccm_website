@@ -1,5 +1,8 @@
 :root,
   :root.white {
+    --header-font: 'Nimbus Sans', sans-serif;
+    --body-font:  'Crimson Text', serif;
+    --sub-font: 'Inconsolata', monospace;
     --bg-color: #FFF;
     --text-color: #4f4f4f;
   }
@@ -20,9 +23,18 @@
     --text-color: #94EFA2;
   }
   :root.pink {
-    --bg-color: #f3a49e;
+    --bg-color: #fc8989;
     --text-color: #FFF380;
   }
+
+  @font-face {
+    font-family: "Nimbus Sans";
+    src: url(../fonts/NimbusSanL-Bol.otf);
+  }
+
+
+
+  
 
     .btn {
     color:inherit;
@@ -41,6 +53,12 @@
 
     .btn-border {
       border: 1px solid var(--text-color);
+    }
+
+    .btn-link {
+      border: 1px solid var(--text-color) !important;
+      font-style: italic;
+      font-family: var(--sub-font) !important;
     }
 
     .btn-white {
@@ -64,7 +82,7 @@
     }
   
     .btn-pink {
-      background-color: #f3a49e;
+      background-color: #fc8989;
       height: 5.6em;
       width: 5.6em;
     }
@@ -100,7 +118,7 @@
       }
     
       .btn-nav-pink {
-      background-color: #f3a49e;
+      background-color: #fc8989;
       height: 2.25em;
       width: 2.25em;
       }

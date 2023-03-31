@@ -9,7 +9,7 @@ summary: In a few weeks, millions of students will be returning to school for th
 ---
 
 # What Schools Reopening Will Look Like for Teachers
-## Haley Arnold, Publications Director
+> Haley Arnold, Publications Director
 
 In a few weeks, millions of students will be returning to school for the fall. Despite the current COVID-19 pandemic with cases on the rise again, most schools are planning on having at least some in-person learning. For parents, this requires them to make a tough decision on whether or not to send their children to school- or to opt for online only options.
 

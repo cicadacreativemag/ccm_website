@@ -60,6 +60,10 @@
   url = "/workshops/"
   weight = 7
 
+rssLimit = 20
+copyright = "Cicada Creative Magazine 2018-2023"
+languageCode = "en-us"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

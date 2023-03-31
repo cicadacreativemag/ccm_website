@@ -9,7 +9,7 @@ summary: Early in July, a fake restaurant emerged on Instagram and Yelp. This fa
 ---
 
 # Regarding “Ching Chong House” and Anti-Asian Racism in the Wake of COVID-19
-## Jay Serrano, Editorial Director
+> Jay Serrano, Editorial Director
 
 Early in July, a fake restaurant emerged on Instagram and Yelp. This fake restaurant was entitled “Ching Chong House” and had various racist menu items ranging from Corona cocktails to “Crispy Burnt Pug.” Although it is clear that this stunt is merely another in a long list of unfunny edgy shock humor devoid of any creativity or actual comedy, it is still worth examining given the social context we find ourselves in. As of July 2, 2020—just one day after this fake business first posted—[2,120 anti-Asian hate incidents had been reported between March and June](https://www.cbsnews.com/news/anti-asian-american-hate-incidents-up-racism/). The number is almost certainly higher now. 
 

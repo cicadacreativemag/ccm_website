@@ -11,7 +11,7 @@ summary: The best horror movies have ambiguous endings. Endings that make you le
 
 # I Guess We’ll Never Know: Ambiguous Endings in Horror
 
-## Anna Dunn, Managing Editor
+> Anna Dunn, Managing Editor
 
 The best horror movies have ambiguous endings. Endings that make you leave confused, in disbelief, and searching the internet for more details and answers. The movie remains in your head, and you’re stuck thinking, what happens next?
 

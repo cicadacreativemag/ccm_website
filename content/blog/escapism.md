@@ -8,8 +8,7 @@ summary: Escapism gets a bad rap, understandably so. It’s often perceived as s
 ---
 
 # On Healthy Escapism
-
-## Jay Serrano, Editorial Director
+> Jay Serrano, Editorial Director
 
  Escapism gets a bad rap, understandably so. It’s often perceived as someone running away from their feelings by refusing to engage with reality--an unhealthy coping mechanism. Conventional wisdom says that the Right Way™ to deal with negative emotions is to feel all of it and work through the weeds of it. Maybe you talk it out with friends, have a good cry, or draw a bubble bath.
 

@@ -7,6 +7,6 @@ layout: contact
 
 # GET IN TOUCH
 
-## Here at Cicada, we listen to each other.
+> Here at Cicada, we listen to each other.
 
 We pitch ideas, give feedback, and give everyone space to speak. Here's yours. You can also email us at info@cicadacreativemag.com.

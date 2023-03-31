@@ -10,8 +10,7 @@ summary: Over the last few months, the world has changed in dramatic ways that h
 ---
 
 # Cicada’s Next Step: Our New Blog
-
-## Jay Serrano, Editorial Director
+> Jay Serrano, Editorial Director
 
 Hello, all!
 
