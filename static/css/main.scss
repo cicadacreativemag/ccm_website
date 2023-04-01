@@ -37,8 +37,6 @@ html {
 	}
 }
 
-
-
 .container {
 	color: var(--text-color);
 	width: 90%;
@@ -48,6 +46,7 @@ html {
 }
 
 body {
+	font-family: var(--body-font);
 	background-color: var(--bg-color);
 	line-height: 1.5;
 	padding: 1em;
@@ -66,7 +65,7 @@ a:hover {
 	text-decoration: underline;
 }
 
-ul {
+li, ul {
 	color: var(--text-color);
 	font-family: var(--body-font);
 }
@@ -277,7 +276,6 @@ input::placeholder {
 }
 
 
-/* CSS */
 .button-74 {
   background-color: transparent;
   border: 2px solid var(--text-color);
@@ -294,17 +292,6 @@ input::placeholder {
 }
 
 
-#mc_embed_signup_scroll {
-	font-size: 0.75em;
-}
-
-.mc-field-group {
-	color: var(--text-color);
-	display: inline-block;
-	padding: 0.5em;
-	margin-left: -0.5em;
-}
-
 .contributors {
 	width: 100%;
 	border: 2px solid var(--text-color);
@@ -319,28 +306,6 @@ input::placeholder {
 
 .contributors a:hover {
 	text-decoration: none;
-}
-
-#mce-EMAIL {
-	background-color: #FFF;
-	width: 12em;
-	color: var(--text-color);
-	border: 1px solid var(--text-color);
-	padding: .4em 5em .5em .4em;
-	display: inline-block;
-}
-
-#mce-FNAME {
-	border: 1px solid var(--text-color);
-	background-color: var(--bg-color);
-	color: var(--text-color);
-	font-size: 0.86em;
-	padding: .4em 5em .5em .4em;
-	display: inline-block;
-}
-
-.clear {
-	display: inline-block;
 }
 
 .button {
@@ -475,7 +440,8 @@ fieldset {
 	background-color: var(--text-color);
 	color: var(--bg-color);
 	display: block;
-	font-size: 0.9em;
+	font-family: var(--sub-font);
+	font-size: 0.9em !important;
 	font-weight: 550;
 	padding: 3vh;
 }
@@ -483,8 +449,8 @@ fieldset {
 #contact input[type="text"],
   #contact input[type="email"],
   #contact textarea,
-  #contact button[type="submit"] {
-	font-family: nimbus-sans, sans serif;
+  #contact button[type="send"] {
+	font-family: var(--sub-font);
 	font-size: 0.84em;
 }
 
@@ -521,6 +487,7 @@ fieldset {
 	padding: 2vh;
 	font-size: 15px;
 	margin-bottom: 2vh;
+	color:var(--text-color)
 }
 
 #contact input:focus,
@@ -528,11 +495,31 @@ fieldset {
 	outline: 0;
 }
 
+/*Scrollbar*/
+::-webkit-scrollbar {
+	width: 8px;
+	position: fixed;
+	right: 12px;
+	z-index: 1;
+}
+
+::-webkit-scrollbar-track {
+	box-shadow: 0;
+	border-radius: 0px;
+	background-color: var(--bg-color);
+}
+
+.post ::-webkit-scrollbar-track {
+	border-left: 0px solid var(--text-color);
+}
+
+::-webkit-scrollbar-thumb {
+	background: var(--text-color);
+	border-radius: 0px;
+}
+
+
 @media (min-width: 20em) {
-	h1 {
-		font-size: 210%;
-		margin-top: 2vh;
-	}
 
 	.ccm {
 		font-size: 4.2em;
@@ -597,13 +584,6 @@ fieldset {
 }
 
 @media (min-width: 64em) {
-	h1 {
-		font-size: 195%;
-	}
-
-	h2 {
-		font-size: 1em;
-	}
 
 	.ccm {
 		font-size: 4.9em;
@@ -630,13 +610,6 @@ fieldset {
 }
 
 @media (min-width: 76.5em) {
-	h1 {
-		font-size: 190%;
-	}
-
-	h4 {
-		max-width: 30em;
-	}
 
 	.tiles-title {
 		font-size: 1.7em;
@@ -655,9 +628,6 @@ fieldset {
 }
 
 @media (min-width: 114em) {
-	h1 {
-		font-size: 220%;
-	}
 
 	.index {
 		margin-top: 18vh;

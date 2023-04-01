@@ -1,0 +1,53 @@
+{{ define "main" }} {{- partial "menu.html" . -}}
+<div class="container"> {{.Content}}
+    <div class="row justify-content-start masonry">
+        <div class="col-sm-6 p-3 item">
+            <div class="card">
+                <div class="card-body">
+                    <div class="card-title"> Our origins</div>
+                    <p class="card-text">
+                    <p>Cicada was founded in 2018, the brainchild of seven undergraduate students at Colorado State University. We wanted to assemble something new: a creative magazine accessible to all CSU undergraduate students across all disciplines. At the time, our on-campus publications were open only to a sliver of students based on GPA or major, and most literary magazines focus exclusively on writing and/or visual art. We believe these limitations stifle creativity and expression. There is artistry in science, in math, in lines of code — and we wanted to include it all.</p>
+
+                    
+                    <p>We&#39;ve evolved a lot since our first meetings at a coffee shop on the corner of campus, but our core mission has never wavered. Instead, it has expanded. When the COVID-19 pandemic moved the world online in 2020, we adapted and went fully remote, opening our submissions to undergraduates everywhere. </p>
+                    <p>And as of Issue 07, <em>anyone</em> can submit to CCM and apply for staff.</p>
+                    <p>Submissions open twice a year, typically in the spring and fall. At the end of each issue cycle, these submissions are anonymized and reviewed by two editorial teams. Then, we publish a carefully crafted issue of your work.</p>
+                    <p>We acknowledge that art doesn&#39;t always come box-shaped, perfectly ready to fall into a category. Cicada Creative Magazine exists to showcase that artistic exploration and novelty.</p>
+                    <p>We hope to broadcast each and every way you make your mark on our world.</p>
+                    <img src="/images/footer.png" class="img-fluid" style="max-height: 35rem">
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-6 p-3 item">
+            <div class="card">
+                <div class="card-body">
+                    <div class="card-title"> "Brain Spread" </div>
+                    <p class="card-text"> 
+                        A spread we made on our third meeting to guide Cicada.
+                        <a href="/images/brainspread.png" data-lightbox="about" ><img src="/images/brainspread.png" class="img-fluid" style="max-height: 35rem" alt="A photo of a board with three broad categories stating What We Do, How We Do It, and Why We Do It. Messy notes line the margins. The title is CICADA - Brand foundation Brain Spread."> </a>
+                    </p>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="col-sm-6 p-3 item">
+            <div class="card">
+                <div class="card-body">
+                    <div class="card-title"> Goals </div>
+                    <p class="card-text"> <ul>
+<li>Create an accessible space for creative people anywhere to build community and share art.</li>
+<li>Eliminate traditional barriers for artists, such as educational and financial requirements.</li>
+<li>Build a sustainable project that can long outlive its original creators.</li>
+<li>Craft a unique visual and personal brand for our community.</li>
+<li>Collaborate with other creative publications and help to build a coalition of welcoming, inclusive mags/zines/etc.</li>
+</ul>
+                    </p>
+                </div>
+            </div>
+        </div>
+
+  
+    </div> {{- partial "footer.html" . -}} {{ end }}

@@ -8,9 +8,7 @@
         {{.Content}}
     <div class="row justify-content-end py-3">
         <div class="col-auto">
-         <div class="card-subtitle">
-            {{ .PublishDate.Format "January 02, 2006" }}
-         </div> 
+          <p class="card-text"> <small class="text-muted"> {{ .PublishDate.Format "January 02, 2006" }}</small></p>
        </div>
      </div>
         </div>

@@ -56,8 +56,8 @@
   url = "/submit/"
   weight = 6
   [[menu.main]]
-  name = "Workshops"
-  url = "/workshops/"
+  name = "Contact"
+  url = "/contact/"
   weight = 7
 
 rssLimit = 20
