@@ -1,0 +1,10 @@
+{{- range ( where site.RegularPages "Section" "blog" | first 2 ) }} 
+<img class="img-fluid rounded" src="{{ .Param `featuredImage` }}" alt="featured image">
+<h3 class="card-title">{{ .Title | truncate 26 }}</h3>
+<div class="card-subtitle mb-2">
+    <p class="card-text">
+    <blockquote> <i> {{ range .Param "authors" }} {{ . }} {{ end }} </i></blockquote>
+    {{.Summary | truncate 100 }} <small class="text-muted"><a href="{{.Permalink}}">Keep reading</small></a>
+    </p>
+</div>
+{{ end }}

@@ -1,0 +1,9 @@
+<div class="col-sm-4 py-3 item">
+    <div class="card"> <img src="{{ .Get "img-src" }}" class="img-fluid" alt="{{ .Get "alt" }}">
+        <div class="card-body">
+            <h5 class="card-title">{{ .Get "title" }}</h5>
+            <p class="card-text">{{ .Inner | markdownify | safeHTML }} </p>
+            <p class="card-text" style="float:right"><small class="text-muted"><a href="{{ .Get "link" }}">{{ .Get "caption" }} <i class='fa fa-long-arrow-right'></i></small></a></p>
+        </div>
+    </div>
+</div>

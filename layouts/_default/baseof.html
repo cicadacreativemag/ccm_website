@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    {{- partial "head.html" . -}}
+    {{- partial "preloader.html" . -}}
+    <a id="top"></a>
+    <body>
+        {{- block "main" . }}{{ .Content }}{{- end }}
+        {{- partial "scripts.html" . -}}
+    </body>
+</html>
+
+     
+   
