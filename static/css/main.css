@@ -393,7 +393,7 @@ input::placeholder {
 	height: 100vh;
 	left: 0;
 	top: 0;
-	background: #fc723f
+	background: var(--bg-color)
 	  url("https://samherbert.net/svg-loaders/svg-loaders/spinning-circles.svg")
 	  no-repeat center;
 	z-index: 9999;

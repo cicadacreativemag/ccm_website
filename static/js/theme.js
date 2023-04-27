@@ -1,5 +1,5 @@
 // When the page loads, do this.
-window.addEventListener("load", (event) => {
+document.addEventListener("DOMContentLoaded", () => {
 
   // Get the theme from local storage, then apply it.
   const theme = getTheme();
