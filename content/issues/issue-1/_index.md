@@ -1,5 +1,6 @@
 ---
 title: "Issue 01: Cycles + Seasons"
+date: 2019-06-20T15:25:31-06:00
 draft: false
 featuredImage: /images/issue1/issue1-thumb.jpg
 Summary: Hi! We haven't met before. Allow us to introduce ourselves--we're Cicada Creative Magazine.
