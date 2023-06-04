@@ -4,7 +4,7 @@ draft: false
 ---
 
 # SUBMIT
-> Submissions are open! Read below to get started and submit to Issue 07: "You are here." You can fill out the form on this page or directly visit the form [here](https://tally.so/r/nprZDV).
+> Submissions for Issue 07 are currently **closed** and review is in-progress. Issue 08 submissions will open in the fall, so check back soon!
 
 {{< masonry >}}
 {{< cards/card-medium title="ISSUE 07: 'You are here'">}}

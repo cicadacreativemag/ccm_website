@@ -8,8 +8,8 @@ draft: false
 
 {{< masonry >}}
 
-{{< cards/card-small-i title="ISSUE 07 SUBMISSIONS ARE OPEN!" img-src="/images/issue7/issue07_subs.png" alt="A ticket stub announcing Issue 07 submissions opening. It is red and white and reads 'Cicada Air'." caption="Submit now!" link="https://tally.so/r/nprZDV">}}
-The votes are in! The winner of Issue 07's theme poll is "You are here." Submissions are open to everyone, everywhere, until **June 02, 2023.** You can learn more about our theme and submission guidelines on our [Submit](/submit) page. You can submit your work there or you can click the link below to visit our submission form. 
+{{< cards/card-small-i title=" 07 SUBMISSIONS ARE CLOSED" img-src="/images/issue7/issue07_subs.png" alt="A ticket stub announcing Issue 07 submissions opening. It is red and white and reads 'Cicada Air'." caption="Read about Issue 07" link="/submit">}}
+Thank you for participating in Issue 07's call for submissions! We are so grateful for the influx of work this issue cycle--from the bottom of our hearts, thank you. We are currently sifting through your work and reviewing it with great care and attention. We also have a few surprises in store for Issue 07, and we hope you like them as much as do. 
 {{< /cards/card-small-i >}}
 
 {{< cards/card-small-embed title="'YOU ARE HERE' TRAVEL DIARY" >}}
