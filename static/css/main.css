@@ -1,6 +1,10 @@
-html {
+* {
 	box-sizing: border-box;
-	overflow-x: hidden;
+}
+
+html {
+	padding: 0;
+	margin: 0;
 }
 
 @keyframes slideInFromLeft {
@@ -51,7 +55,6 @@ body {
 	line-height: 1.5;
 	padding: 1em;
 	font-size: 1em;
-	height: 100%;
 	animation: 0.8s ease-out 0s 1 fadeInAnimation;
 }
 
@@ -125,6 +128,10 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: bold;
 }
 
+h1 {
+	padding: 0.1em 0;
+}
+
 p {
 	color: var(--text-color);
 	font-family: var(--body-font);
@@ -189,7 +196,6 @@ p {
 .img-fluid {
 	animation: 0.8s ease-out 0s 1 fadeInAnimation;
 	object-fit: cover;
-	padding: 0.3em 0;
 	max-height: 300px;
 	min-height: 100px;
 }

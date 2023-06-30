@@ -1,4 +1,5 @@
-:root, :root.white {
+:root, 
+:root.white {
   --header-font: 'Nimbus Sans', sans-serif;
   --body-font: 'Crimson Text', serif;
   --sub-font: 'Inconsolata', monospace;
