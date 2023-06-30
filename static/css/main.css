@@ -121,7 +121,6 @@ blockquote {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	padding: auto;
 	font-family: var(--header-font);
 	font-weight: bold;
 }
@@ -190,6 +189,7 @@ p {
 .img-fluid {
 	animation: 0.8s ease-out 0s 1 fadeInAnimation;
 	object-fit: cover;
+	padding: 0.3em 0;
 	max-height: 300px;
 	min-height: 100px;
 }
