@@ -1,0 +1,19 @@
+{{ define "main" }}
+  {{- partial "menu.html" . -}}
+    <div class="container">    
+        <div class="row justify-content-sm-center">
+          <div class="col-md-6">
+            <h1>{{ .Title }}</h1>
+                <p class="card-text">{{ range .Param "authors" }}
+                      {{ . }}
+                  {{ end }} </p> 
+                    <blockquote>     
+                    {{ .Description }} 
+                    </blockquote>
+                    {{.Content}}
+                  </div>
+                </div>
+           {{- partial "arrows.html" . -}}
+        </div>
+    {{- partial "footer.html" . -}}
+{{ end }}

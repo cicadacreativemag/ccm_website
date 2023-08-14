@@ -1,0 +1,12 @@
+<div class="contributors"> <strong>{{ .Get "name" }}</strong>
+	<br> {{ with .Get "link" }}<a href="{{ . }}">{{ end }}
+        {{ if .Get "link" }} <em>{{ .Get "linktitle" }} </em></a>
+	<br>{{ end }}
+	<br> {{ .Get "statement" }}
+	<br>
+	<br> <a href="{{ .Get "piece1link" }}"><em>{{ .Get "piece1" }}</em></a>
+	<br> {{ .Get "piece1description" }} {{ with .Get "piece2link" }}<a href="{{ . }}">{{ end }}
+        {{ if .Get "piece2link" }} <br><em>{{ .Get "piece2" }} </em></a>
+	<br> {{ .Get "piece2description" }}{{ end }} {{ with .Get "piece3link" }}<a href="{{ . }}">{{ end }}
+        {{ if .Get "piece3link" }} <br><em>{{ .Get "piece3" }} </em></a>
+	<br> {{ .Get "piece3description" }}{{ end }} </div>

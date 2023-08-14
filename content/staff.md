@@ -6,7 +6,7 @@ draft: false
 # STAFF
 > Meet the team behind CCM!
 
-While the beating heart of Cicada is our creative community, we want you to know who looks over the editorial process, from selecting our themes to curating each publication. We also want to let you know applications are open! You can fill out our form [here](https://tally.so/r/woExBM) or visit [our documentation](https://docs.cicadacreativemag.com/docs/staff-and-membership/) for more information on which positions are open and what they entail.
+While the beating heart of Cicada is our creative community, we want you to know who looks over the editorial process, from selecting our themes to curating each publication. 
 
 {{< masonry >}}
 
@@ -16,7 +16,7 @@ While the beating heart of Cicada is our creative community, we want you to know
 
 {{< staff-card name="Aimee Kuiper" position="Creative Team Member" img-src="/images/staff/thumb/aimee.jpg" link="/images/staff/aimee.jpg" alt="An image of a person with glasses standing in front of a background of stylized cartoon bugs." caption="Maximalist illustrator and author who might be running late because she got distracted by a neat little bird.">}}
 
-{{< staff-card name="Lizzie Tjahja" position="Creative Director" img-src="/images/staff/thumb/lizzie_2023.png" link="/images/staff/lizzie_2023.png" alt="A photo of a person with Light from Death Note and Miffy and a caption that says 'I love fish & concrete.'" caption="lover of architecture and print design! collector of useless pieces of paper.">}}
+{{< staff-card name="Christopher Capri" position="Writing Editor" img-src="/images/staff/thumb/christopher.webp" link="/images/staff/christopher.webp" alt="A photo of a man smiling in a black and blue striped shirt with a water background." caption="Poet and fiber artist, bibliophile, full time MFA student, procrastinator.  The rest can wait.">}}
 
 {{< staff-card name="Denise Zubizarreta" position="Creative Team Member" img-src="/images/staff/thumb/denise.png" link="/images/staff/denise.png" alt="A cartoon avatar of a person with dark hair, red lipstick, a black turtleneck, and glasses." caption="Denise “The Vamp DeVille” Zubizarreta is a multi-hyphenate creative focused on interdisciplinary art making, journalism, scholarship and research. Her articles have been published with Hyperallergic and Southwest Contemporary magazine.">}}
 

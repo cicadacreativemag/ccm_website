@@ -4,7 +4,7 @@ draft: false
 ---
 
 # SUBMIT
-> Submissions for Issue 07 are currently **closed** and review is in-progress. Issue 08 submissions will open in the fall, so check back soon!
+> Submissions are currently **closed.** Issue 08 submissions will open soon though, so keep an eye out for announcements!
 
 {{< masonry >}}
 {{< cards/card-medium title="ISSUE 07: 'You are here'">}}

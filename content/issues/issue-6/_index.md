@@ -10,4 +10,4 @@ summary: Space has 23 dictionary definitions. It's as interdisciplinary as it ge
 
 # Issue 06: Space
 
-Space has <u>[23 dictionary definitions](https://www.dictionary.com/browse/space)</u>. It exists as a distinct concept in several fields, ranging from philosophy to mathematics to psychology to geography. Space is as interdisciplinary as it gets, and we wanted to give you your own space to explore those definitions in your own ways. You all voted for it; here it is.
+Space has [23 dictionary definitions](https://www.dictionary.com/browse/space). It exists as a distinct concept in several fields, ranging from philosophy to mathematics to psychology to geography. Space is as interdisciplinary as it gets, and we wanted to give you your own space to explore those definitions in your own ways. You all voted for it; here it is.

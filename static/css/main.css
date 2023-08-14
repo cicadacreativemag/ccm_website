@@ -45,8 +45,6 @@ html {
 	color: var(--text-color);
 	width: 90%;
 	margin-top: 2%;
-	flex-direction: row;
-	justify-content: space-evenly;
 }
 
 body {
@@ -60,8 +58,7 @@ body {
 
 a {
 	color: var(--text-color);
-	text-decoration: underline;
-}
+} 
 
 a:hover {
 	color: var(--text-color);
@@ -171,26 +168,47 @@ p {
 	padding: 0.5em;
 }
 
-.tiles {
+.issue-grid {
+	display: grid;
+	grid-template-columns: repeat( auto-fill, minmax(15rem, 1fr) );
+	grid-auto-rows: 1fr;
+	gap: 2em;
+}
+
+.issue-grid-boxes {
 	border: 2px solid var(--text-color);
+	display: flex;
+    height: 100%;
+	text-align: center;
+    align-items: center;
+	justify-content: center;
 	max-width: 17.5rem;
 }
 
-.tiles-title {
-	font-size: 2.2em;
-	font-weight: 600;
-	padding: 0vh 2vh;
-	margin-top: 36%;
-	margin-bottom: 36%;
-	text-align: center;
+.box-title {
+	padding: 0vh 2.5vw;
+	font-size: 3.5ch;
 }
 
-.tiles-title a {
+.audio-wrapper {
+	position: relative;
+}
+
+.audio-title {
+	position: absolute;
+    top: 32%;
+	left: 40%;
+	font-weight: 900;
+	text-transform: uppercase;
+	font-style: italic;
+}
+
+.box-links {
 	text-decoration: none;
-}
+} 
 
-.tiles-title a:hover {
-	text-decoration: underline;
+.box-links:hover {
+text-decoration: underline;
 }
 
 .img-fluid {
@@ -214,33 +232,8 @@ img[src*="#issues"] {
 	padding: 0.5em;
 	display: flex;
 	justify-content: center;
+	margin: 0 auto;
 }
-
-.timeline {
-	border-left: 1px solid var(--text-color);
-	position: relative;
-	list-style: none;
-}
-
-.timeline .timeline-item {
-	position: relative;
-}
-
-.timeline .timeline-item:after {
-	position: absolute;
-	display: block;
-	top: 0;
-}
-
-.timeline .timeline-item:after {
-	background-color: var(--text-color);
-	left: -38px;
-	border-radius: 50%;
-	height: 11px;
-	width: 11px;
-	content: "";
-}
-
 
 .card-title {
 	font-size: 1.3em;
@@ -592,19 +585,10 @@ fieldset {
 		width: 100%;
 	}
 
-	.tiles {
-		max-width: 18.5rem;
-	}
 }
 
 @media (min-width: 30em) {
-	.tiles-title {
-		font-size: 1em;
-		margin-top: 15%;
-		margin-bottom: 15%;
-		padding-top: 5%;
-	}
-
+	
 	.index {
 		margin-top: 18vh;
 	}
@@ -616,6 +600,8 @@ fieldset {
 	.enter {
 		width: 20em;
 	}
+
+	
 }
 
 @media (min-width: 54em) {
@@ -625,10 +611,6 @@ fieldset {
 
 	.ccm {
 		font-size: 4.3em;
-	}
-
-	.tiles {
-		max-width: 14rem;
 	}
 
 	.button-group {
@@ -649,28 +631,10 @@ fieldset {
 	.enter {
 		width: 22rem;
 	}
-
-	.tiles-title {
-		font-size: 1.4em;
-		margin-top: 33%;
-		margin-bottom: 33%;
-		padding-top: 5%;
-	}
-
-	.tiles {
-		max-width: 17.5rem;
-	}
 }
 
 @media (min-width: 76.5em) {
-
-	.tiles-title {
-		font-size: 1.7em;
-		margin-top: 20%;
-		margin-bottom: 20%;
-		padding-top: 15%;
-	}
-
+ 
 	.ccm {
 		font-size: 5.2em;
 	}
@@ -684,12 +648,5 @@ fieldset {
 
 	.index {
 		margin-top: 18vh;
-	}
-
-	.tiles-title {
-		font-size: 2.1em;
-		margin-top: 25%;
-		margin-bottom: 25%;
-		padding-top: 5%;
-	}
+	} 
 }

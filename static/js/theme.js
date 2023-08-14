@@ -12,10 +12,19 @@ document.addEventListener("DOMContentLoaded", () => {
 function applyTheme(color) {
   console.log(`Applying theme "${color}".`);
   setIcon(color);
+  
 
   const button = getColorButton(color);
   activateButton(button);
   document.documentElement.className = color;
+
+if (setStamp) {
+  setStamp(color)
+}
+else {
+  console.log(`No stamp found.`)
+};
+  
 }
 
 // Called when you actually click the button.
@@ -64,7 +73,7 @@ function setIcon(color) {
   const icon = document.getElementById("navbarIcon");
   const iconColor = mapThemeToIconColor(color);
   icon.src = `/icons/${iconColor}-c.png`;
-}
+} 
 
 // Given the theme color, return the logo color.
 function mapThemeToIconColor(themeColor) {
