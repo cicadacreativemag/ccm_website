@@ -8,7 +8,7 @@ draft: false
 
 {{< masonry >}}
 
-{{< cards/card-small-i title="ISSUE 07 IS OUT!" img-src="/images/issue7/cover.png" alt="The cover of Issue 07." caption="Read it here" link="/issues/issue-7">}}
+{{< cards/card-small-i title="ISSUE 07 IS OUT!" img-src="/images/landing/cover.webp" alt="The cover of Issue 07." caption="Read it here" link="/issues/issue-7">}}
 Hello again! Issue 07: 'You are here' is now available to read. We asked you all to consider the maps of your lives, your histories, your futures. As always, you delivered what we asked for and more.
 {{< /cards/card-small-i >}}
 
