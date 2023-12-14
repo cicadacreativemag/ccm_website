@@ -8,4 +8,4 @@ featuredImage: "/images/issue5/thumb/year-to-year-icon.png"
 type: art
 ---
 
-<a href = "/images/issue5/year-to-year.png" data-lightbox="6">![image](/images/issue5/year-to-year.png#issues)</a>
+{{< lightbox-img lightbox-id="year" img-src="/images/issue5/year-to-year.png" alt="Two people are passing by one another, both translucent. One is light purple and the other is dark blue, and the place they intersect combines these colors. The background appears to be a sort of city with a blue sun in the background and stylized starry sparkles." >}}

@@ -8,4 +8,4 @@ featuredImage: "/images/issue6/transparent/manpower_icon1.png"
 type: art
 ---
 
-<a href = "/images/issue6/11_ManPower.jpeg" data-lightbox="img">![image](/images/issue6/11_ManPower.jpeg#issues)</a>
+{{< lightbox-img lightbox-id="glub" img-src="/images/issue6/11_ManPower.jpeg" alt="A person running throw a meadow holding a goldfish in a fish bowl. Goldfish swim atop the meadow as if it is underwater." >}}

@@ -8,4 +8,4 @@ featuredImage: "/images/issue4/transparent/students.png"
 type: art
 ---
 
-<a href = "/images/issue4/students.jpg" data-lightbox="img">![image](/images/issue4/students.jpg#issues)</a>
+{{< lightbox-img lightbox-id="students" img-src="/images/issue4/students.jpg" alt="A large brick building that seems to be backlit by a soft orange glow." >}}

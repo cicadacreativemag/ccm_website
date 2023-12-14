@@ -8,4 +8,4 @@ featuredImage: "/images/issue4/thumb/han.jpg"
 type: art
 ---
 
-<a href = "/images/issue4/han.png" data-lightbox="11">![image](/images/issue4/han.png#issues)</a>
+{{< lightbox-img lightbox-id="han" img-src="/images/issue4/han.png" alt="A white Hangul character in a circle on a bright red backdrop. The character reads 'Han,' a Korean concept for grievance." >}}

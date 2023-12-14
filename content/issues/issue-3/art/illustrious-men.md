@@ -8,4 +8,4 @@ featuredImage: "/images/issue3/transparent/14_illustriousmen_thumb.png"
 type: art
 ---
 
-<a href = "/images/issue3/14_illustriousmen.jpg" data-lightbox="img">![image](/images/issue3/14_illustriousmen.jpg#issues)</a>
+{{< lightbox-img lightbox-id="men" img-src="/images/issue3/14_illustriousmen.jpg" alt="A person with her arms propped up as she sits behind several expressive clay sculpture masks. None have eyes, but they all have eyebrow ridges to suggest expressions." >}}

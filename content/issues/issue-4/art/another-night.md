@@ -8,4 +8,4 @@ featuredImage: "/images/issue4/thumb/southwest.jpg"
 type: art
 ---
 
-<a href = "/images/issue4/southwest.jpg" data-lightbox="6">![image](/images/issue4/southwest.jpg#issues)</a>
+{{< lightbox-img lightbox-id="cover" img-src="/images/issue4/southwest.jpg" alt="A photo from the ground-up depicting two people on a structure, perhaps monkey bars. One person is crawling towards the other." >}}

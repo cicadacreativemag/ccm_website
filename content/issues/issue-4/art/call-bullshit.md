@@ -8,4 +8,4 @@ featuredImage: "/images/issue4/transparent/icallbullshit.png"
 type: art
 ---
 
-<a href = "/images/issue4/icallbullshit.jpg" data-lightbox="7">![image](/images/issue4/icallbullshit.jpg#issues)</a>
+{{< lightbox-img lightbox-id="bs" img-src="/images/issue4/icallbullshit.jpg" alt="Several white structures with spigots that are pouring a pale yellow liquid into a larger pool. One of the structures has a bright red B on it." >}}

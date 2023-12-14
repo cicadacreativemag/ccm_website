@@ -8,4 +8,4 @@ featuredImage: "/images/issue3/transparent/9_miisla_thumb.png"
 type: art
 ---
 
-<a href = "/images/issue3/9_miisla.jpg" data-lightbox="img">![image](/images/issue3/9_miisla.jpg#issues)</a>
+{{< lightbox-img lightbox-id="isla" img-src="/images/issue3/9_miisla.jpg" alt="An abstract image of a Taino figure sitting atop an abstracted image of the Puerto Rican flag. The backdrop has a Puerto Rican flag interspersed with an image of San Juan." >}}

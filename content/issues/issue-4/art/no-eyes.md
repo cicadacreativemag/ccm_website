@@ -8,4 +8,4 @@ featuredImage: "/images/issue4/transparent/noeyes.png"
 type: art
 ---
 
-<a href = "/images/issue4/noeyes.jpg" data-lightbox="img">![image](/images/issue4/noeyes.jpg#issues)</a>
+{{< lightbox-img lightbox-id="noeyes" img-src="/images/issue4/noeyes.jpg" alt="A realistic painting of a person seemingly removing a mask--or their own face. They have dilated pupils and gray eyes and stare at the viewer. Their mouth isn't visible. The figure is wearing a crown-like structure with antlers." >}}

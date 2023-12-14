@@ -8,4 +8,4 @@ featuredImage: "/images/issue4/thumb/sarai.png"
 type: art
 ---
 
-<a href = "/images/issue4/sarai.png" data-lightbox="img">![image](/images/issue4/sarai.png#issues)</a>
+{{< lightbox-img lightbox-id="sarai" img-src="/images/issue4/sarai.png" alt="The face of a person painted in pinks and purples. The eyebrows glitter." >}}

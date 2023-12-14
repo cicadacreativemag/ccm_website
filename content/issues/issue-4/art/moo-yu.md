@@ -8,4 +8,4 @@ featuredImage: "/images/issue4/transparent/mooyu.png"
 type: art
 ---
 
-<a href = "/images/issue4/mooyu.png" data-lightbox="img">![image](/images/issue4/mooyu.png#issues)</a>
+{{< lightbox-img lightbox-id="mooyu" img-src="/images/issue4/mooyu.png" alt="A Korean/English product mockup for a yogurt product. The image includes bottles, cartons, logos, and stationery." >}}

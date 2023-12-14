@@ -8,4 +8,4 @@ featuredImage: "/images/issue7/thumb/party4u.webp"
 type: art
 ---
 
-{{< lightbox-img link="/images/issue7/party4u.webp" lightbox-id="untitled" img-src="/images/issue7/party4u.webp#issues" alt="A transparent render of a distorted pink and purple creature that looks distressed. Many individual images make up its twisted body. Examples include cats silhoutted by darkness, parts of faces, and colorful swirls. The creature seems to be attempting to walk." >}}
+{{< lightbox-img lightbox-id="untitled" img-src="/images/issue7/party4u.webp" alt="A transparent render of a distorted pink and purple creature that looks distressed. Many individual images make up its twisted body. Examples include cats silhoutted by darkness, parts of faces, and colorful swirls. The creature seems to be attempting to walk." >}}

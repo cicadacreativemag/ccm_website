@@ -8,4 +8,4 @@ featuredImage: "/images/issue5/thumb/breaking-icon.png"
 type: art
 ---
 
-<a href = "/images/issue5/breaking.jpg" data-lightbox="14">![image](/images/issue5/breaking.jpg#issues)</a>
+{{< lightbox-img lightbox-id="breaking" img-src="/images/issue5/breaking.jpg" alt="A painting of ocean waves crashing against dark rocks. The style is very expressive and frothy." >}}

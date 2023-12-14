@@ -8,4 +8,4 @@ featuredImage: "/images/issue4/thumb/cover4.png"
 type: art
 ---
 
-<a href = "/images/issue4/cover.jpg" data-lightbox="1">![image](/images/issue4/cover.jpg#issues)</a>
+{{< lightbox-img lightbox-id="cover" img-src="/images/issue4/cover.jpg" alt="A grid demonstrating a cicada's life cycle alongside Erwin Shrodinger's 'What is Life?' writing describing negative entropy." >}}

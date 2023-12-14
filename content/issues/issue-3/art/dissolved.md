@@ -8,4 +8,4 @@ featuredImage: "/images/issue3/transparent/16_disolved_thumb.png"
 type: art
 ---
 
-<a href = "/images/issue3/16_disolved.jpg" data-lightbox="img">![image](/images/issue3/16_disolved.jpg#issues)</a>
+{{< lightbox-img lightbox-id="dissolved" img-src="/images/issue3/16_disolved.jpg" alt="A person who appears to be melting away. The colors are tan and brown." >}}

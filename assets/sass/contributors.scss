@@ -1,0 +1,16 @@
+.contributors {
+    width: 100%;
+    border: 2px solid $text-color;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    padding: 2em;
+  
+    a {
+      text-decoration: underline;
+  
+      &:hover {
+        text-decoration: none;
+      }
+    }
+  }
+  

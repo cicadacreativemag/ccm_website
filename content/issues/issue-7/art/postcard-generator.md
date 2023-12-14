@@ -35,7 +35,7 @@ To celebrate the release of this issue, we've created a way for you to take a li
 <input type="text" id="socials" placeholder="Type your @..." class="postcardInput"> <br>
 <div id="logo-qr">
 <div id="logo">CCM #07: <br> You are here</div>
-<img id="qr-img" src='/images/issue7/qr.webp' alt="qr code"></div>
+<img id="qr-img" src='/images/misc/qr.webp' alt="qr code"></div>
 </div>
 
 </div>
@@ -166,45 +166,40 @@ width: calc(1.5rem + 2.5vw);
  }
 
 </style>
+
 <script>
-// Upload image
-const image_input = document.querySelector("#upload");
-image_input.addEventListener("change", function() {
-  const file_reader = new FileReader();
-  file_reader.addEventListener("load", () => {
-    const uploaded_image = file_reader.result;
-    document.querySelector("#postcard-image").style.backgroundImage = `url(${uploaded_image})`;
-  });
-  file_reader.readAsDataURL(this.files[0]);
-});
 
-// Change the stamp to the selected color.
-function setStamp(color) {
-  const icon = document.getElementById("stamp-img");
-  const iconColor = mapThemeToIconColor(color);
-  icon.src = `/icons/stamps/${iconColor}-c.png`;
-}  
-
-// Download image
-document.getElementById("download").addEventListener("click", function() {
-    html2canvas(document.querySelector('#postcard'),{useCORS: true,allowTaint: true,}).then(function(canvas) {
-        saveAs(canvas.toDataURL(), 'ccm-postcard.png');
+  // Upload image
+  const image_input = document.querySelector("#upload");
+  image_input.addEventListener("change", function() {
+    const file_reader = new FileReader();
+    file_reader.addEventListener("load", () => {
+      const uploaded_image = file_reader.result;
+      document.querySelector("#postcard-image").style.backgroundImage = `url(${uploaded_image})`;
     });
-});
-function saveAs(uri, filename) {
-    var link = document.createElement('a');
-    if (typeof link.download === 'string') {
-        link.href = uri;
-        link.download = filename;
-        //Firefox requires the link to be in the body
-        document.body.appendChild(link);
-        //simulate click
-        link.click();
-        //remove the link when done
-        document.body.removeChild(link);
-    } else {
-        window.open(uri);
-    }
-}
-
-    </script>
+    file_reader.readAsDataURL(this.files[0]);
+  });
+  
+  // Download image
+  document.getElementById("download").addEventListener("click", function() {
+      html2canvas(document.querySelector('#postcard'),{useCORS: true,allowTaint: true,}).then(function(canvas) {
+          saveAs(canvas.toDataURL(), 'ccm-postcard.png');
+      });
+  });
+  function saveAs(uri, filename) {
+      var link = document.createElement('a');
+      if (typeof link.download === 'string') {
+          link.href = uri;
+          link.download = filename;
+          //Firefox requires the link to be in the body
+          document.body.appendChild(link);
+          //simulate click
+          link.click();
+          //remove the link when done
+          document.body.removeChild(link);
+      } else {
+          window.open(uri);
+      }
+  }
+  
+</script>

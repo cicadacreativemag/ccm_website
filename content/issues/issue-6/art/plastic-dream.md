@@ -8,4 +8,4 @@ featuredImage: "/images/issue6/transparent/plasticdream_icon1.png"
 type: art
 ---
 
-<a href = "/images/issue6/16_plasticdream.jpeg" data-lightbox="img">![image](/images/issue6/16_plasticdream.jpeg#issues)</a>
+{{< lightbox-img lightbox-id="bittersweet" img-src="/images/issue6/16_plasticdream.jpeg" alt="A canvas depicting an underwater ocean scene. Blue and yellow fish swim in a school, passing by kinetic, dark green algae." >}}

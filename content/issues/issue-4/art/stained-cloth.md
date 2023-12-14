@@ -8,4 +8,4 @@ featuredImage: "/images/issue4/transparent/tablecloth.png"
 type: art
 ---
 
-<a href = "/images/issue4/tablecloth.jpg" data-lightbox="img">![image](/images/issue4/tablecloth.jpg#issues)</a>
+{{< lightbox-img lightbox-id="tablecloth" img-src="/images/issue4/tablecloth.jpg" alt="An illustration of a stain glass window that depicts two figures sitting next to each other and getting food. The glass casts a long shadow." >}}

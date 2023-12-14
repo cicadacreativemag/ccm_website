@@ -8,4 +8,4 @@ featuredImage: "/images/issue4/thumb/soymilk.jpg"
 type: art
 ---
 
-<a href = "/images/issue4/soymilk.jpg" data-lightbox="img">![image](/images/issue4/soymilk.jpg#issues)</a>
+{{< lightbox-img lightbox-id="soymilk" img-src="/images/issue4/soymilk.jpg" alt="A near empty grocery store, the shelves cleared and the aisles vacant. There is an abandoned shopping cart in the middle of the store. There are only two bottles left in the entire image, presumably soymilk." >}}

@@ -8,4 +8,4 @@ featuredImage: "/images/issue3/transparent/20_mirror_thumb.png"
 type: art
 ---
 
-<a href = "/images/issue3/20_mirror.jpg" data-lightbox="img">![image](/images/issue3/20_mirror.jpg#issues)</a>
+{{< lightbox-img lightbox-id="mirror" img-src="/images/issue3/20_mirror.jpg" alt="A girl with her hair up wearing a blue dress peers into the mirror as she puts on mascara." >}}

@@ -8,5 +8,4 @@ featuredImage: "/images/issue5/thumb/merrydance-icon2.png"
 type: art
 ---
 
-<a href = "/images/issue5/a-merry-dance.png" data-lightbox="22">![image](/images/issue5/a-merry-dance.png#issues)</a>
-
+{{< lightbox-img lightbox-id="merry" img-src="/images/issue5/a-merry-dance.png" alt="A turtle and a toad dancing happily together. The turtle has a red shell and the frog is yellow. They are having a conversation. The turtle says 'Look at us! Dancing and being merry fools at a time like this!' to which the toad responds 'Dear, times like these are exactly why we must dance and be merry don't you see?'" >}}

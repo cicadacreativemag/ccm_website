@@ -8,4 +8,4 @@ featuredImage: "/images/issue6/thumb/ccm6_cover.jpg"
 type: art
 ---
 
-<a href = "/images/issue6/ccm6_cover.png" data-lightbox="img">![image](/images/issue6/ccm6_cover.png#issues)</a>
+{{< lightbox-img lightbox-id="cover" img-src="/images/issue6/ccm6_cover.png" alt="The cover of Issue 06. An astronaut floats among stylized stars." >}}

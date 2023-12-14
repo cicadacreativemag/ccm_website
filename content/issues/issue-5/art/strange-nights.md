@@ -8,5 +8,4 @@ featuredImage: "/images/issue5/thumb/strangenights-icon.png"
 type: art
 ---
 
-<a href = "/images/issue5/Strange-Nights-With-My-Strange-Self.png" data-lightbox="19">![image](/images/issue5/Strange-Nights-With-My-Strange-Self.png#issues)</a>
-
+{{< lightbox-img lightbox-id="strange" img-src="/images/issue5/Strange-Nights-With-My-Strange-Self.png" alt="A figure with a deer head and long black skirt is standing in a dimly lit studio with haunting dark one-eyed figures holding hands and circled around it." >}}

@@ -8,4 +8,4 @@ featuredImage: "/images/issue6/transparent/senseofplace_icon.png"
 type: art
 ---
 
-<a href = "/images/issue6/10_senseofplace.PNG" data-lightbox="img">![image](/images/issue6/10_senseofplace.PNG#issues)</a>
+{{< lightbox-img lightbox-id="bittersweet" img-src="/images/issue6/10_senseofplace.PNG" alt="A dark space with stylized stars is the backdrop. In front of it, there is a wide-eyed baby sitting criss-crossed in an abstract flower-like construct." >}}

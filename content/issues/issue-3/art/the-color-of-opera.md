@@ -8,4 +8,4 @@ featuredImage: "/images/issue3/thumb/5_opera_thumb.jpg"
 type: art
 ---
 
-<a href = "/images/issue3/5_opera.JPG" data-lightbox="img">![image](/images/issue3/5_opera.JPG#issues)</a>
+{{< lightbox-img lightbox-id="opera" img-src="/images/issue3/5_opera.JPG" alt="A blushing woman with an ornate headdress has pink makeup on and is smiling serenely with her eyes closed. She is wearing a fluffy coat." >}}

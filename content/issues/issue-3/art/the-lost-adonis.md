@@ -8,4 +8,4 @@ featuredImage: "/images/issue3/thumb/17_thelostadonis_thumb.jpg"
 type: art
 ---
 
-<a href = "/images/issue3/17_lostadonis.jpg" data-lightbox="img">![image](/images/issue3/17_lostadonis.jpg#issues)</a>
+{{< lightbox-img lightbox-id="adonis" img-src="/images/issue3/17_lostadonis.JPG" alt="A man with a furrowed brow and shaded eyes melts in with his background. The bottom half of his mouth is missing, but he has a brown mustache." >}}

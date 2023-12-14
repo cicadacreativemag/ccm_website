@@ -8,5 +8,4 @@ featuredImage: "/images/issue4/thumb/culling.jpg"
 type: art
 ---
 
-<a href = "/images/issue4/culling.jpg" data-lightbox="12">![image](/images/issue4/culling.jpg#issues)</a>
-
+{{< lightbox-img lightbox-id="culling" img-src="/images/issue4/culling.jpg" alt="Abstract blue and yellow image with a snake-like structure passing through a grey box and depositing something into brown holes." >}}

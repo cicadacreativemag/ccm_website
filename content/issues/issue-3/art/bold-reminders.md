@@ -8,6 +8,6 @@ featuredImage: "/images/issue3/transparent/4_reminders_thumb.png"
 type: art
 ---
 
-<a href = "/images/issue3/4_reminders_1.jpg" data-lightbox="img">![image](/images/issue3/4_reminders_1.jpg#issues)</a>
+{{< lightbox-img lightbox-id="b" img-src="/images/issue3/4_reminders_1.jpg" alt="Two people dressed in white leaning against one another in an all white room." >}}
 
-<a href = "/images/issue3/4_reminders_2.jpg" data-lightbox="img">![image](/images/issue3/4_reminders_2.jpg#issues)</a>
+{{< lightbox-img lightbox-id="b" img-src="/images/issue3/4_reminders_2.jpg" alt="One of the figures wearing a necklace that says 'SPEAK." >}}

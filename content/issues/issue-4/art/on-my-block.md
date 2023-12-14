@@ -8,4 +8,4 @@ featuredImage: "/images/issue4/thumb/myblock.jpg"
 type: art
 ---
 
-<a href = "/images/issue4/myblock.jpg" data-lightbox="img">![image](/images/issue4/myblock.jpg#issues)</a>
+{{< lightbox-img lightbox-id="myblock" img-src="/images/issue4/myblock.jpg" alt="Mixed media piece laid on snow. There are 10 boxes laid out, some white, some dark blue, and some light cyan. Each is full of wooden rounds, gears, keys, string, and other odds and ends." >}}

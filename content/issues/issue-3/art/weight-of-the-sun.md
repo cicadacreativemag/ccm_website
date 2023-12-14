@@ -8,4 +8,4 @@ featuredImage: "/images/issue3/thumb/22_weightofthesun_thumb.jpg"
 type: art
 ---
 
-<a href = "/images/issue3/22_weightofthesun.jpg" data-lightbox="img">![image](/images/issue3/22_weightofthesun.jpg#issues)</a>
+{{< lightbox-img lightbox-id="sun" img-src="/images/issue3/22_weightofthesun.jpg" alt="Black and white image of a child walking away from a house holding a hose." >}}

@@ -8,4 +8,4 @@ featuredImage: "/images/issue6/transparent/bittersweet_icon.png"
 type: art
 ---
 
-<a href = "/images/issue6/04_bittersweet.jpg" data-lightbox="img">![image](/images/issue6/04_bittersweet.jpg#issues)</a>
+{{< lightbox-img lightbox-id="bittersweet" img-src="/images/issue6/04_bittersweet.jpg" alt="A collage of various stickers, receipts, ticket stubs, a traffic citation, and other stylized scraps of paper. The collage is bright and intimate." >}}

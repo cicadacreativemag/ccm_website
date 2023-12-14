@@ -8,4 +8,4 @@ featuredImage: "/images/issue4/thumb/oldmain.jpg"
 type: art
 ---
 
-<a href = "/images/issue4/oldmain.jpg" data-lightbox="img">![image](/images/issue4/oldmain.jpg#issues)</a>
+{{< lightbox-img lightbox-id="oldmain" img-src="/images/issue4/oldmain.jpg" alt="A black and white drawing of people standing outside a building that's ablaze. The people watch on pensively." >}}

@@ -8,6 +8,4 @@ featuredImage: "/images/issue5/thumb/cover-icon.png"
 type: art
 ---
 
-<a href = "/images/issue5/issue-5-cover.png" data-lightbox="1">![image](/images/issue5/issue-5-cover.png#issues)</a>
-
-
+{{< lightbox-img lightbox-id="cover" img-src="/images/issue5/issue-5-cover.png" alt="A humanoid figure has a whole in its chest. Fire spills out of it. The letters catharsis are scattered among the flames. The palette of the art is dark and moody." >}}

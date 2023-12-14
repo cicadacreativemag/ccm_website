@@ -8,4 +8,4 @@ featuredImage: "/images/issue6/thumb/14_limitless.jpg"
 type: art
 ---
 
-<a href = "/images/issue6/14_limitless.jpg" data-lightbox="img">![image](/images/issue6/14_limitless.jpg#issues)</a>
+{{< lightbox-img lightbox-id="bittersweet" img-src="/images/issue6/14_limitless.jpg" alt="Embroidered abstract scene with colorful thread. A circular shape with mini circles surrounding a larger circle give way to criss crossed lines. It almost looks like a sun shining on people." >}}

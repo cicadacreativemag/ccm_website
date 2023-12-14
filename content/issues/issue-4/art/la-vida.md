@@ -8,4 +8,4 @@ featuredImage: "/images/issue4/thumb/lavida.jpg"
 type: art
 ---
 
-<a href = "/images/issue4/lavida.JPG" data-lightbox="18">![image](/images/issue4/lavida.JPG#issues)</a>
+{{< lightbox-img lightbox-id="vida" img-src="/images/issue4/lavida.JPG" alt="Brown, orange, and yellow toned digital illustration of a person's stylized side profile." >}}

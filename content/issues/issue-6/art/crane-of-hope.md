@@ -8,5 +8,4 @@ featuredImage: "/images/issue6/thumb/04_craneofhope.jpg"
 type: art
 ---
 
-
-<a href = "/images/issue6/04_craneofhope.jpeg" data-lightbox="img">![image](/images/issue6/04_craneofhope.jpeg#issues)</a>
+{{< lightbox-img lightbox-id="bittersweet" img-src="/images/issue6/04_craneofhope.jpeg" alt="An origami paper crine with wire framing. The origami paper is red and blue. The wiring is delicate and gray." >}}

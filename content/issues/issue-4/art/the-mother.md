@@ -8,4 +8,4 @@ featuredImage: "/images/issue4/transparent/mother.png"
 type: art
 ---
 
-<a href = "/images/issue4/mother.jpg" data-lightbox="img">![image](/images/issue4/mother.jpg#issues)</a>
+{{< lightbox-img lightbox-id="mother" img-src="/images/issue4/mother.jpg" alt="A pregnant woman whose breast and stomach are outlined. The image is abstract, ashowing a figure who is surrounded by a combination of symbols like lips, a sword, eyes, and flowers." >}}

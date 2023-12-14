@@ -8,4 +8,4 @@ featuredImage: "/images/issue4/transparent/mymind.png"
 type: art
 ---
 
-<a href = "/images/issue4/mymind.JPG" data-lightbox="img">![image](/images/issue4/mymind.JPG#issues)</a>
+{{< lightbox-img lightbox-id="mymind" img-src="/images/issue4/mymind.JPG" alt="A human head open to demonstrate cosmic orbs circulating along an axis. The head is showing bones and other connective threads." >}}

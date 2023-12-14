@@ -36,7 +36,7 @@
 	color: $text-color;
 	font-family: $header-font;
 	letter-spacing: -3px;
-	font-size: calc(clamp(4.6rem, 2.825rem + 4.4vw, 5.3rem));
+	font-size: calc(clamp(4.2rem, 3.4667rem + 3.2593vw, 5.3rem));
 	line-height: 80%;
 	position: relative;
 	font-weight: 700;
@@ -50,7 +50,7 @@
 	font-family: $sub-font;
 	padding: 1.75vh;
 	margin-top: 2em;
-	width: calc(clamp(23rem, 2.825rem + 5vw, 30rem));
+	width: calc(clamp(18rem, 14.6667rem + 14.8148vw, 23rem));
 	animation: 1s ease-out 0s 1 slideInFromLeft;
 
 	a {

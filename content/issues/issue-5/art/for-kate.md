@@ -8,4 +8,4 @@ featuredImage: "/images/issue5/thumb/for-kate-icon.png"
 type: art
 ---
 
-<a href = "/images/issue5/for-kate.jpeg" data-lightbox="9">![image](/images/issue5/for-kate.jpeg#issues)</a>
+{{< lightbox-img lightbox-id="dou" img-src="/images/issue5/for-kate.jpeg" alt="A dark, mysterious figure that is half engulfed in flame. A moon with dense motion lines shine behind the dark red figure, who appears to be approaching it and looking back." >}}

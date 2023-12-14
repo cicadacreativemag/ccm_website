@@ -8,4 +8,4 @@ featuredImage: "/images/issue5/thumb/bottomfeeder-icon.png"
 type: art
 ---
 
-<a href = "/images/issue5/heavens-bottom-feeder.png" data-lightbox="17">![image](/images/issue5/heavens-bottom-feeder.png#issues)</a>
+{{< lightbox-img lightbox-id="heaven" img-src="/images/issue5/heavens-bottom-feeder.png" alt="A surrealist, bright digital illustration. A light blue, naked figure insight a red fish tank that has four eyes is contorted in an upside down U shape, their head by their feet planted on the ground. The sun is shining from the top,.and it appears there are coral and other aquatic plants growing around the figure." >}}

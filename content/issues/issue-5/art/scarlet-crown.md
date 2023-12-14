@@ -8,4 +8,4 @@ featuredImage: "/images/issue5/thumb/scarlett-icon.png"
 type: art
 ---
 
-<a href = "/images/issue5/scarlett-crown.jpeg" data-lightbox="16">![image](/images/issue5/scarlett-crown.jpeg#issues)</a>
+{{< lightbox-img lightbox-id="scarlett" img-src="/images/issue5/scarlett-crown.jpeg" alt="An abstract red, white, and black series of swirls. The shapes are intermittently loopy and sharp." >}}

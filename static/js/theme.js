@@ -4,6 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // Get the theme from local storage, then apply it.
   const theme = getTheme();
   applyTheme(theme);
+  setStamp(theme);
 
 });
 
@@ -27,6 +28,16 @@ function applyTheme(color) {
   document.documentElement.className = color;
 }
 
+function setStamp(color) {
+  const stamp = document.getElementById("stamp-img");
+  const stampColor = mapThemeToIconColor(color);
+  if (stamp) {
+    stamp.src = `/icons/stamps/${stampColor}-c.png`;
+  } else {
+    console.log("Stamp element not found on this page.");
+  }
+}
+
 // Called when you actually click the button.
 function handleThemeButtonClick(color, element) {
   element.blur();  // Remove focus from the button that was just clicked.
@@ -34,6 +45,7 @@ function handleThemeButtonClick(color, element) {
   saveThemeToLocalStorage(color);  // Save it to local storage.
 
   applyTheme(color);
+  setStamp(color);
 }
 
 /* Bunch of little functions below */

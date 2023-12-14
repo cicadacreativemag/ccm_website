@@ -8,4 +8,4 @@ featuredImage: "/images/issue3/thumb/11_mensthings_thumb.jpg"
 type: art
 ---
 
-<a href = "/images/issue3/11_mensthings.jpg" data-lightbox="img">![image](/images/issue3/11_mensthings.jpg#issues)</a>
+{{< lightbox-img lightbox-id="things" img-src="/images/issue3/11_mensthings.jpg" alt="Two men wrestling." >}}

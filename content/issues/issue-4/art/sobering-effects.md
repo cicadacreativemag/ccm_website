@@ -8,4 +8,4 @@ featuredImage: "/images/issue4/thumb/sobering.jpg"
 type: art
 ---
 
-<a href = "/images/issue4/sobering.jpg" data-lightbox="img">![image](/images/issue4/sobering.jpg#issues)</a>
+{{< lightbox-img lightbox-id="sobering" img-src="/images/issue4/sobering.jpg" alt="Intricately rendered ruins crumbling and in disarray. The image is shaded with oranges and browns." >}}

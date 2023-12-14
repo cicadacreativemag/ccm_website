@@ -8,4 +8,4 @@ featuredImage: "/images/issue5/thumb/tarot-icon.png"
 type: art
 ---
 
-<a href = "/images/issue5/bohiti-tarot.JPG" data-lightbox="3">![image](/images/issue5/bohiti-tarot.JPG#issues)</a>
+{{< lightbox-img lightbox-id="tarot" img-src="/images/issue5/bohiti-tarot.JPG" alt="A stack of tarot cards on a pile of yellow and orange squash and hay. The cards depict Puerto Rican morifs and figures." >}}

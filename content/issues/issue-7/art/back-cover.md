@@ -8,4 +8,4 @@ featuredImage: "/images/issue7/thumb/cover2.webp"
 type: art
 ---
 
-{{< lightbox-img link="/images/issue7/back-cover.png" lightbox-id="backcover" img-src="/images/issue7/back-cover.png#issues" alt="A surreal portal with a lotus in the middle. Its pixelated reflection fades into the background. It is overlaid on a yellow to pink gradient." >}}
+{{< lightbox-img lightbox-id="backcover" img-src="/images/issue7/back-cover.png" alt="A map of coordinates that represent anonymous survey results from the You are Here travel diary." >}}
