@@ -1,0 +1,30 @@
+.footer {
+    border-top: 1.5px solid $text-color;
+    padding: 1.5em;
+    margin-top: 2em;
+}
+
+input {
+    padding: 5px 10px 5px 10px !important;
+    border: 2px solid $text-color;
+    background-color: white;
+    color: black;
+
+    &::placeholder {
+        font-family: $sub-font;
+        font-size: small;
+    }
+}
+
+.button-74 {
+    border: 2px solid var(--text-color);
+    @include theme;
+    font-family: $sub-font;
+    cursor: pointer;
+    display: inline-block;
+    padding: 5px 10px 5px 10px;
+
+    &:hover {
+        @include invert;
+    }
+}

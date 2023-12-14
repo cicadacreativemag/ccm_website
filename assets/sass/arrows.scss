@@ -1,0 +1,21 @@
+.arrows {
+    text-align: center;
+    padding: 1.75vh;
+}
+
+.fa-long-arrow-alt-right,
+.fa-long-arrow-alt-left,
+.fa-home {
+    font-size: 18px;
+    border: 1.5px solid $text-color;
+    padding: 2vh;
+    a:hover {
+        text-decoration: none;
+        color: $bg-color;
+    }
+
+    &:hover {
+        background-color: $text-color;
+        color: $bg-color;
+    }
+}

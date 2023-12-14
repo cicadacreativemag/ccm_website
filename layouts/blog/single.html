@@ -4,7 +4,16 @@
     <div class="col-md-8 py-3">
         <div class="card">
             <div class="card-body">
-            <img class="img-fluid rounded" src="{{ .Param `featuredImage` }}" alt="featured image">
+              {{ $imagePath := .Param `featuredImage` }}
+              {{ with $imagePath }}
+              {{ $image := resources.Get $imagePath }}
+              {{ $resized := $image.Resize "800x" }} <!-- Resize to a maximum width of 600px -->
+              {{ $fingerprinted := $resized | resources.Fingerprint }} <!-- Fingerprint the resized image -->
+  
+              {{ with $fingerprinted }}
+              <img class="img-fluid rounded" src="{{ .RelPermalink }}" alt="Featured Image">
+              {{ end }}
+              {{ end }}
         {{.Content}}
     <div class="row justify-content-end py-3">
         <div class="col-auto">

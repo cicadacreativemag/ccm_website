@@ -1,0 +1,35 @@
+.navbar,
+.navbar-brand {
+  @include theme;
+  @include transition;
+}
+
+.nav-item {
+  font-family: $sub-font;
+  color: $text-color;
+  border: 1.5px solid $text-color;
+  font-size: 0.9rem;
+  padding-inline: 5px;
+  margin: 5px;
+  @include transition;
+  a:hover {
+    text-decoration: none;
+    color: $bg-color;
+  }
+
+  &:hover {
+   @include invert;
+  }
+}
+
+.nav-link {
+  color: $text-color;
+  a {
+    @include invert;
+    text-decoration: none;
+  }
+}
+
+.navbar-toggler-icon {
+  color: $text-color;
+}

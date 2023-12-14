@@ -1,0 +1,80 @@
+// Mixin for common input styles
+@mixin input-styles {
+    font-family: $sub-font;
+    font-size: 0.84em;
+    width: 100%;
+    border: 1px solid $text-color;
+    margin: 0 0 5px;
+    padding: 10px;
+  
+    &:hover {
+      border-color: $text-color;
+      transition: border-color 0.3s ease-in-out;
+    }
+  
+    &:focus {
+      outline: 0;
+    }
+  }
+  
+  // Placeholder for common contact styles
+  %contact-styles {
+    background: $bg-color;
+    border: 2px solid $text-color;
+    box-shadow: $text-color 0.3em 0.4em;
+    font-family: $sub-font;
+    font-size: 0.9em !important;
+    font-weight: 550;    
+    display: block;
+  
+    h6 {
+      @include invert;
+      display: block;
+      font-family: $sub-font;
+      font-size: 0.9em !important;
+      font-weight: 550;
+      padding: 3vh;
+    }
+  
+    input[type="text"],
+    input[type="email"],
+    textarea {
+      @include input-styles;
+      width: 100%;
+    }
+  
+    textarea {
+      height: 100px;
+      max-width: 100%;
+      resize: none;
+    }
+  
+    button[type="submit"] {
+      cursor: pointer;
+      float: right;
+      width: 8vh;
+      border: none;
+      background-color: inherit;
+      padding: 2vh;
+      font-size: 15px;
+      margin-bottom: 2vh;
+      color: $text-color;
+    }
+  
+    input:focus,
+    textarea:focus {
+      outline: 0;
+    }
+  }
+  
+  // Actual usage
+  fieldset {
+    margin: auto;
+    width: 90%;
+    padding: 0.8vh;
+  }
+  
+  #contact {
+    @extend %contact-styles;
+  }
+  

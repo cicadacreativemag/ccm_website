@@ -1,0 +1,55 @@
+@mixin applyButtonStyles() {
+  @include theme;
+  border-radius: 50%;
+  display: inline-block;
+
+  &:hover {
+    color: $text-color;
+  }
+
+  &:focus,
+  &:active {
+    border: 1px solid $text-color;
+  }  
+}
+
+@mixin setButtonSize($width, $height) {
+  width: $width;
+  height: $height;
+}
+
+.btn-border {
+  border: 1px solid $text-color;
+}
+
+button {
+  border-style: inherit;
+  &:hover {
+    cursor: pointer;
+  }
+}
+
+.button {
+	@include theme;
+	padding: .4em 1em;
+	border: 1px solid $text-color;
+	display: inline-block;
+	font-size: 0.86em;
+  &:hover {
+    @include invert;
+  }
+}
+
+@each $theme, $colors in $themes {
+  .btn-#{$theme} {
+    @include setButtonSize($regular-button-size, $regular-button-size);
+    @include applyButtonStyles();
+    @extend .#{$theme};
+  }
+
+  .btn-nav-#{$theme} {
+    @include setButtonSize($nav-button-size, $nav-button-size);
+    @include applyButtonStyles();
+    @extend .#{$theme};
+  }
+}

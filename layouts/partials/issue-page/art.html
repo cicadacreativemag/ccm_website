@@ -1,1 +1,6 @@
-<img class="img-fluid" src="{{ .Param `featuredImage` }}" alt="featured image">
+{{ $imagePath := .Params.featuredImage }}
+{{ $image := resources.Get $imagePath }}
+{{ $fingerprinted := $image | resources.Fingerprint }}
+{{ with $fingerprinted }}
+<img class="img-fluid" src="{{ .RelPermalink }}" alt="Issue thumbnail">
+{{ end }}

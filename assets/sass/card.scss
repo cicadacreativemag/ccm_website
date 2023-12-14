@@ -1,0 +1,28 @@
+.card {
+    @include transition;
+    @include theme;
+    border: 2px solid $text-color;
+    box-shadow: $text-color 0.5em 0.5em;
+    font-weight: 500;
+    padding: 2vh;
+    border-radius: 0px;
+}
+
+.card-title {
+    font-size: 1.3em;
+    font-family: $header-font;
+    font-weight: 900;
+}
+
+.img-fluid {
+    @include transition;
+    object-fit: cover;
+    max-height: 300px;
+    min-height: 100px;
+}
+
+.text-muted {
+    font-family: $sub-font;
+    color: $text-color !important;
+    font-style: italic;
+}

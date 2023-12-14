@@ -1,0 +1,31 @@
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 1em;
+  
+    .page-item {
+      list-style-type: none;
+      margin: 0 5px;
+  
+      &.disabled .page-link {
+       display: none;
+      }
+  
+      .page-link {
+        text-decoration: none;
+        @include theme;
+        padding: 8px 16px;
+        border: 1.5px solid $text-color;
+        transition: background-color 0.3s ease-in-out;
+  
+        &:hover {
+          @include invert;
+        }
+      }
+  
+      &.active .page-link {
+        @include invert;
+        border: 1.5px solid $text-color;
+      }
+    }
+  }

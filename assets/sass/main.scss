@@ -1,0 +1,93 @@
+@import "mobile";
+@import "theme-map";
+@import "variables";
+@import "mixins";
+@import "buttons";
+@import "nav";
+@import "top";
+@import "scrollbar";
+@import "card";
+@import "footer";
+@import "lightbox";
+@import "index";
+@import "issues";
+@import "contact";
+@import "pagination";
+
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  margin: 0;
+  padding: 0;  
+}
+
+body {
+  @include theme;
+  font-family: $body-font;
+  line-height: 1.5;
+  padding: 1em;
+  font-size: 1em;
+  @include transition;
+}
+
+a {
+  color: $text-color;
+  @include transition;
+  &:hover {
+    color: $text-color;
+    text-decoration: none;
+  }
+}
+
+.container {
+  color: $text-color;
+  width: 90%;
+  margin-top: 2%;
+}
+
+blockquote {
+  border-left: 1px solid $text-color;
+  font-family: $body-font;
+  padding-left: 1em;
+  margin-left: 1rem;
+}
+
+
+p {
+  color: $text-color;
+  font-family: $body-font;
+  line-height: 1.5;
+}
+
+li, ul {
+  color: $text-color;
+  font-family: $body-font;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $header-font;
+  font-weight: bold;
+}
+
+#preloader {
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+	display: flex;
+	position: fixed;
+	height: 100vh;
+	left: 0;
+	top: 0;
+	background: var(--bg-color)
+	  url("https://samherbert.net/svg-loaders/svg-loaders/spinning-circles.svg")
+	  no-repeat center;
+	z-index: 9999;
+  }

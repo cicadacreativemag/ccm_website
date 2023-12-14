@@ -1,35 +1,51 @@
 {{ define "main" }}
 {{- partial "menu.html" . -}}
 <div class="container">
-  {{.Content}}
-  <div class="row justify-content-start masonry">  
-   {{ range .Pages }}
-    <div class="col-sm-6 p-3 item">
-      <div class="card" >
-       <img class="img-fluid rounded" src="{{ .Param `featuredImage` }}" alt="featured image">
-          <div class="card-body">
-            <div class="card-title">
-               {{ .Title }}
-            </div>
-            <div class="card-subtitle mb-2"><blockquote>
-                {{ range .Param "authors" }}
-                  {{ . }}
-               {{ end }}</blockquote>
-            </div>
-               <p class="card-text"> {{ .Summary | truncate 300 }} </p>
-        <div class="row justify-content-between">
-         <div class="col-auto">
-            <p class="card-text"> <small class="text-muted"> {{ .PublishDate.Format "Jan. 2006" }}</small></p>
-            </div>
-            <div class="col-auto">
-               <p class="card-text"><small class="text-muted"><a href="{{.Permalink}}"> Keep reading <i class='fa fa-long-arrow-right'></i></a></small> </p>
+   {{.Content}}
+   <div class="row justify-content-start masonry">
+      {{ range .Paginator.Pages }}
+      <div class="col-sm-6 p-3 item">
+         <div class="card">
+            {{ $imagePath := .Param `featuredImage` }}
+            {{ with $imagePath }}
+            {{ $image := resources.Get $imagePath }}
+            {{ $resized := $image.Resize "600x" }}
+            {{ $fingerprinted := $resized | resources.Fingerprint }} 
+
+            {{ with $fingerprinted }}
+            <img class="img-fluid rounded" src="{{ .RelPermalink }}" alt="Featured Image">
+            {{ end }}
+            {{ end }}
+
+            <div class="card-body">
+               <div class="card-title">
+                  {{ .Title }}
                </div>
-           </div>
+               <div class="card-subtitle mb-2">
+                  <blockquote>
+                     {{ range .Param "authors" }}
+                     {{ . }}
+                     {{ end }}</blockquote>
+               </div>
+               <p class="card-text"> {{ .Summary | truncate 300 }} </p>
+               <div class="row justify-content-between">
+                  <div class="col-auto">
+                     <p class="card-text"> <small class="text-muted"> {{ .PublishDate.Format "Jan. 2006" }}</small></p>
+                  </div>
+                  <div class="col-auto">
+                     <p class="card-text"><small class="text-muted"><a href="{{.Permalink}}"> Keep reading <i
+                                 class='fa fa-long-arrow-right'></i></a></small> </p>
+                  </div>
+               </div>
             </div>
          </div>
-      </div>
-      {{ end }}
+         
+      </div>            
+      {{ end }} 
+    
    </div>
+   {{- partial "pagination.html" . -}}
+   
 </div>
 {{- partial "footer.html" . -}}
 {{ end }}

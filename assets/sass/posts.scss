@@ -1,0 +1,9 @@
+.post {
+	color: $text-color;
+	justify-content: space-between;
+	padding: 2em;
+	overflow-y: auto;
+	&::-webkit-scrollbar-track {
+		border-left: 0px solid $text-color;
+	}
+}

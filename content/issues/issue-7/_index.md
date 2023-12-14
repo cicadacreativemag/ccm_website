@@ -3,7 +3,7 @@ title: "Issue 07: 'You are here'"
 draft: false
 date: 2023-08-01T14:43:27-04:00
 layout: issue-page
-featuredImage: /images/issue7/cover.png
+featuredImage: /images/issue7/thumb/cover.webp
 summary: Maps are, at their most essential, symbolic diagrams that outline relationships between things. This issue, we invited you to contemplate where you stand on your own maps.
 ---
 

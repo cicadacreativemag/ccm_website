@@ -5,26 +5,26 @@ document.addEventListener("DOMContentLoaded", () => {
   const theme = getTheme();
   applyTheme(theme);
 
-}); 
+});
 
 // Apply the theme by changing icon, activating button, changing document class.
 // Still need to save to local storage explicitly.
 function applyTheme(color) {
   console.log(`Applying theme "${color}".`);
   setIcon(color);
-  
 
   const button = getColorButton(color);
-  activateButton(button);
-  document.documentElement.className = color;
 
-if (setStamp) {
-  setStamp(color)
-}
-else {
-  console.log(`No stamp found.`)
-};
-  
+  if (button) {
+    activateButton(button);
+  } else {
+    // If the button corresponding to the color is not found,
+    // set a default button as active (for the initial load).
+    const defaultButton = document.getElementById("white"); // Change "white" to your default theme color ID
+    activateButton(defaultButton);
+  }
+
+  document.documentElement.className = color;
 }
 
 // Called when you actually click the button.
@@ -73,11 +73,11 @@ function setIcon(color) {
   const icon = document.getElementById("navbarIcon");
   const iconColor = mapThemeToIconColor(color);
   icon.src = `/icons/${iconColor}-c.png`;
-} 
+}
 
 // Given the theme color, return the logo color.
 function mapThemeToIconColor(themeColor) {
-  switch(themeColor) {
+  switch (themeColor) {
     case "blue":
       return "green";
     case "green":
