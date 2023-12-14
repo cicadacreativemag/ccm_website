@@ -3,7 +3,7 @@
     {{- partial "head.html" . -}}
     {{- partial "preloader.html" . -}}
     <a id="top"></a>
-    <body>
+    <body>    
         {{- block "main" . }}{{ .Content }}{{- end }}
         {{- partial "scripts.html" . -}}
     </body>

@@ -8,4 +8,4 @@ featuredImage: "/images/issue2/thumb/18_kapow.jpg"
 type: art
 ---
 
-<a href = "/images/issue2/18_kapow.jpeg" data-lightbox="img">![image](/images/issue2/18_kapow.jpeg#issues)</a>
+{{< lightbox-img lightbox-id="transplant" img-src="/images/issue2/18_kapow.jpeg" alt="Two hands outstretched towards another, fingers nearly touching, with a comic book style speech bubble behind it saying KA-POW!" >}}

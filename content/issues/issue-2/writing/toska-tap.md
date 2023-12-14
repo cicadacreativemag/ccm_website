@@ -13,7 +13,7 @@ your feet sank straight through the melted concrete as you were running, worn sh
 ##### II. LEGS WRAPPED UP IN AIR-THIN SHEETS
 two jeering faces were mounted to the wall, grinning with empty, half-moon eyes. you exorcised yourself on the carpet, twitched and sobbed yourself clean.  
 
-a ribbon of yellow outlined the eye sockets, accusingly, tauntingly -- your mother sighed and removed them from the room. are you still scared of bobbleheaded ghosts and faces in the wallpaper? you're such a silly kid. look, i'll show you there's nothing to be scared of.
+a ribbon of yellow outlined the eye sockets, accusingly, tauntingly -- your mother sighed and removed them from the room. are you still scared of bobbleheaded ghosts and faces in the wallpaper? you're such a silly child. look, i'll show you there's nothing to be scared of.
 
 ##### III. I BURIED THE MOUSE BY THE CREEK
 an itemized list of your greatest fears:  
@@ -22,7 +22,7 @@ an itemized list of your greatest fears:
 • a hand recoiling from yours
 
 ##### IV. WHAT YOU DON'T KNOW
-one of my greatest talents was always how flexible i was. i could fit into small spaces, twisting my body into obfuscation, hiding in the cupboards and slotting myself behind washing machines. i once read that octopi can fit through openings as small as a penny. when i was a kid, i would imagine that was me when i was in my bathtub.  
+one of my greatest talents was always how flexible i was. i could fit into small spaces, twisting my body into obfuscation, hiding in the cupboards and slotting myself behind washing machines. i once read that octopi can fit through openings as small as a penny. when i was a kid, i would imagine that was me in my bathtub.  
 
 unfortunately, there were no holes in my bathtub, so i had no way to practice my amazing act of marine escapism. still, i was positive i could do it if i wanted.  
 
@@ -36,8 +36,8 @@ you returned to something flushed, cold. you spread out your arms and fell into 
 Do you love me? Do you still think my hair smells like winter-spring?
 
 ##### VI. IT DIDN'T HURT AT ALL
-i often consider the time i sat pensively in a nearby bodega,holding a coffee cup with both hands and slouching in the tall stool. my feet dangled over the tile and i stared out the frosted window, watching the storm bloom. cozy in my self-imposed isolation, i blew the steam off the top of my paper cup, willing myself to blow away just as easily.  
+i often consider the time i sat pensively in a nearby bodega, holding a coffee cup with both hands and slouching in the tall stool. my feet dangled over the tile and i stared out the frosted window, watching the storm bloom. cozy in my self-imposed isolation, i blew the steam off the top of my paper cup, willing myself to blow away just as easily.  
 
 i had abandoned my final project, a still life drawing, at the studio down the street. had wandered into the shop. didn't know where i was or what i wanted. dazedly sat and watched moved life, water spilling.  
 
-a wayward ghost, a vacant stare, a stilted apology, a cold wave. gabriel, michael, raphael, uriel. i swallowed it. count to four; hop over the sidewalk crack. i walked into the rain. it did not make me clean.  
+a wayward ghost, a vacant stare, a stilted apology, a cold wave. count to four; hop over the sidewalk crack. i walked into the rain. it did not make me clean.  

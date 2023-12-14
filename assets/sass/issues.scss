@@ -1,7 +1,6 @@
 @import "arrows";
 @import "contributors";
 
-// Mixin for common box styles
 @mixin common-box-styles {
     border: 2px solid $text-color;
     display: flex;
@@ -79,4 +78,10 @@ img[src*="#blog"] {
     display: flex;
     justify-content: center;
     margin: 0 auto;
+}
+
+.video {
+	max-width: 100%;
+	height: auto;
+	padding: 0.5em;
 }

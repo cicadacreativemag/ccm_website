@@ -8,4 +8,4 @@ featuredImage: "/images/issue2/thumb/28_geraets.jpg"
 type: art
 ---
 
-<a href = "/images/issue2/28_geraets.jpg" data-lightbox="img">![image](/images/issue2/28_geraets.jpg#issues)</a>
+{{< lightbox-img lightbox-id="orb" img-src="/images/issue2/28_geraets.jpg" alt="A woman wearing a crown who has black hair with purple, pink, blue, and yellow streaks as well as flowers, cherries, and stars growing from her hair. She has an outrestched arm, and a bear is walking on her hand. The 'sun' is actually a lemon slice, and there is a backdrop of fluffy pink and purple clouds with macarons and fruits tucked in them." >}}

@@ -8,4 +8,4 @@ featuredImage: "/images/issue2/thumb/38_umi.jpg"
 type: art
 ---
 
-<a href = "/images/issue2/38_umi.jpg" data-lightbox="img">![image](/images/issue2/38_umi.jpg#issues)</a>
+{{< lightbox-img lightbox-id="umi" img-src="/images/issue2/38_umi.jpg" alt="Two furry bear-like creatures inside a large anemoneme-esque nest atop a tree branch. The image is heavily stylized and delicate." >}}

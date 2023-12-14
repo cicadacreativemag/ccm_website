@@ -8,4 +8,4 @@ featuredImage: "/images/issue2/thumb/35_future.jpg"
 type: art
 ---
 
-<a href = "/images/issue2/35_future.jpeg" data-lightbox="img">![image](/images/issue2/35_future.jpeg#issues)</a>
+{{< lightbox-img lightbox-id="future" img-src="/images/issue2/35_future.jpeg" alt="An embroidered scene of nighttime with mysterious bird-like colorful creatures to the side." >}}

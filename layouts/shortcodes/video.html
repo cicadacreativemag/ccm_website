@@ -1,5 +1,6 @@
-<video class="video-shortcode" preload="auto" controls>
-    <source src="{{ .Get "src" }}" type="{{ .Get "type" }}">
-    There should have been a video here but your browser does not seem
-    to support it.
+
+{{ $video := resources.Get (.Get "src") | fingerprint }}
+<video class="video" preload="auto" controls>
+  <source src="{{ $video.RelPermalink }}" type="{{ .Get "type" }}">
+  Your browser does not support the video tag.
 </video>

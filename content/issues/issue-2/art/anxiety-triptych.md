@@ -8,4 +8,4 @@ featuredImage: "/images/issue2/transparent/40_polly.png"
 type: art
 ---
 
-<a href = "/images/issue2/40_polly_anxietytriptych.jpg" data-lightbox="img">![image](/images/issue2/40_polly_anxietytriptych.jpg#issues)</a>
+{{< lightbox-img lightbox-id="orb" img-src="/images/issue2/40_polly_anxietytriptych.jpg" alt="Three disembodied women's busts with hands clutching at her throat, chest, and wrists anxiously." >}}

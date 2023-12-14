@@ -8,4 +8,4 @@ featuredImage: "/images/issue2/thumb/16_judith.jpg"
 type: art
 ---
 
-<a href = "/images/issue2/16_judith.jpeg" data-lightbox="img">![image](/images/issue2/16_judith.jpeg#issues)</a>
+{{< lightbox-img lightbox-id="judith" img-src="/images/issue2/16_judith.jpeg" alt="Painting of a person with a red high heel stepping on a man's face." >}}

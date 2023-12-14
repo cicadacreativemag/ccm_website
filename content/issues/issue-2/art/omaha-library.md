@@ -8,4 +8,4 @@ featuredImage: "/images/issue2/thumb/15_omahalibrary.jpg"
 type: art
 ---
 
-<a href = "/images/issue2/15_omahalibrary.png" data-lightbox="img">![image](/images/issue2/15_omahalibrary.png#issues)</a>
+{{< lightbox-img lightbox-id="transplant" img-src="/images/issue2/15_omahalibrary.png" alt="Graphic design poster that shows a saturated and filtered photo of the Clark library with a map and book at the top." >}}

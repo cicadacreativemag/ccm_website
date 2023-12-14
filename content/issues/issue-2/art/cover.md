@@ -8,4 +8,4 @@ featuredImage: "/images/issue2/thumb/cover2.jpg"
 type: art
 ---
 
-<a href = "/images/issue2/cover2.JPG" data-lightbox="img">![image](/images/issue2/cover2.JPG#issues)</a>
+{{< lightbox-img lightbox-id="cover" img-src="/images/issue2/cover2.JPG" alt="A cover illustration depicting a dilapidated desaturated grey-blue building with pink flowering trees growing on it. The pillars spell the letters CCM." >}}

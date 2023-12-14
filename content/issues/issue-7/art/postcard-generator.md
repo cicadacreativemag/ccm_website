@@ -42,10 +42,11 @@ To celebrate the release of this issue, we've created a way for you to take a li
 
 <br>
 <div class="option"><strong>Upload your image</strong><br>
-<input type="file" id="upload" accept ="image/jpeg, image/png, image/jpg"></div>
+<label for="upload" class="download">Choose file</label>
+<input type="file" id="upload" accept ="image/jpeg, image/png, image/jpg" style="display: none;"></div>
 
 <div class="option"><strong>Save your postcard as a PNG</strong><br>
-<button id="download">Download</button>   
+<button class="download">Download</button>   
 
 </div>
 </div>
@@ -130,6 +131,7 @@ width: 40%;
 display: flex;
 align-items: center;
 justify-content: space-between;
+margin: 1em 0;
 }
 #input {
 font-size: 0.9rem;
@@ -143,12 +145,22 @@ border: 0;
 input[type="file"i] {
 background-color: var(--bg-color);
 color: var(--text-color);
+
 }
-#download {
-border: 1px solid gray;
-border-radius: 5px;
-padding: 2px 5px;
+.download {
+border: 1.5px solid var(--text-color);
+background-color: var(--bg-color);
+color: var(--text-color);
+border-radius: 0;
+padding: 5px 15px;
+cursor: pointer;
 }
+
+.download:hover {
+  background-color: var(--text-color);
+  color: var(--bg-color);
+}
+
  @media (max-width: 400px) {
 #postcard {
 font-size: 0.6rem;

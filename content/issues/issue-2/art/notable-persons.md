@@ -8,4 +8,4 @@ featuredImage: "/images/issue2/thumb/32_notable.jpg"
 type: art
 ---
 
-<a href = "/images/issue2/32_notable.jpg" data-lightbox="img">![image](/images/issue2/32_notable.jpg#issues)</a>
+{{< lightbox-img lightbox-id="np" img-src="/images/issue2/32_notable.jpg" alt="Long canvas with various people's faces abstracted. The background is red with a white border." >}}

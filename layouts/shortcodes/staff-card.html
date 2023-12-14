@@ -1,16 +1,34 @@
+{{ $img := resources.Get (.Get "img-src") }}
+
+{{ with $img }}
+{{ $resizedImage := .Resize "300x webp" }}
+{{ if $resizedImage }}
+{{ $name := $.Get "name" }}
+{{ $position := $.Get "position" }}
+{{ $caption := $.Get "caption" }}
+{{ $altText := $.Get "alt" }}
+
 <div class="col-sm-6 item">
-    <div class="card mb-4">
+  <div class="card mb-4">
     <div class="row g-2">
       <div class="col-md-4">
-        <a href="{{ .Get "link" }}" data-lightbox="staff" ><img src="{{ .Get "img-src" }}" class="img-fluid"  alt="{{ .Get "alt" }}"> </a>
-    </div>
-    <div class="col-md-8">
-      <div class="card-body">
-      <h5 class="card-title">{{ .Get "name" }}</h5>
-      <p class="card-text"><i>{{ .Get "position" }}</i></p>
-      <p class="card-text">{{ .Get "caption" }}</p>
+        <a href="{{ .RelPermalink }}" data-lightbox="staff"> <center><img src="{{ $resizedImage.RelPermalink }}"
+            class="img-fluid" alt="{{ $altText }}"></center></a>
+      </div>
+      <div class="col-md-8">
+        <div class="card-body">
+          <h5 class="card-title">{{ $name }}</h5>
+          <p class="card-text"><i>{{ $position }}</i></p>
+          <p class="card-text">{{ $caption }}</p>
+        </div>
       </div>
     </div>
   </div>
-  </div>
 </div>
+
+{{ else }}
+<p>Error: Image couldn't be resized.</p>
+{{ end }}
+{{ else }}
+<p>Error: Image not found.</p>
+{{ end }}

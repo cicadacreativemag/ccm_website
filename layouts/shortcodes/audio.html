@@ -1,5 +1,14 @@
-<div align=center><figure {{ with .Get "class" }}class="{{ . }}"{{ end }}>
-    <audio controls preload="{{ .Get "preload" | default "metadata" }}">
-      {{ with .Get "src" }}<source src="{{ . | relURL }}" type="audio/mpeg">{{ end }}
+{{ $audio := resources.Get (.Get "src") | fingerprint }}
+
+  <figure {{ with .Get "class" }}class="{{ . }}"{{ end }}>
+    <audio id="customAudio" preload="{{ .Get "preload" | default "metadata" }}">
+      {{ with $audio }}<source src="{{ .RelPermalink }}" type="audio/mpeg">{{ end }}
     </audio>
-  </figure></div>
+    <div class="audio-player">
+      <button id="toggleBtn"><i class="fa-solid fa-circle-play"></i></button>
+      <input type="range" id="seekSlider" min="0" step="1" value="0">
+      <span id="currentTime">0:00</span> / <span id="duration">0:00</span>
+    </div>
+  </figure>
+
+<script src="/js/music.js"></script>

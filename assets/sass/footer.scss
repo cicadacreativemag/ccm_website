@@ -16,8 +16,8 @@ input {
     }
 }
 
-.button-74 {
-    border: 2px solid var(--text-color);
+.button-ok {
+    border: 2px solid $text-color;
     @include theme;
     font-family: $sub-font;
     cursor: pointer;
@@ -26,5 +26,11 @@ input {
 
     &:hover {
         @include invert;
+    }
+}
+
+@media (min-width: 768px) {
+    .text-md-left {
+        text-align: left !important;
     }
 }

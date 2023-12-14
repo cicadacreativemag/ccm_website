@@ -1,21 +1,4 @@
 
-
-.video-shortcode {
-	max-width: 100%;
-	max-height: 70vh;
-	padding: 0.5em;
-}
-
-
-
-
-
-
-
-
-
-
-
 @media (max-width: 768px) {
  /* FOR MOBILE */
 	.mc-field-group {

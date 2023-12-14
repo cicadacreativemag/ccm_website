@@ -8,5 +8,4 @@ featuredImage: "/images/issue2/transparent/5_macdonald.png"
 type: art
 ---
 
-
-<a href = "/images/issue2/5-macdonald_deer.jpg" data-lightbox="img">![image](/images/issue2/5-macdonald_deer.jpg#issues)</a>
+{{< lightbox-img lightbox-id="deer" img-src="/images/issue2/5-macdonald_deer.jpg" alt="Two tooth-shaped structures standing near each other. The 'roots' look like legs, and the sculptures can be understood as deer." >}}

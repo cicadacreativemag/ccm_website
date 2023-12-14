@@ -8,4 +8,4 @@ featuredImage: "/images/issue2/transparent/17_Zynda.png"
 type: art
 ---
 
-<a href = "/images/issue2/17_alms.JPG" data-lightbox="img">![image](/images/issue2/17_alms.JPG#issues)</a>
+{{< lightbox-img lightbox-id="alms" img-src="/images/issue2/17_alms.JPG" alt="Plate with a bronze rim that depicts a hand reaching out." >}}

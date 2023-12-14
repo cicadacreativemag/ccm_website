@@ -8,4 +8,4 @@ featuredImage: "/images/issue2/transparent/10_Kim.png"
 type: art
 ---
 
-<a href = "/images/issue2/10_to_you.jpg" data-lightbox="img">![image](/images/issue2/10_to_you.jpg#issues)</a>
+{{< lightbox-img lightbox-id="toyou" img-src="/images/issue2/10_to_you.jpg" alt="Wooden plank with Hangul characters and shapes laser burned out. By the side of the board are various lasered boards stacked atop one another." >}}

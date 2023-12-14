@@ -8,4 +8,4 @@ featuredImage: "/images/issue2/thumb/15_glimmerofhope.jpg"
 type: art
 ---
 
-<a href = "/images/issue2/15_glimmerofhope.jpg" data-lightbox="img">![image](/images/issue2/15_glimmerofhope.jpg#issues)</a>
+{{< lightbox-img lightbox-id="glimmer" img-src="/images/issue2/15_glimmerofhope.jpg" alt="Graphic design project that shows a white background with a rounded rectangle with a black bottom and blue, red, and yellow top." >}}

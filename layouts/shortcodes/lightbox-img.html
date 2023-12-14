@@ -6,10 +6,9 @@
     {{ $lightboxID := $.Get "lightbox-id" }}
     {{ $altText := $.Get "alt" }}
 
-    <a href="{{ .RelPermalink }}" data-lightbox="{{ $lightboxID }}">
-      <img src="{{ $resizedImage.RelPermalink }}" class="issue-img" alt="{{ $altText }}">
-    </a>
-  {{ else }}
+<a href="{{ .RelPermalink }}" data-lightbox="{{ $lightboxID }}"><img src="{{ $resizedImage.RelPermalink }}" class="issue-img" alt="{{ $altText }}"></a>
+
+{{ else }}
     <p>Error: Image couldn't be resized.</p>
   {{ end }}
 {{ else }}

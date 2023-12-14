@@ -24,7 +24,8 @@ We hope to broadcast each and every way you make your mark on our world.
 {{< cards/card-medium title="Brain Spread">}}
 A spread we made on our third meeting.
 
-{{< lightbox-img link="/images/misc/brainspread.png" lightbox-id="about" img-src="/images/misc/thumb/brainspread.png" alt="A photo of a board with three broad categories stating What We Do, How We Do It, and Why We Do It. Messy notes line the margins. The title is CICADA - Brand foundation Brain Spread.">}}
+{{< lightbox-img lightbox-id="about" img-src="/images/misc/brainspread.png" alt="A photo of a board with three broad categories stating What We Do, How We Do It, and Why We Do It. Messy notes line the margins. The title is CICADA - Brand foundation Brain Spread." >}}
+
 {{<  /cards/card-medium >}}
 
 {{<  cards/card-medium title="Goals">}}

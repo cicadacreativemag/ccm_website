@@ -8,4 +8,4 @@ featuredImage: /images/issue2/transparent/1_nyback.png
 type: art
 ---
 
-<a href = "/images/issue2/1_crumplevase.jpg" data-lightbox="img">![image](/images/issue2/1_crumplevase.jpg#issues)</a>
+{{< lightbox-img lightbox-id="crumple" img-src="/images/issue2/1_crumplevase.jpg" alt="A textured creamy white vase that looks as if it's crumpled. The background is a gradient of black to white." >}}

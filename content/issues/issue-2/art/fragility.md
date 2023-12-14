@@ -8,4 +8,4 @@ featuredImage: "/images/issue2/transparent/22_bosch.png"
 type: art
 ---
 
-<a href = "/images/issue2/22_fragility.jpg" data-lightbox="img">![image](/images/issue2/22_fragility.jpg#issues)</a>
+{{< lightbox-img lightbox-id="fragility" img-src="/images/issue2/22_fragility.jpg" alt="Wrapped up ribbon-like structures that appear to be floating in the air." >}}

@@ -8,4 +8,4 @@ featuredImage: "/images/issue2/thumb/36_orbiting.jpg"
 type: art
 ---
 
-<a href = "/images/issue2/36_orbiting.jpeg" data-lightbox="img">![image](/images/issue2/36_orbiting.jpeg#issues)</a>
+{{< lightbox-img lightbox-id="orb" img-src="/images/issue2/36_orbiting.jpeg" alt="An orbiting structure captured in motion that makes a starry shape." >}}

@@ -8,5 +8,6 @@ featuredImage: "/images/issue2/transparent/31_hillbrand.png"
 type: art
 ---
 
-<a href = "/images/issue2/31_hillbrand_soilwatersky1.jpg" data-lightbox="img">![image](/images/issue2/31_hillbrand_soilwatersky1.jpg#issues)</a>
-<a href = "/images/issue2/31_hillbrand_soilwatersky2.jpg" data-lightbox="img">![image](/images/issue2/31_hillbrand_soilwatersky2.jpg#issues)</a>
+{{< lightbox-img lightbox-id="sws" img-src="/images/issue2/31_hillbrand_soilwatersky1.jpg" alt="Three staggered box structures at different elevations. The top has a cut paper owl, the middle has a fish skeleton, and the bottom has butterflies. Strings connect each and have butterflies on them." >}}
+
+{{< lightbox-img lightbox-id="sws" img-src="/images/issue2/31_hillbrand_soilwatersky2.jpg" alt="Closeup of the owl with red string looped arounts its talons." >}}

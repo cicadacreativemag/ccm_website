@@ -8,4 +8,4 @@ featuredImage: "/images/issue2/thumb/42_townshipsfarmhouse.jpg"
 type: art
 ---
 
-<a href = "/images/issue2/42_townshipsfarmhouse.jpg" data-lightbox="img">![image](/images/issue2/42_townshipsfarmhouse.jpg#issues)</a>
+{{< lightbox-img lightbox-id="orb" img-src="/images/issue2/42_townshipsfarmhouse.jpg" alt="Cross-hatched ink art of houses." >}}

@@ -8,4 +8,4 @@ featuredImage: "/images/issue2/transparent/14_nyback.png"
 type: art
 ---
 
-<a href = "/images/issue2/14_nyback_rakuvase.jpg" data-lightbox="img">![image](/images/issue2/14_nyback_rakuvase.jpg#issues)</a>
+{{< lightbox-img lightbox-id="transplant" img-src="/images/issue2/14_nyback_rakuvase.jpg" alt="A warped vase that looks like the coating is burnt or flaking off." >}}
