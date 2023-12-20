@@ -43,10 +43,10 @@
       width: 100%;
     }
   
-    textarea {
-      height: 100px;
+    textarea {      
       max-width: 100%;
-      resize: none;
+      resize: none;    
+      font-size: 0.9em;  
     }
   
     button[type="submit"] {
