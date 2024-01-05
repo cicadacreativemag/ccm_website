@@ -91,7 +91,7 @@ function setIcon(color) {
 function mapThemeToIconColor(themeColor) {
   switch (themeColor) {
     case "blue":
-      return "green";
+      return "yellow";
     case "green":
       return "blue";
     case "pink":
