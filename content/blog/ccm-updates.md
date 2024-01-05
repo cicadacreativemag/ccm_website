@@ -5,7 +5,7 @@ date: 2024-01-05T13:22:39-04:00
 authors: ["Jay Serrano, Editor-in-Chief"]
 layout: blog
 featuredImage: "/images/blog/blog-greenblue.png"
-summary: We've made it no secret that CCM is an ever-evolving project, and we've always believed it's important to be transparent with you all. This post will break down some of the changes you can expect to see from CCM this issue cycle, like rolling reviews (which means shorter response time), staff restructuring, and community outreach initiatives.
+summary: We've made it no secret that CCM is an ever-evolving project, and we've always believed it's important to be transparent with you all. This post will break down some of the changes you can expect to see from CCM this issue cycle, like rolling reviews (which means shorter response time), staff restructuring, and more.
 ---
 
 # CCM Updates
