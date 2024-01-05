@@ -1,0 +1,18 @@
+<div class="col-sm-4 py-3 item">
+<div class="card">
+{{ if isset .Params "img-src" }}
+<img src="{{ .Get "img-src" }}" class="img-fluid" alt="{{ .Get "alt" }}">
+{{ end }}
+<div class="card-body">
+<h5 class="card-title">{{ .Get "title" }}</h5>
+<p class="card-text">{{ .Inner | markdownify | safeHTML }}</p>
+{{ if and (isset .Params "caption") (isset .Params "link") }}
+<p class="card-text" style="float:right">
+<small class="text-muted">
+<a href="{{ .Get "link" }}">{{ .Get "caption" }} <i class='fa fa-long-arrow-right'></i></a>
+</small>
+</p>
+{{ end }}
+</div>
+</div>
+</div>

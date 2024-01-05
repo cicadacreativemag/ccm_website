@@ -1,0 +1,48 @@
+#HCB_comment_box,
+.btn,
+input#hcb_submit,
+.hcb-comment-tb button,
+#HCB_comment_box input,
+#HCB_comment_box input.btn,
+#HCB_comment_box select,
+#HCB_comment_box textarea,
+#HCB_comment_box input::placeholder,
+#HCB_comment_box textarea::placeholder,
+span.date {
+    font-family: $body-font !important;
+    font-size: inherit;
+}
+
+.home-desc,
+.hcb-icon {
+    display: none !important;
+}
+
+.hcb-comment-tb button {
+    color: $text-color !important;
+}
+
+#hcb_submit,
+input#hcb_submit {
+    color: $text-color !important;
+    background-color: $bg-color !important;
+    border: 1px solid $text-color !important;
+    padding: 10px !important;
+    border-radius: 0 !important;
+    font-size: inherit;
+    &:hover {
+        background-color: $text-color !important;
+        color: $bg-color !important;
+    }
+
+}
+
+#hcb_file_label {
+    display: none !important;
+}
+
+#HCB_comment_box .comment a img {
+    margin: 0 0 8px;
+    border-left: 1px solid !important;
+    padding-left: 5px !important;
+}

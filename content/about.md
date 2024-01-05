@@ -28,6 +28,8 @@ A spread we made on our third meeting.
 
 {{<  /cards/card-medium >}}
 
+
+
 {{<  cards/card-medium title="Goals">}}
 *   Create an accessible space for creative people anywhere to build community and share art.
 *   Eliminate traditional barriers for artists, such as educational and financial requirements.
@@ -35,4 +37,9 @@ A spread we made on our third meeting.
 *   Craft a unique visual and personal brand for our community.
 *   Collaborate with other creative publications and help to build a coalition of welcoming, inclusive mags/zines/etc.
 {{<  /cards/card-medium >}}
+
+{{<  cards/card-medium title="Documentation">}}
+We have [formal documentation](https://docs.cicadacreativemag.com/). It is an ever-evolving catalog of all things Cicada. Although its primary function is for staff reference, we think it makes sense to offer you some insight into our inner workings if you're interested.
+{{<  /cards/card-medium >}}
+
 {{< /masonry >}}

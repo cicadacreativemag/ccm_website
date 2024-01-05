@@ -32,20 +32,20 @@
   url = "/about/"
   weight = 2
   [[menu.main]]
-  name = "Staff"
-  url = "/staff/"
-  weight = 3
-  [[menu.main]]
   name = "Issues"
   url = "/issues/"
+  weight = 3
+  [[menu.main]]
+  name = "Submit"
+  url = "/submit/"
   weight = 4
   [[menu.main]]
   name = "Blog"
   url = "/blog/"
   weight = 5
   [[menu.main]]
-  name = "Submit"
-  url = "/submit/"
+  name = "Staff"
+  url = "/staff/"
   weight = 6
   [[menu.main]]
   name = "Contact"
