@@ -1,6 +1,6 @@
 ---
 weight: 2
-title: "Editors Note"
+title: "Editor's Note"
 authors: ["Casey Forest"]
 description: Writing Editor
 draft: false
