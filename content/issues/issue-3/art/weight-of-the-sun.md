@@ -1,5 +1,5 @@
 ---
-weight: 22
+weight: 21
 title: "Weight of the Sun"
 authors: ["Kately Mischnick"]
 description: Ink painting of a still shot from an old home movie ca. 1950s. Ink on bristol, 12x9 in
