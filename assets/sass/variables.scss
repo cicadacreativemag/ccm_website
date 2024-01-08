@@ -1,9 +1,19 @@
 $bg-color: var(--bg-color);
 $text-color: var(--text-color);
 
-$body-font: 'Crimson Text', serif;
+$body-font: 'Mrs Eaves', serif;
 $header-font: 'Nimbus Sans', sans-serif;
 $sub-font: 'Inconsolata', monospace;
 
 $regular-button-size: 5.3rem;
 $nav-button-size: 2.25em;
+
+@font-face {
+    font-family: Mrs Eaves;
+    src: url(/fonts/Eaves.TTF);
+  }
+
+@font-face {
+    font-family: Nimbus Sans;
+    src: url(/fonts/NimbusSans-Bold.woff);
+  }
