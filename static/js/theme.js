@@ -84,7 +84,17 @@ function saveThemeToLocalStorage(color) {
 function setIcon(color) {
   const icon = document.getElementById("navbarIcon");
   const iconColor = mapThemeToIconColor(color);
-  icon.src = `/icons/${iconColor}-c.png`;
+  icon.src = `/icons/${iconColor}-c.svg`;
+   // Update favicon based on the theme color
+   updateFavicon(iconColor);
+}
+
+// Function to update favicon based on the theme color
+function updateFavicon(iconColor) {
+  const favicon = document.querySelector('link[rel="icon"]');
+
+  // Set the new favicon path based on the theme color
+  favicon.href = `/icons/${iconColor}-c.svg`;
 }
 
 // Given the theme color, return the logo color.
