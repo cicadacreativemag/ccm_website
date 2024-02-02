@@ -1,4 +1,6 @@
+{{ $counter := 0 }}
 {{- range ( where site.RegularPages "Section" "blog" | first 2 ) }}
+{{ $counter = add $counter 1 }}
 {{ $imagePath := .Param `featuredImage` }}
 {{ with $imagePath }}
 {{ $image := resources.Get $imagePath }}
@@ -6,14 +8,18 @@
 {{ $fingerprinted := $resized | resources.Fingerprint }}
 
 {{ with $fingerprinted }}
-<img class="img-fluid rounded" src="{{ .RelPermalink }}" alt="Featured Image"><br>
+<img class="img-fluid rounded" src="{{ .RelPermalink }}" style="margin-top: 1em" alt="Featured Image"><br>
 {{ end }}
 {{ end }}
 <h3 class="card-title">{{ .Title | truncate 36 }}</h3>
 <div class="card-subtitle mb-2">
-    <p class="card-text">
+    <p>
     <blockquote> <i> {{ range .Param "authors" }} {{ . }} {{ end }} </i></blockquote>
-    {{.Summary | truncate 200 }} <small class="text-muted"><a href="{{.Permalink}}">Keep reading</small></a>
-    </p>
-</div>
+    {{.Summary | truncate 200 }}</p>
+    <p style="float:right; "><small class="text-muted"><a href="{{.Permalink}}">Keep reading</small></a> <i class="fa fa-long-arrow-right"></i></p>    
+</div> 
+{{ if eq $counter 1 }}
+<hr style="margin-top: 3.75em;">
+{{ end }}
+
 {{ end }}

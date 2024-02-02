@@ -8,9 +8,6 @@ featuredImage: "/images/blog/reopening-schools.jpg"
 summary: In a few weeks, millions of students will be returning to school for the fall. Despite the current COVID-19 pandemic with cases on the rise again, most schools are planning on having at least some in-person learning. For parents, this requires them to make a tough decision on whether or not to send their children to school- or to opt for online only options.
 ---
 
-# What Schools Reopening Will Look Like for Teachers
-> Haley Arnold, Publications Director
-
 In a few weeks, millions of students will be returning to school for the fall. Despite the current COVID-19 pandemic with cases on the rise again, most schools are planning on having at least some in-person learning. For parents, this requires them to make a tough decision on whether or not to send their children to school- or to opt for online only options.
 
 Online learning would prevent the students from contracting and spreading the virus, which would protect others-quality online education, it is hard to get the same results as in-person teaching. To make matters more confusing, many parents are going back to work and cannot be home to assist their children or afford childcare. This will be a hard decision for many families and there is a large population that will be affected by schools re-opening that do not get a choice. If teachers want to keep their job and get paid their salary, they must return to school in the Fall.

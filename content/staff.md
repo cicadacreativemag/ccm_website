@@ -18,6 +18,9 @@ While the beating heart of Cicada is our creative community, we want you to know
 
 {{< staff-card name="Christopher Capri" position="Writing Editor" img-src="/images/staff/christopher.webp" alt="A photo of a man smiling in a black and blue striped shirt with a water background." caption="Poet and fiber artist, bibliophile, full time MFA student, procrastinator.  The rest can wait.">}}
 
+{{< staff-card name="Penny Molesso" position="Reviewer" img-src="/images/staff/penny.jpg" alt="An image of a person with blond hair and a thick-knit pink, white, and red heart-themed sweater smiling gently." caption="Penny Molesso is a transmedia artist, filmmaker, and writer based in Omaha, Nebraska. They received their MFA at the University of Nebraska-Lincoln in 2023. Penny was a Lambda Literary Foundation fellow in screenwriting in 2023. Their visual art and poetry has been published in muzzle, WMN Zine, and Fraction Magazine." website="https://pennymolesso.com/" >}}
+
 {{< staff-card name="Aimee Kuiper" position="Freelancer" img-src="/images/staff/aimee.jpg" alt="An image of a person with glasses standing in front of a background of stylized cartoon bugs." caption="Maximalist illustrator and author who might be running late because she got distracted by a neat little bird.">}}
+
 
 {{< /masonry >}}

@@ -8,9 +8,6 @@ featuredImage: "/images/blog/navigating-allyship.png"
 summary: For non-Black people of color, it can be difficult to navigate allyship with the Black community, especially for those who are only just now beginning to educate themselves on Black justice. This article provides an introduction to the first steps and best practices you can take to be a better ally for Black folk in the U.S. as a non-black person of color. 
 ---
 
-# Navigating Black Allyship as a Non-Black Person of Color
-> Herman Luis Chavez, Managing Editor
-
 For non-Black people of color, it can be difficult to navigate allyship with the Black community, especially for those who are only just now beginning to educate themselves on Black justice. This article provides an introduction to the first steps and best practices you can take to be a better ally for Black folk in the U.S. as a non-black person of color. 
 
 Allyship is a complicated ordeal, especially for non-Black people of color. 

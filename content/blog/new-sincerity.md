@@ -8,9 +8,6 @@ featuredImage: "/images/blog/sincerity.jpg"
 summary: Art  changes throughout time, evolving to address each century’s unique  struggles and values. In an effort to retaliate against the cynicism of a  post-war era, modern writers began to pioneer a new age of writing  which they called New Sincerity. 
 ---
 
-# New Sincerity during Quarantine
-> Gracie Neirynck, Creative Team Member
-
 Art  changes throughout time, evolving to address each century’s unique  struggles and values. In an effort to retaliate against the cynicism of a  post-war era, modern writers began to pioneer a new age of writing  which they called New Sincerity. This era was founded upon the idea that  in modern times it was far more courageous to describe the subtle dust  and honesty of everyday life than it was to write about extreme emotion.  It rebelled against the idea that sentimentality was naive and instead  sought to express it. This idea appealed to me as I came to college.  Repulsed by the aftertaste of teenage angst on my tongue, I became  enchanted with the lingering notion that honesty could be a form of  rebellion. As the world began to shut down during quarantine, I wondered  if this idea would hold up in a time of isolation. I wondered if  sincerity would still be resilient.  
 
 When  March reared its ugly head my fast-paced freshman year of college  became completely still, like that of many others. This stillness  bothered me. I felt utterly useless as I read each morning about the  thousands of people across the globe who were falling victim to a virus  which was completely indifferent to them. There was no real outlet to  express my frustration. It is hard to rebel against something which is  so indifferent. The only way I know how to rebel against indifference is  to be sincere. In a nation more ravaged with the virus than ever  before, the age of New Sincerity is more relevant now than it was before  quarantine. 

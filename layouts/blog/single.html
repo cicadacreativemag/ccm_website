@@ -1,28 +1,38 @@
 {{ define "main" }}
-{{- partial "menu.html" . -}}
 <div class="container">
+  {{- partial "menu.html" . -}}
     <div class="col-md-8 py-3">
-        <div class="card">
-            <div class="card-body">
-              {{ $imagePath := .Param `featuredImage` }}
-              {{ with $imagePath }}
-              {{ $image := resources.Get $imagePath }}
-              {{ $resized := $image.Resize "800x" }} <!-- Resize to a maximum width of 600px -->
-              {{ $fingerprinted := $resized | resources.Fingerprint }} <!-- Fingerprint the resized image -->
-  
-              {{ with $fingerprinted }}
-              <img class="img-fluid rounded" src="{{ .RelPermalink }}" alt="Featured Image">
-              {{ end }}
-              {{ end }}
-        {{.Content}}
-    <div class="row justify-content-end py-3">
-        <div class="col-auto">
-          <p class="card-text"> <small class="text-muted"> {{ .PublishDate.Format "January 02, 2006" }}</small></p>
-       </div>
-       {{- partial "arrows-blog.html" . -}}
-     </div>
+      <div class="card">
+        <div class="card-body">
+            {{ $imagePath := .Param `featuredImage` }}
+            {{ with $imagePath }}
+                {{ $image := resources.Get $imagePath }}
+                {{ $resized := $image.Resize "800x" }} <!-- Resize to a maximum width of 600px -->
+                {{ $fingerprinted := $resized | resources.Fingerprint }} <!-- Fingerprint the resized image -->
+    
+                {{ with $fingerprinted }}
+                    <img class="img-blog rounded" src="{{ .RelPermalink }}" alt="Featured Image">
+                {{ end }}
+            {{ end }}
+            
+            <h1>{{ .Title }}</h1>
+            <div class="row justify-content-between">
+              <div class="col-auto">
+                <blockquote>
+                  {{ range .Param "authors" }}
+                  {{ . }}
+                  {{ end }}</blockquote>
+              </div>             
+              <div class="col-auto">
+                <p class="card-text"> <small class="text-muted"> {{ .PublishDate.Format "January 02, 2006" }}</small></p>
+            </div>
+           </div>
+            {{.Content}}
+            <div class="row justify-content-end py-3">    
+                {{- partial "arrows-blog.html" . -}}
+            </div>
         </div>
-     </div>
+    </div>    
     </div>
 
     <div class="col-md-8 py-3">

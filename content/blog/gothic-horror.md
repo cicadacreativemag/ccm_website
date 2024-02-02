@@ -8,19 +8,13 @@ featuredImage: "/images/blog/oct 2.png"
 summary: Gothic art may make you think of poorly painted Medieval friezes, but this spooky season, let’s think about another form of Gothic art. Art inspired by the themes of Gothic fiction, also known as Gothic Horror. Read more to see the work of 6 talented artists who evoke the Gothic themes of sadness, fear, and terror in their work.
 ---
 
-# Gothic Influence in Horror Art
-> Gracie Neirynck, Publications Director
-
 Gothic art may make you think of poorly painted Medieval friezes, but this spooky season, let’s think about another form of Gothic art. Art inspired by the themes of Gothic fiction, also known as Gothic Horror. Read more to see the work of 6 talented artists who evoke the Gothic themes of sadness, fear, and terror in their work.
 
 ---
 
 **1. Enrico Robusti**
 
-An Italian painter, Enrico Rbusti 
-completed a degree in Law before starting a career in the arts. Although
- the paintings don’t have typical gothic elements, I think there's 
-something wonderfully horrifying about his style. 
+An Italian painter, Enrico Rbusti completed a degree in Law before starting a career in the arts. Although the paintings don’t have typical gothic elements, I think there's something wonderfully horrifying about his style. 
 
 ![image](/images/blog/post/gothic/1.png#blog)
 

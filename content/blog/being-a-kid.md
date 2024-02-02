@@ -8,98 +8,27 @@ featuredImage: "/images/blog/kid.jpg"
 summary: Sometimes  college is the place where we lose it—it not referring to virginity,  house keys, parental respect, or mental stability. Hard as it is to  admit, I myself have lost it more than once here, despite the fact that  I’ve spent a lot of money to become an undergrad and curate it, in hopes  of making it marketable. 
 ---
 
-# I Miss Being a Kid
-> Casey Forest, Creative Team Member
+Sometimes college is the place where we lose it—*it* not referring to virginity, house keys, parental respect, or mental stability. Hard as it is to admit, I myself have lost *it* more than once here, despite the fact that I’ve spent a lot of money to become an undergrad and curate *it*, in hopes of making it marketable. This month we were asked to talk about creative coping, and I’m here to announce that I have been doing no such thing—not in the pandemic, not in the summer, not even at any point in my college career. I have had tunnel vision since maybe Antiquity.
 
-Sometimes
- college is the place where we lose it—it not referring to virginity, 
-house keys, parental respect, or mental stability. Hard as it is to 
-admit, I myself have lost it more than once here, despite the fact that 
-I’ve spent a lot of money to become an undergrad and curate it, in hopes
- of making it marketable. This month we were asked to talk about 
-creative coping, and I’m here to announce that I have been doing no such
- thing—not in the pandemic, not in the summer, not even at any point in 
-my college career. I have had tunnel vision since maybe Antiquity.
+There is an indefinable creative quality that lives its life very gently, very quietly in that back of our heads. It is slippery and shy as an eggshell in cake batter. It’s kind of an asshole: it doesn’t care that you haven’t written in three months or that a residency application deadline is tonight. To get it to clock in, everything must be just right, it has to feel safe; the stars must align, the to-do list must be full (but not too full), the head must be clear. I do not encounter these conditions very often. So *it* is often absent for me now. 
 
-There
- is an indefinable creative quality that lives its life very gently, 
-very quietly in that back of our heads. It is slippery and shy as an 
-eggshell in cake batter. It’s kind of an asshole: it doesn’t care that 
-you haven’t written in three months or that a residency application 
-deadline is tonight. To get it to clock in, everything must be just 
-right, it has to feel safe; the stars must align, the to-do list must be
- full (but not too full), the head must be clear. I do not encounter 
-these conditions very often. So it is often absent for me now. 
+This is the point where being able to define *it* might be important. I am not talking about happiness, or creativity, or passion, or motivation, or even the *want* to make something. In my mind, *it* is something that cohabitated with my brain, happily, until I graduated high school. For me, *it* was an organic, almost frenzied connection to writing. I would come home from school every day (every! day! it baffles me now) and sit at my dad’s old white computer to write for hours, with no desire to pause or snack or do anything other than write. This is the period in my life that defined me as a writer; even when I stopped being able to do 
+that, I still considered myself one. In retrospect, *it* was probably still lurking in the back of my head, refusing to surface, waiting for me to forget about it so it could come back, unnoticed, to rekindle something. 
 
-This
- is the point where being able to define it might be important. I am not
- talking about happiness, or creativity, or passion, or motivation, or 
-even the want to make something. In my mind, it is something that 
-cohabitated with my brain, happily, until I graduated high school. For 
-me, it was an organic, almost frenzied connection to writing. I would 
-come home from school every day (every! day! it baffles me now) and sit 
-at my dad’s old white computer to write for hours, with no desire to 
-pause or snack or do anything other than write. This is the period in my
- life that defined me as a writer; even when I stopped being able to do 
-that, I still considered myself one. In retrospect, it was probably 
-still lurking in the back of my head, refusing to surface, waiting for 
-me to forget about it so it could come back, unnoticed, to rekindle 
-something. 
+This is super specific. I do not expect anyone to be able to relate to it. But for the sake of making someone feel seen, I have compiled a checklist to help us recognize *it*, since I believe *it* bops around and manifests itself in different ways; ways which might reassure you that *it* has not left you, even if you’re having a hard time creating right now; or might remind you of the park you went to as a child; or that might make your eyes glaze over until you hit the end of the list or, god forbid, click back to your Instagram feed.
 
-This is super specific. I do not expect anyone to 
-be able to relate to it. But for the sake of making someone feel seen, I
- have compiled a checklist to help us recognize it, since I believe it 
-bops around and manifests itself in different ways; ways which might 
-reassure you that it has not left you, even if you’re having a hard time
- creating right now; or might remind you of the park you went to as a 
-child; or that might make your eyes glaze over until you hit the end of 
-the list or, god forbid, click back to your Instagram feed.
-
-*   You will sit down and pick a movie. It will not take you eighty years to do it.*   When there were still theaters, you would walk out, sneakers muffled on the carpet, shocked that it was still daytime.
+*   You will sit down and pick a movie. It will not take you eighty years to do it.
+*   When there were still theaters, you would walk out, sneakers muffled on the carpet, shocked that it was still daytime.
 *   Reading [Artist Animal](https://cicadacreativemag.com/issuepage.html) makes you want to swim to the bottom of the ocean, immediately.
-*   Last year, when a friend got up from the café table to refill their coffee,you doodled something on the back of the dirty napkin. It was a poem or a
- honeybee or an exceptionally straight line. You felt the need to put it
- in your pocket, and now it lives in some drawer somewhere, and if youwent to find it right now you would feel alarmed at how brutally honestit is.
- *   Your Pinterest boards are clustered. You cling to Mori Kei skirts or Swedish interior decorating until you don’t.
+*   Last year, when a friend got up from the café table to refill their coffee, you doodled something on the back of the dirty napkin. It was a poem or a honeybee or an exceptionally straight line. You felt the need to put it in your pocket, and now it lives in some drawer somewhere, and if you went to find it right now you would feel alarmed at how brutally honest it is.
+ *   Your Pinterest boards are clustered. You cling to *Mori Kei* skirts or Swedish interior decorating until you don’t.
  *   You could not separate the fire from the heat, even if you tried.
- *   While you’re falling asleep, while your mind is doing whatever minds do inthe forty minutes it takes you to start dreaming, you could be joltedback awake by remembering you haven’t wished your uncle a happy Friday,even though it is Tuesday and you haven’t spoken to him since he taggedyou in a post about nephews he found on the Cows are Angels in DisguiseFacebook page.
+ *   While you’re falling asleep, while your mind is doing whatever minds do in the forty minutes it takes you to start dreaming, you could be jolted back awake by remembering you haven’t wished your uncle a happy Friday, even though it is Tuesday and you haven’t spoken to him since he tagged you in a post about nephews he found on the *Cows are Angels in Disguise* Facebook page.
 
-Clearly, what I’m rambling on about is a 
-sense of presence that precedes an ability to create. Personally, I do 
-not think higher education (or pandemics, or unruly elections, or 
-natural disasters) is all that conducive to the kind of presence that 
-offers a place for the spontaneous content that is easiest to make. 
-Understand that I am not saying it is impossible to make something 
-non-academic without it; I am merely trying to articulate something 
-that’s been bothering me since my daily word count became my monthly 
-word count.
+Clearly, what I’m rambling on about is a sense of presence that precedes an ability to create. Personally, I do not think higher education (or pandemics, or unruly elections, or natural disasters) is all that conducive to the kind of presence that offers a place for the spontaneous content that is easiest to make. Understand that I am not saying it is impossible to make something non-academic without *it*; I am merely trying to articulate something that’s been bothering me since my daily word count became my monthly word count.
 
-In our present moment, which is terrible, we need 
-every support we can get to create something external. My fiction 
-workshop professor would implore you to write (or draw, or needle-felt, 
-whatever) what needs to be written (drawn, felted, whatever), especially
- now; to offer that space to someone else who might need it, or even to 
-offer it to yourself. 
+In our present moment, which is terrible, we need every support we can get to create something external. My fiction workshop professor would implore you to write (or draw, or needle-felt, whatever) what needs to be written (drawn, felted, whatever), especially now; to offer that space to someone else who might need it, or even to offer it to yourself. 
 
-But trying to create right now is really 
-hard. It is really hard to sit down and stare at a blank page and 
-remember how easy it used to be. It’s hard to come to terms with the 
-fact that all your creating goes into files for school which you might 
-not ever look at again, that you’ve run out of energy, that everyone is 
-telling you how important it is to keep making in a time when the most 
-organic parts of us are hibernating. It’s hard to pivot an entire 
-identity on creation and exist in a time where it’s impossible to 
-process what’s going on, and more impossible still to face the guilt of 
-distracting yourself. 
+But trying to create right now is really hard. It is really hard to sit down and stare at a blank page and remember how easy it used to be. It’s hard to come to terms with the fact that all your creating goes into files for school which you might not ever look at again, that you’ve run out of energy, that everyone is telling you how important it is to keep *making* in a time when the most organic parts of us are hibernating. It’s hard to pivot an entire identity on creation and exist in a time where it’s impossible to process what’s going on, and more impossible still to face the guilt of distracting yourself. 
 
-I’m only here to tell you that coping looks
- very different depending on the day, the hour. Sometimes it’s great to 
-force out something creative and be proud that you can, even with the 
-absence of it; sometimes all we can do is browse the Documentary section
- on Netflix unfeelingly and be a little inspired but mostly jealous that
- someone created such a pretty film in a time like this. I’m also here 
-to remind you to look for it; to not be upset that it might be hiding 
-again; to console it, and console yourself. It is not gone; it couldn’t 
-possibly be, it loves you too much; and if you can’t create right now, 
-okay, then maybe you have the time to roll out a welcome mat and dust 
-the curtains should it decide to tiptoe back some morning soon.
+I’m only here to tell you that coping looks very different depending on the day, the hour. Sometimes it’s great to force out something creative and be proud that you can, even with the absence of it; sometimes all we can do is browse the Documentary section on Netflix unfeelingly and be a little inspired but mostly jealous that someone created such a pretty film in a time like this. I’m also here to remind you to look for *it*; to not be upset that it might be hiding again; to console it, and console yourself. *It* is not gone; it couldn’t possibly be, it loves you too much; and if you can’t create right now, okay, then maybe you have the time to roll out a welcome mat and dust the curtains should *it* decide to tiptoe back some morning soon.

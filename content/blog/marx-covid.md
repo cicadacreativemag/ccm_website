@@ -8,10 +8,6 @@ featuredImage: "/images/blog/marx-covid.jpg"
 summary: Where we live is a mess. It’s a convoluted, poorly meshed, dig-until-your-hands-break country. It was a rug ripped out from under those who called it home, and now it is a capitalist petri dish. It’s hard to agree on things here, even with ourselves. 
 ---
 
-
-# What I Have to Say about what Marx Would Have to Say about Capitalism and COVID-19
-> Casey Forest, Content Editor
-
 Where we live is a mess. It’s a convoluted, poorly meshed, dig-until-your-hands-break country. It was a rug ripped out from under those who called it home, and now it is a capitalist petri dish. It’s hard to agree on things here, even with ourselves.
 
 In middle school, a teacher once asked our class what we thought made a successful person. We were so cute – we said things like stability, kindness, helpfulness. Easy question; success was bred into us from the start. It was instinct more than desire. That was before we knew we would probably never be homeowners. And then the teacher asked us to name people we thought were successful. If we were not so stuffed on what was being fed to us, we would have said, my mother. The postman. You, Ms. Newman, for being here on such short salary.

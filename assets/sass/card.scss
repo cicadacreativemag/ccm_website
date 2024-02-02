@@ -14,11 +14,22 @@
     font-weight: 900;
 }
 
+hr {
+    height: 0px;
+    border: none;
+    border-top: 1px solid $text-color;
+}
+
 .img-fluid {
     @include transition;
     object-fit: cover;
     max-height: 300px;
     min-height: 100px;
+}
+
+.img-blog {
+    width: 100%;
+    height: auto;
 }
 
 .text-muted {

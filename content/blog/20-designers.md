@@ -8,9 +8,6 @@ featuredImage: "/images/blog/designers.png"
 summary: We all love to imagine design as the industry of the future–innovative, inclusive, progressive.  However, this field is just as prone to racial inequality as any other industry in America, if not moreso. Just check out page 14 of the 2019 AIGA Design Census. Because of this, it is imperative that we begin to recenter the conversation. White designers in the industry have an obligation to elevate our Black peers. You can start by checking out the amazing designers and organizations that I’ve listed in this Quick List for Cicada’s September newsletter. 
 ---
 
-# 20 Black Designers You Need to Follow
-> Reilly Webster, Director of Design
-
 We all love to imagine design as the industry of the future–innovative, inclusive, progressive.  However, this field is just as prone to racial inequality as any other industry in America, if not moreso. Just check out page 14 of the 2019 AIGA Design Census. Because of this, it is imperative that we begin to recenter the conversation. White designers in the industry have an obligation to elevate our Black peers. You can start by checking out the amazing designers and organizations that I’ve listed in this Quick List for Cicada’s September newsletter. 
 
 **10 collectives striving to diversify the design world**

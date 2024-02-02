@@ -9,9 +9,6 @@ summary: It’s 2021, and COVID is still in full swing. With cities encouraging 
 
 ---
 
-# 7 Arbitrary Ways to Stay Creative at Home 
-> Haley Arnold, Social Media Manager
-
 It’s 2021, and COVID is still in full swing. With cities encouraging us to continue social distancing, work from home and limit our activity outside of the home, it can be hard to stay entertained and feel motivated. At this point we have all moved on from whipped coffee and sourdough bread, so here are 10 other ideas on how to be creative at home!
 
 1. Learn a Tik Tok dance

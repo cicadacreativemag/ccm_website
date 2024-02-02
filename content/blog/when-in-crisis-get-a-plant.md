@@ -8,12 +8,6 @@ featuredImage: "/images/blog/2023/june/houseplants.png"
 summary: When work stress, family drama, and traffic nightmares follow you home, scientists and gardeners agree on one solution -- get a houseplant. A wide variety of studies describe the effect green plants have in classrooms, hospitals, offices, and especially homes. Overall, the presence of two to five growing things in your living space will improve your well being. The effects are most profound in children and young adults, as well as any person experiencing low mental health.
 ---
 
-> *Illustration by Allyson (Alex) Lee, Creative Director*
-
-
-# When in Crisis, Get a Plant
-> Aimee Kuiper, Creative Team Member
-
 When work stress, family drama, and traffic nightmares follow you home, scientists and gardeners agree on one solution: get a houseplant. A wide variety of studies describe the effect green plants have in classrooms, hospitals, offices, and especially homes. Overall, the presence of two to five growing things in your living space will improve your well being. The effects are most profound in children and young adults, as well as any person experiencing low mental health.
 
 There are two major reasons for this plant presciption’s potency in improving our happiness. First, the gentle responsibility of caring for a plant can provide purpose and routine to our schedules without becoming overwhelming. In essence, it is easier than a dog but happier than a rock. Secondly, our brains naturally associate houseplants with everything we like about the outdoors. Thanks to the connections your brain has already forged, the freedom of a hike, the smells of a garden, and the fresh air of a front porch can be summoned by the humble potted plant.  In addition, two or more plants noticeably improve the air quality in your home and leave a pleasant aroma.

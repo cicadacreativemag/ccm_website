@@ -8,12 +8,6 @@ featuredImage: "/images/blog/2023/june/edibleflowers.png"
 summary: Edible flowers have been on the menu for humans since the beginning of our gastronomical explorations. But in recent years, they’ve begun appearing in our appetizers, on our dinner plates, and in our desserts as well. Some are much more than just garnishes for salads and cocktails, and may even offer health benefits.
 ---
 
-> *Illustration by Allyson (Alex) Lee, Creative Director*
-
-
-# Good Eats - Flowers
-> Denise “The Vamp DeVille” Zubizarreta is a neurodivergent Puerto Rican + Cuban multidisciplinary creative, researcher, and scholar currently living and working in Arvada, CO with a BFA in Fine Art from the Rocky Mountain College of Art and Design. She currently focuses her writing on arts and culture for both Hyperallergic and Southwest Contemporary. Her mixed media works explore post-colonial theory through traditions, memories, and contemporary life that are blended in her work to honor, reclaim, as well as, reinvent narratives of the past, present, and future.
-
 It may be trendy to stuff a squash blossom, but it's really nothing new. For centuries, cultures around the globe have enhanced their recipes with flowers. In Roman times, roses were used for cooking, flavoring food. Rosewater was also added to fountains and baths thanks to its astringent properties and ability to cleanse and tone the skin whilst maintaining pH balance. For flowers that look good as well as taste good, consider some of the following:
 
 **Hibiscus**

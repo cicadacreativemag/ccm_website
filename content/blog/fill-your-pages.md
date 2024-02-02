@@ -8,9 +8,6 @@ featuredImage: "/images/blog/pages.png"
 summary: Finishing something you worked really hard on might just be one of the best feelings in the world. But what makes this accomplishment feel even more fulfilling? When you planned every step of the way!
 ---
 
-# Fill! Your! Pages!
-> Peyton Farnum, Creative Team Member
-
 Finishing something you worked really hard on might just be one of the best feelings in the world. But what makes this accomplishment feel even more fulfilling? When you planned every step of the way!
 
 As an artist with a constant myriad of ideas for projects, carrying out said projects can be more chaotic and disorganized than necessary. I found that sometimes the process of one piece would be mixed up with the potential ideas for another, which made it difficult for me to stay focused. Luckily, I find solace in utilizing the empty pages of my sketchbook and my desire for aesthetic organization. To create more clarity, I started designing pages dedicated to sorting out my ideas for all of my projects. These helped me keep track of the goals I had for my work, such as subject, messages/themes, inspirations and stylistic choices. 

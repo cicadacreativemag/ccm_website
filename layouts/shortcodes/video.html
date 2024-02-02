@@ -1,4 +1,3 @@
-
 {{ $video := resources.Get (.Get "src") | fingerprint }}
 <video class="video" preload="auto" controls>
   <source src="{{ $video.RelPermalink }}" type="{{ .Get "type" }}">

@@ -7,10 +7,6 @@ layout: blog
 featuredImage: "/images/blog/parasite.png"
 summary: An exploration of spatial dynamics created between architecture and film narratives. How do director Bong Joon Ho and production designer Lee Ha Jun craft the relationship between the Park family home and the characters of Parasite? 
 ---
-> *Illustration by Allyson (Alex) Lee, Creative Director*
-
-# Parasite: Spatial Dynamics created through Architecture and Film
-> Written by Lizzie Tjahja, Creative Director  
 
 *An exploration of spatial dynamics created between architecture and film narratives. How do director Bong Joon Ho and production designer Lee Ha Jun craft the relationship between the Park family home and the characters of Parasite?*
 

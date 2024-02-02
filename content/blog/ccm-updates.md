@@ -8,9 +8,6 @@ featuredImage: "/images/blog/blog-greenblue.png"
 summary: We've made it no secret that CCM is an ever-evolving project, and we've always believed it's important to be transparent with you all. This post will break down some of the changes you can expect to see from CCM this issue cycle, like rolling reviews (which means shorter response time), staff restructuring, and more.
 ---
 
-# CCM Updates
-> Jay Serrano, Editor-in-Chief
-
 Happy new year everyone! It's good to talk to you again. A few staff members, including myself, spent the last few months relocating, which meant pausing some CCM activity. But we're back and ready for our next issue cycle. As always, we've rolled out a few new changes, and have plenty cooking in the background. For now, let's cover the new:
 
 ### Issue 08 theme voting

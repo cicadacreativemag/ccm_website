@@ -7,11 +7,6 @@ layout: blog
 featuredImage: "/images/blog/2023/spring_is_for_action.png"
 summary: Spring is when we all come back to life after our long winter hibernation state and it’s just in time to help us recover from the daylight savings shift that nearly made it nearly impossible to defrost ourselves. It’s a time when art starts to feel sweeter and the colors engulf us in happiness and allergies. Spring also comes with the not-so-popular municipal elections which are often under-hyped in states all across the country. There’s a reason our elections take such a long break from November to April and it isn’t because of the temperature changes.
 ---
-> *Illustration by Allyson (Alex) Lee, Creative Director*
-
-# Spring Is For Action
-> <u>*[Denise “The Vamp DeVille” Zubizarreta](https://www.thevampdeville.com/)</u> is a multi-hyphenate creative focused on interdisciplinary art making, journalism, scholarship and research. Her articles have been published with <u>[Hyperallergic](https://hyperallergic.com/author/denise-zubizarreta/)</u> and <u>[Southwest Contemporary magazine](https://southwestcontemporary.com/authors/denise-the-vamp-deville-zubizarreta/)</u>.*
-
 
 Spring is when we all come back to life after our long winter hibernation state and it’s just in time to help us recover from the daylight savings shift that nearly made it nearly impossible to defrost ourselves. It’s a time when art starts to feel sweeter and the colors engulf us in happiness and allergies. Spring also comes with the not-so-popular municipal elections which are often under-hyped in states all across the country. There’s a reason our elections take such a long break from November to April and it isn’t because of the temperature changes.
 

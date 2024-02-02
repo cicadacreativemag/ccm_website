@@ -8,9 +8,6 @@ featuredImage: "/images/blog/modern.jpg"
 summary: Protest  has also been a prevalent theme in art throughout the years. This  timeline explores art that addresses injustice and inequality in the  past 100 years.
 ---
 
-# Modern Montage
-> Molly Flood, Creative Team Member
-
 Protest has also been a prevalent theme in art throughout the years. This timeline explores art that addresses injustice and inequality in the past 100 years.
 
 As the world sat in their home over the past year, the passage of time became monotonous for many. People all over the world experienced lockdown to different degrees and had unique ways of coping. The reemergence of Montage film editing flooded Tik Tok with unique perspectives of how the newfound time in between can be romanticized and documented. In popular film today, Montage is most commonly used to represent the passing of time, but Tik Tok creators, building upon inspiration from each other, have a new take on this style. The Tik Tok video shooting platform encourages short snappy videos which have led to Montage style vlogs, fashion, and art videos in a way that montage has not been used for before. Creating and watching content of day to day life and creativity serves as escapism and comfort to a generation trapped inside.

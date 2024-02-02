@@ -1,6 +1,6 @@
 {{ define "main" }}
-{{- partial "menu.html" . -}}
 <div class="container">
+   {{- partial "menu.html" . -}}
    {{.Content}}
    <div class="row justify-content-start masonry">
       {{ range .Paginator.Pages }}

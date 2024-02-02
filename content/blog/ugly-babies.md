@@ -8,9 +8,6 @@ featuredImage: "/images/blog/ugly-babies.jpg"
 summary: Anyone visiting an art museum or studying art history has probably encountered a weirdly shaped baby at some point in their life. These long-limbed babies, resembling a small man or wrinkly sock puppet, are a common staple of art from the Middle Ages all the way up into the Renaissance.
 ---
 
-# Scoring ugly babies across art history
-> Anna Dunn, Managing Editor
-
 Anyone visiting an art museum or studying art history has probably encountered a weirdly shaped baby at some point in their life. These long-limbed babies, resembling a small man or wrinkly sock puppet, are a common staple of art from the Middle Ages all the way up into the Renaissance. It seems that no matter the style or medium, European artists could never quite get babies right. 
 
 These weirdly rendered babies were inspired by the concept of the [“homunculus,” meaning little man](https://www.vox.com/2015/7/8/8908825/ugly-medieval-babies). Depictions of one baby in particular, the infant Jesus, was especially prone to be depicted as a little man because it suggested he was born as a perfectly formed man rather than as a inadequate chubby baby.&nbsp;

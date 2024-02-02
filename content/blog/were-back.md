@@ -8,10 +8,8 @@ featuredImage: "/images/blog/blog.png"
 summary: First things first--go read [Issue 06](/issues/issue-6/)! It's great and everyone worked really hard on it. But I wanted to use this chance to explain our unannounced hiatus, what we learned during it, and what's next for CCM. (Spoiler, submissions will be opening for everyone!)
 ---
 
-# We're Back! Issue 06 and moving forward
-> Jay Serrano, Editorial Director/Web Developer
 
-First things first--go read <u>[Issue 06](/issues/issue-6/)</u>! It's great and everyone worked really hard on it. 
+First things first--go read [Issue 06](/issues/issue-6/)! It's great and everyone worked really hard on it. 
 
 But I wanted to use this chance to explain our unannounced hiatus, what we learned during it, and what's next for CCM. (Spoiler: submissions will be opening for everyone!)
 

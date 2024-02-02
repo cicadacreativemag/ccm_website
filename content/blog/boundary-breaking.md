@@ -8,9 +8,6 @@ featuredImage: "/images/blog/boundary-breaking.jpg"
 summary: Imagine you’re back in high school, working on a group project with the artsy philosophy guy who exclusively talks back to his female teachers. The project requires you to bring in some sort of family heirloom from home to share with your partner and then present to the class. 
 ---
 
-# Is art boundary-breaking if it’s stolen?
-> Anna Dunn, Managing Editor
-
 Imagine you’re back in high school, working on a group project with the artsy philosophy guy who exclusively talks back to his female teachers. The project requires you to bring in some sort of family heirloom from home to share with your partner and then present to the class.
 
 Let’s say you brought in a book that is significant to your parents. When it’s time to present the book to class, the philosophy guy grabs the book out of your hands and decides presents for you. He had obviously not listened to anything you said about the book’s plot and sentimental meaning, and instead spends ten minutes describing how the cover art challenges the oppressive art norms set by society. The class initially laughs, but years later you see the same guy on the cover of a magazine being celebrated for his unique, groundbreaking art style. It’s a blatant copy of the cover of your family’s book. The book which he barely cared to understand.

@@ -6,11 +6,7 @@ authors: ["Jay Serrano, Editorial Director"]
 layout: blog
 featuredImage: "/images/blog/blog.png"
 summary: Over the last few months, the world has changed in dramatic ways that have affected us all. CCM has had to contend with these changes and evolve, incorporating our original vision into a world that looks different. 
-
 ---
-
-# Cicada’s Next Step: Our New Blog
-> Jay Serrano, Editorial Director
 
 Hello, all!
 

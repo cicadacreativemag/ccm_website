@@ -8,9 +8,6 @@ featuredImage: "/images/blog/obligations.png"
 summary: Layli Long Soldier’s “Obligations 2” is adventurous with form. This poem confronts us with choices we must make as the reader; we can take a path through the middle, or through the edges, or a combination of both. We can read top to bottom, and we can read left to right. We can read and re-read and re-read and find a new poem each time. Whatever we do, we’re presented with the enigma of choice.
 ---
 
-# The Unity of Form in Layli Long Soldier's 'Obligations 2'
-> Herman Luis Chavez, Managing Editor
-
 Layli Long Soldier’s “Obligations 2” is adventurous with form. This poem confronts us with choices we must make as the reader; we can take a path through the middle, or through the edges, or a combination of both. We can read top to bottom, and we can read left to right. We can read and re-read and re-read and find a new poem each time. Whatever we do, we’re presented with the enigma of choice. No matter how we do it, Long Soldier restricts the specific words, and sometimes where we start and end. I believe that in writing this poem, Soldier gives us a hot take on unity: no matter how we choose to roam, we end up coming together.
 
 Poem: https://www.poetryfoundation.org/poems/149976/obligations-2 

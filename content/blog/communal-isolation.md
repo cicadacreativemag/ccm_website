@@ -8,9 +8,6 @@ featuredImage: "/images/blog/isolation.jpg"
 summary: Art in isolation isn’t a new concept, many artists feel as though the isolation opens the creative mind allowing for a comprehensive connection to their work that supersedes the need for community.
 ---
 
-# Disjointed Creative Communal Isolation: The Plight of the Quarantined Creative Community
-> Denise  Zubizarreta, Creative Team Member
-
 Art in isolation isn’t a new concept, many artists feel as though the isolation opens the creative mind allowing for a comprehensive connection to their work that supersedes the need for community. Edvard Munch faced a similar quarantined way of life (as we are now) in childhood. With his mother and sister dying of tuberculosis; this involuntary isolation fueled his creativity, utilizing his emotional experience (to work through his hands) in order to enhance his creative expression. Though isolation plays a significant role in the creative process, there is a much larger force that breeds ideas and motivates them into fruition.
 
 In their research on “Deconstructing the Lone Genius Myth”, researchers Alfonso Montuori and Ronald E. Purser write:

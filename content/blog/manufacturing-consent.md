@@ -8,9 +8,6 @@ featuredImage: "/images/blog/manufacturing-consent.png"
 summary: In an era of political turmoil and and misinformation, it is more important than ever to critically evaluate and critique the news media we consume. Even traditionally trustworthy news sources are not immune to bias and manipulation. Not only must we be vigilant with the accuracy of the information we consume, we must also be aware of what we’re not being told--what context is being left out? What stories are being buried? What stories are being pushed? What loaded language is being used?
 ---
 
-# Manufactured Consent: Five Filters of Media Bias
-> Jay Serrano, Editorial Director
-
 In an era of political turmoil and and misinformation, it is more important than ever to critically evaluate and critique the news media we consume. Even traditionally trustworthy news sources are not immune to bias and manipulation. Not only must we be vigilant with the accuracy of the information we consume, we must also be aware of what we’re not being told--what context is being left out? What stories are being buried? What stories are being pushed? What loaded language is being used?
 
 ![image](/images/blog/post/manufacturing-consent.jpg#blog)

@@ -4,24 +4,24 @@ draft: false
 ---
 
 # SUBMIT
-> Submissions are currently **closed.** Issue 08 submissions will open soon though, so keep an eye out for announcements!
+> Submissions for Issue 08: Dial-up Dreams are currently **open**! They will close on **May 10, 2024.** Read more below.
 
 {{< masonry >}}
-{{< cards/card-medium title="ISSUE 07: 'You are here'">}}
-Maps are, at their most essential, symbolic diagrams that outline relationships between things. Most commonly, they are visualizations of geographical data, but anything can be mapped. A brain, a body, a home, a memory. "You are here" invites you to contemplate where you stand on your own maps. Take a moment to orient yourself and consider where you've been and where you want to go.
+{{< cards/card-medium title="ISSUE 08: Dial-up Dreams">}}
+Few inventions have revolutionized our interconnectedness like the internet. Its surge in popularity during the '90s was transformative, introducing widespread email communication, the World Wide Web, and iconic platforms like AOL and Yahoo. The decade ended bombastically, with the [Y2K bug](https://education.nationalgeographic.org/resource/Y2K-bug/) sparking anxiety over our increasing dependence on technology. The internet has evolved dramatically since then, but the nostalgia for its unrulier days has persisted, especially amid today's more sanitized, corporate internet.
 
-Some potential starting points you may consider:
+For this issue, we invite submitters to reflect on a bygone era of whirring modems and the thrill of the unknown. A few starting points you may consider:
 
-*   If you wanted to make a map to give someone as a guide to understanding you and your internal world, what would it look like?
-*   Where were you when you realized you were alive for the first time?
-*   If you drew a map of your most precious childhood memories, what would the key be?
-*   What would a map with no images look like? Can music be a map?
-*   Food can represent a place as vividly as a cartographical map. What dishes would represent your heritage most?
-*   Consider that our social "maps" grew much larger with the rise of the internet. What does it mean that our world is so much bigger now?
+- What if the Y2K bug had lived up to the catastrophic predictions of the time? Speculate on what our world would look like now if our banks, nuclear power plants, and airlines had experienced complete digital collapse in the year 2000.
+- There is an [archive](https://geocities.restorativland.org/) of Geocities sites before the website was taken down. Geocities was a web hosting service that allowed users to create personal websites. Take a look around and try designing your own.
+- What do you think of [nostalgia marketing](https://www.forbes.com/sites/laurenfriedman/2016/08/02/why-nostalgia-marketing-works-so-well-with-millennials-and-how-your-brand-can-benefit/?sh=1c2070d13636)? Share your opinion on what it means for us to pine for an era that no longer exists. Did it ever really exist in the ways we remember it? 
+- What are some technological artifacts from the ‘90s and ‘00s that hold nostalgic value for you? Floppy disks, old gaming consoles, a stray modem? Write about them, draw them, or photograph them and incorporate them into a collage.
+- [Y2K fashion](https://www.vogue.com/article/y2k-fashion) has enjoyed a resurgence of popularity within the last few years. What are your favorite ensembles and aesthetic flourishes from the era? Consider incorporating them into an art piece, or create your own outfit.
+- What are some things you remember most vividly from the ‘90s and ‘00s? What do you miss the most? What do you miss the least?
 {{< /cards/card-medium >}}
 
-{{< cards/card-medium title="Submission Form">}}
-<iframe data-tally-src="https://tally.so/embed/nprZDV?alignLeft=1&hideTitle=1" loading="lazy" width="100%" height="450" frameborder="0" marginheight="0" marginwidth="0" title=" CCM Issue 07 Submission Form"></iframe>
+{{< cards/card-medium title="Submit your work">}}
+<iframe data-tally-src="https://tally.so/embed/wa4beq?alignLeft=1&hideTitle=0" loading="lazy" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0" title=" CCM Issue 08 Submission Form"></iframe>
 <script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
 {{< /cards/card-medium >}}
 

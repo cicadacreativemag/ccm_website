@@ -8,9 +8,6 @@ featuredImage: "/images/blog/kusama.jpg"
 summary: If you asked a stranger to list any 5 artists off the top of their head, odds are good that Andy Warhol would be one of them. A soup can homage even sits in front of CSU’s Center for the Arts (to honor a visit from Warhol in 1981). There is no doubt that his contributions altered the trajectory of American art. He also copied part of one of Yayoi Kusama’s exhibitions. 
 ---
 
-# That time Andy Warhol plagiarized Yayoi Kusama
-> Jay Serrano, Editorial Director
-
 If you asked a stranger to list any 5 artists off the top of their head, odds are good that Andy Warhol would be one of them. A soup can homage even sits in front of CSU’s Center for the Arts (to honor a visit from Warhol in 1981). There is no doubt that his contributions altered the trajectory of American art. He also copied part of one of Yayoi Kusama’s exhibitions. 
 
 Yayoi Kusama is another famous artist, albeit less of a household name than Warhol. She’s a Japanese artist who immigrated to New York in 1958 and she helped carve out the pop art scene of the 60s. As a child, she suffered from hallucinations and trauma, something that she has spent her entire career exploring through art. Her work is extremely personal to her--she has been open about this since her arrival to the art scene. 

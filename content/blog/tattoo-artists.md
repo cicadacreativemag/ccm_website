@@ -8,9 +8,6 @@ featuredImage: "/images/blog/tattoos.jpg"
 summary: In my many years as a creative-driven being, I’ve discovered that I have a great affinity for tattoo art. Tattoo practice is something that is taboo in our society because of its permanence. However, tattoo artists are just as credible as other artists, and their art is worthy of admiration and respect! Especially because there is much effort and tireless work that goes into being a professional tattoo artist. 
 ---
 
-# Top 10 Tattoo Artists That Make Me Want to Cover My Skin in Ink
-> Peyton Farnum, Creative Team Member
-
 In my many years as a creative-driven being, I’ve discovered that I have a great affinity for tattoo art. Tattoo practice is something that is taboo in our society because of its permanence. However, tattoo artists are just as credible as other artists, and their art is worthy of admiration and respect! Especially because there is much effort and tireless work that goes into being a professional tattoo artist. 
 
 So, to express my love for the world of tattoo art, I have compiled a list of my favorite skin-ink artists I found throughout the years. These artists come from all over the world and have phenomenal and unique styles. Just admiring these artists through social media fuels my desire to cover my whole body in beautiful artwork. 

@@ -8,9 +8,6 @@ featuredImage: "/images/blog/protest-art.png"
 summary: Protest has also been a prevalent theme in art throughout the years. This timeline explores art that addresses injustice and inequality in the past 100 years.
 ---
 
-# A Very Brief History of Protest Art in America
-> Haley Arnold, Publications Director
-
 Protest has also been a prevalent theme in art throughout the years. This timeline explores art that addresses injustice and inequality in the past 100 years.
 
 ![image](/images/blog/post/protest/1.jpg#blog)

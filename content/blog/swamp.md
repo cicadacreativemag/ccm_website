@@ -8,9 +8,6 @@ featuredImage: "/images/blog/swamp.png"
 summary: I love wildlife. I have ever since I was a child.
 ---
 
-# How the Swamp Inspired Me
-> Peyton Farnum, Creative Team Member
-
 I love wildlife. I have ever since I was a child.
 
 I grew up as a young girl living near the swamps of Savannah, Georgia. My dad and I would go for walks in the lush green forests that met with the wetlands of the coast. The nutria would swim down the bayous, making wakes with their tail as I watched them, crouched by the water’s edge. Tall cattail plants that seemed to reach as high as the sky would block my view until dad lifted me up onto his shoulders. The frogs would croak and form a rhythmic chorus that allowed the swamp to echo with life. 

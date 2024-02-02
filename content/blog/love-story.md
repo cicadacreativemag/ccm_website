@@ -8,9 +8,6 @@ featuredImage: "/images/blog/love-story.png"
 summary: Agh, February! The month of love. This month I was determined to present you all with a love story—cliché, I know. 
 ---
 
-# A Love Story
-> Gracie Neirynck, Creative Team Member
-
 Agh, February! The month of love. This month I was determined to present you all with a love story—cliché, I know. In my desperate quest for a love story, I scanned the internet, spending many hours skimming across its many whimsical love poems and falling victim to its endless rabbit holes. I even braved the journey into the desperate and truly dangerous land of the second page of Google (yes, turns out it does exist), determined to find the perfect love story. After many (oh so many) futile hours of reading about the many people littered across history who died for each other, killed for each other, wrote for each other, loved each other, this is the only love story I want to tell you all.  
 
 Allow me to set the scene: it is early in the morning, a tired 5 a.m. This is not the fun 5 a.m. It's not Saturday at 5 a.m. at the drive-through at Taco Bell coming back from a road trip. This is not the drunken 5 a.m., sitting on the kitchen floor with your friends waiting for the microwave to cook an entire bag of pizza rolls. You are not in an airplane looking out the window over to the lights in the city, wondering who is still awake. You have not woken up to begin that steep climb up the mountain, racing the sunrise to the top. No, this 5 a.m. is different. The hour where you feel like someone has taken your brain and rung it out like a washcloth, where your bones have turned to molasses under your skin and you are pretty sure that you are incapable of walking.  

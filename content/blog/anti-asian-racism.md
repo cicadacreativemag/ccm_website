@@ -5,13 +5,10 @@ date: 2020-08-15T20:16:44-06:00
 authors: ["Jay Serrano, Editorial Director"]
 layout: blog
 featuredImage: "/images/blog/ching-chong-house.jpg"
-summary: Early in July, a fake restaurant emerged on Instagram and Yelp. This fake restaurant was entitled “Ching Chong House” and had various racist menu items ranging from Corona cocktails to “Crispy Burnt Pug.” Although it is clear that this stunt is merely another in a long list of unfunny edgy shock humor devoid of any creativity or actual comedy, it is still worth examining given the social context we find ourselves in.
+summary: Early in July, a fake restaurant emerged on Instagram and Yelp. This fake restaurant was entitled “Ching Chong House” and had various racist menu items ranging from Corona cocktails to “Crispy Burnt Pug.” Although it is clear that this stunt is merely another in a long list of edgy shock humor, it is still worth examining given the social context we find ourselves in.
 ---
 
-# Regarding “Ching Chong House” and Anti-Asian Racism in the Wake of COVID-19
-> Jay Serrano, Editorial Director
-
-Early in July, a fake restaurant emerged on Instagram and Yelp. This fake restaurant was entitled “Ching Chong House” and had various racist menu items ranging from Corona cocktails to “Crispy Burnt Pug.” Although it is clear that this stunt is merely another in a long list of unfunny edgy shock humor devoid of any creativity or actual comedy, it is still worth examining given the social context we find ourselves in. As of July 2, 2020—just one day after this fake business first posted—[2,120 anti-Asian hate incidents had been reported between March and June](https://www.cbsnews.com/news/anti-asian-american-hate-incidents-up-racism/). The number is almost certainly higher now. 
+Early in July, a fake restaurant emerged on Instagram and Yelp. This fake restaurant was entitled “Ching Chong House” and had various racist menu items ranging from Corona cocktails to “Crispy Burnt Pug.” Although it is clear that this stunt is merely another in a long list of edgy shock humor, it is still worth examining given the social context we find ourselves in. As of July 2, 2020—just one day after this fake business first posted—[2,120 anti-Asian hate incidents had been reported between March and June](https://www.cbsnews.com/news/anti-asian-american-hate-incidents-up-racism/). The number is almost certainly higher now. 
 
 I initially planned to censor the title of the restaurant in this post, but ultimately realized that the power of it was something I did not want to dilute or obfuscate. Reclaiming slurs is not new amongst marginalized communities, but this is clearly something different—this is meant to evoke taunting and give permission to be hateful under the guise of comedy.
 

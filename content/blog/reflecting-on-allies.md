@@ -8,9 +8,6 @@ featuredImage: "/images/blog/allies.png"
 summary: Social media has acted as a primary source of information, education, and organization throughout the Black Lives Matter movement since the its inception in 2013. It has been a platform for people to share and promote speakers, books, funds and organizations. Mass participation can create a sense of unity, community, and wide-reaching support, but done ingenuously, it can run the risk of being noise. Adding to a discussion doesn’t always mean you’re listening, and it’s easy to share recommending book lists without any intention to read them for yourself. 
 ---
 
-# Reflecting on allies and space on Tik Tok and Instagram
-> Anna Dunn, Art Editor
-
 Social media has acted as a primary source of information, education, and organization throughout the Black Lives Matter movement since the its inception in 2013. It has been a platform for people to share and promote speakers, books, funds and organizations. Mass participation can create a sense of unity, community, and wide-reaching support, but done ingenuously, it can run the risk of being noise. Adding to a discussion doesn’t always mean you’re listening, and it’s easy to share recommending book lists without any intention to read them for yourself. 
 
 The way that we, white allies, engage with social media during times of political organization - but even during our everyday lives -  has implications. Many of us are aware of these implications - how am I showing my support? How are the posts I’m sharing signaling that I deeply care about this cause? (And, the nagging fear of every white person, “How do I prove to people I’m not racist? How do I prove it to myself?”) 

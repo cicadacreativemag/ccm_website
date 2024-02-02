@@ -8,9 +8,6 @@ featuredImage: "/images/blog/brood-x.jpg"
 summary: The spring of 2004 raised two kinds of children. I, a proud four and a half year old, spent my time playing outside with toys and picking apart the lawn while a swath of angsty 17 year olds also emerged into the open air, ready to scream all summer long. 
 ---
 
-# 17 years ago: the last Brood X
-> Molly Flood, Communications Director
-
 The spring of 2004 raised two kinds of children. I, a proud four and a half year old, spent my time playing outside with toys and picking apart the lawn while a swath of angsty 17 year olds also emerged into the open air, ready to scream all summer long. 
 
 This new insect  invasion added a whole new level of mischief  to my summer days as I collected my cicada friend's empty exoskeletons and hung them all over my sister's coat when she wasn’t looking. I imagine the teen cicadas rolled their five eyes as my immaturity.
