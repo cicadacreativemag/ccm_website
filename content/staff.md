@@ -6,7 +6,7 @@ draft: false
 # STAFF
 > Meet the team behind CCM!
 
-While the beating heart of Cicada is our creative community, we want you to know who looks over the editorial process, from selecting our themes to curating each publication. If you want to join us, check out our [application](https://tally.so/r/woExBM), which will be open until January 26, 2024.
+While the beating heart of Cicada is our creative community, we want you to know who looks over the editorial process, from selecting our themes to curating each publication. If you want to join us, check out our [application](https://tally.so/r/woExBM), which will be open until February 19, 2024.
 
 {{< masonry >}}
 

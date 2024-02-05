@@ -16,7 +16,7 @@
     <p>
     <blockquote> <i> {{ range .Param "authors" }} {{ . }} {{ end }} </i></blockquote>
     {{.Summary | truncate 200 }}</p>
-    <p style="float:right; "><small class="text-muted"><a href="{{.Permalink}}">Keep reading</small></a> <i class="fa fa-long-arrow-right"></i></p>    
+    <p style="float:right; "><small class="text-muted"><a href="{{.Permalink}}">Keep reading</small>&nbsp;</a> <i class="fa fa-long-arrow-right"></i></p>    
 </div> 
 {{ if eq $counter 1 }}
 <hr style="margin-top: 3.75em;">

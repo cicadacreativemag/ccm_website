@@ -1,7 +1,7 @@
 ---
 title: "21st Century Penpals"
 draft: false
-date: 2024-02-01T21:08:07-04:00
+date: 2024-02-05T20:05:13+00:00
 authors: ["Alex Lee, Art Editor"]
 layout: blog
 featuredImage: "/images/blog/2024/february/letter.png"

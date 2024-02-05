@@ -8,8 +8,8 @@ draft: false
 
 {{< masonry >}}
 
-{{< cards/card-small title="SUBMIT TO ISSUE 08" img-src="/images/landing/cover.webp" alt="The cover of Issue 07." caption="Submit now" link="/submit">}}
-Submissions for Issue 08: "Dial-up Dreams" are now **open**! Reminisce with us as we reflect on a bygone era of whirring modems and the thrill of the unknown.
+{{< cards/card-small title="SUBMIT TO ISSUE 08" img-src="/images/landing/call.png" alt="A call to submissions for Issue 08." caption="Submit now" link="/submit">}}
+You voted, and we listened. The winner for Issue 08's theme is "Dial-up Dreams," a Y2k-flavored trip down memory lane. Submit your creative work before May 10, 2024 for consideration. Submissions will be reviewed on a rolling basis, with decisions being sent out within 3 weeks.
 {{< /cards/card-small >}}
 
 {{< cards/card-small title="RECENT BLOG POSTS">}}
