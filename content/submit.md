@@ -77,7 +77,7 @@ You can combine elements of these categories — several of the examples we prov
 {{< cards/card-medium title="Submission Guidelines">}}
 *   The maximum number of pieces anyone can submit to CCM (or have published) per issue is **three**.
 *   Staff members may submit to CCM, but must abstain from reviewing it and cannot disclose it is theirs.
-*   15,000 word limit on writing.
+*   5,000 word limit on writing.
 *   We allow simultaneous submissions.
 *   Work may be previously published, but you must clarify this on your submission and include a source as to where the work has been previously published. Please also ensure the other publication permits you to re-publish the piece.
 *   It does not cost money to submit to CCM.
