@@ -23,15 +23,15 @@
 <div>
 <h5 class="card-title">{{ $name }}</h5>
 </div>
-<div>
+<div class="social-icons d-flex align-items-center">
 {{ if $website }}
-<a href="{{ $website }}"><i class="fa-solid fa-globe"></i></a>
+<a href="{{ $website }}" class="social-icon"><i class="fa-solid fa-globe"></i></a>
 {{ end }}
 {{ if $instagram }}
-<a href="{{ $instagram }}"><i class="fa-brands fa-instagram"></i></a>
+<a href="{{ $instagram }}" class="social-icon"><i class="fa-brands fa-instagram"></i></a>
 {{ end }}
 {{ if $twitter }}
-<a href="{{ $twitter }}"><i class="fa-brands fa-twitter"></i></a>
+<a href="{{ $twitter }}" class="social-icon"><i class="fa-brands fa-twitter"></i></a>
 {{ end }}
 </div>
 </div>  
