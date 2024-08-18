@@ -30,4 +30,5 @@ if he doesn’t have the right spices for a dish, he won’t make it.
 last month, while i was doing my morning exercise walk, his sentiments woke the whole street. i watched his wife huff out of the house. my neighbor was in the doorway – she stalked right past him. he was talking, perhaps pleading, and she ignored it. he followed her out to her car, all the while mumbling on. she started the engine; he banged on the window. by then i was stopped across the street because of their racket. i must say i admired the wife’s silence and no-nonsense way of pulling out of the driveway. she could have been on her way to the shopping mall. my neighbor did not take this well. he chased her down the street, yelling. he did not have any shoes on, muddy or not. she has not been back since, but he still only parks on the left side of his driveway.  
 
 he has made an inordinate amount of phone calls this month, which i know because the postman accidentally delivered his bill to me.    
+
 his bags of clippings and dead leaves are starting to smell. i consider dropping by on my way home from work to tell him, because it affects me, but it seems arbitrary and so i do not do it.  
