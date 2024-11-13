@@ -16,13 +16,9 @@ Kusama’s very first solo exhibition, “Aggregation: One Thousands Boats Show,
 
 ![image](/images/blog/post/kusama1.jpg#blog)
 
-Years later, Warhol would debut his “Cow Wallpaper” installation in his April 1966 exhibition at Leo Castelli Gallery, featuring one of his most recognizable and famous designs. The similarity wasn’t lost on the art community. The Museum of Modern Art even mentions it in their interactive display about Kusama’s show, remarking that Kusama’s exhibit appeared 3 years before Warhol’s. However, Warhol credited an art dealer for the idea and did not mention Kusama.
-
-![image](/images/blog/post/warhol1.jpg#blog)
-
-
 Years later, Warhol would debut his “Cow Wallpaper” installation in his April 1966 exhibition at Leo Castelli Gallery, featuring one of his most recognizable and famous designs. The similarity wasn’t lost on the art community. The Museum of Modern Art [even mentions it](https://www.moma.org/interactives/exhibitions/1998/kusama/manual/text_10.html) in their interactive display about Kusama’s show, remarking that Kusama’s exhibit appeared 3 years before Warhol’s. However, Warhol credited an art dealer for the idea and did not mention Kusama.
 
+![image](/images/blog/post/warhol1.jpg#blog)
 
 Kusama would go on to have more ideas stolen from her by her peers, namely Claes Oldenberg and Lucas Samaras. When Kusama visited Claes Oldenberg’s exhibit and saw he’d taken her idea of soft sculpture, his wife approached her and apologized. Then, Kusama watched these ideas--her ideas--manifest in wealth and success that she could not herself achieve. She became paranoid and isolated herself, hiding her art. Her mental health deteriorated. This culminated in a suicide attempt.&nbsp;
 
