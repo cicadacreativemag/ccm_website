@@ -9,7 +9,7 @@ draft: false
 {{< masonry >}}
 
 {{< cards/card-small title="SUBMISSIONS ARE CLOSED" img-src="/images/landing/starmoon-full-callforsubs-02.png" alt="A call to submissions for Issue 08. Features an illustration of a white-haired character with star eyes.">}}
-Thank you to everyone who participated in the review cycle for Issue 08: "Dial-up Dreams." We are hard at working preparing the issue for publication, which will be released here later this month. We will announce the publication via newsletter, social media, and in our RSS feed. Stay creative, and we hope this issue delivers everything you hoped for and more. Stay tuned for announcements regarding Issue 09!
+Thank you to everyone who participated in the review cycle for Issue 08: "Dial-up Dreams." We are hard at working preparing the issue for publication, which will be released  later this month. We will announce the publication via newsletter, social media, and in our RSS feed. We hope this issue delivers everything you hoped for and more. Stay creative!
 {{< /cards/card-small >}}
 
 {{< cards/card-small title="RECENT BLOG POSTS">}}
