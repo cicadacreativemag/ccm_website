@@ -14,7 +14,7 @@ We've evolved a lot since our first meetings at a coffee shop on the corner of c
 
 And as of Issue 07, _anyone_ can submit to CCM and apply for staff.
 
-Submissions open twice a year, typically in the spring and fall. At the end of each issue cycle, these submissions are anonymized and reviewed by two editorial teams. Then, we publish a carefully crafted issue of your work.
+Submissions open twice a year, typically in the spring and fall. We organize editorial teams to review anonymized submissions and vote on what we think should be included in the issue. Then, we publish a carefully crafted issue of your work.
 
 We acknowledge that art doesn't always come box-shaped, perfectly ready to fall into a category. Cicada Creative Magazine exists to showcase that artistic exploration and novelty.
 

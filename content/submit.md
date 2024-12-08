@@ -4,7 +4,7 @@ draft: false
 ---
 
 # SUBMIT
-> Submissions for Issue 08: Dial-up Dreams are currently **open**! They will close on **November 1, 2024.** Read more below.
+> Submissions for Issue 08: Dial-up Dreams are currently **closed**! They will re-open in **February, 2025.** 
 
 {{< masonry >}}
 {{< cards/card-medium title="ISSUE 08: Dial-up Dreams">}}
