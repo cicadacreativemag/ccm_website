@@ -1,0 +1,268 @@
+
+<style>
+#email-interface {
+    display: flex;
+    flex-direction: column;
+    margin: 2rem auto;
+    border: 2px solid var(--text-color);
+    background-color: var(--bg-color);
+    height: 55vh;    
+    box-shadow: 0 4px 6px rgba(5, 17, 73, 0.3);
+    overflow: hidden;
+}
+
+.email-controls {
+    font-size: 1em;      
+    padding: 3px;
+    color: var(--bg-color);
+    display: flex;
+    justify-content: space-between;   
+}
+    
+.email-controls > div {
+    padding: 5px;
+}
+
+.email-header {
+    height: 2.5rem; 
+    background-color: var(--text-color);
+    color: var(--bg-color);
+    border-bottom: 2px solid var(--bg-color);
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.email-inbox {
+    display: flex;    
+    overflow: auto;
+}
+
+#inbox-list {
+    width: 40%;    
+    border-right: 1px solid var(--text-color);
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow-y: auto; 
+}
+
+
+/* Custom scrollbars */
+#inbox-list::-webkit-scrollbar,
+.email-display::-webkit-scrollbar {
+    width: 5px; 
+    background-color: var(--bg-color);
+}
+
+#inbox-list::-webkit-scrollbar-thumb,
+.email-display::-webkit-scrollbar-thumb {
+    background-color: var(--text-color); 
+}
+
+.inbox-item {
+    padding: 0.5em 1em; 
+    cursor: pointer;
+    border-bottom: 1px solid var(--text-color); 
+    line-height: 1.5; 
+}
+
+.inbox-item:hover {
+    background-color: var(--text-color);
+    color: var(--bg-color); 
+}
+
+.selected-email {
+    background-color: var(--text-color); 
+    color: var(--bg-color);
+    font-weight: bold;
+}
+
+.email-display {
+    width: 60%;     
+    padding: 1rem;
+    overflow-y: auto;  
+}
+
+.email-display p {
+    margin: 0.5rem 0;
+}
+
+.header-row {
+    display: flex;
+    justify-content: space-between; 
+    align-items: flex-start;
+    gap: 1em;
+    margin-bottom: 1rem;
+}
+
+.email-details p {
+    margin: 0.2rem 0; 
+}
+
+.refresh-button-container {
+    display: flex;
+    align-items: center; 
+}
+
+#refresh-button {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    border: 1px solid var(--text-color);
+    padding: 0.5em 1em; /* Standard button size */
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 1rem;
+}
+
+#refresh-button:hover {
+    background-color: var(--text-color);
+    color: var(--bg-color);
+    transition: background-color 0.2s ease-in-out;
+}
+
+
+/* Mobile layout (screens narrower than 768px) */
+@media (max-width: 768px) {
+    .email-inbox {
+        flex-direction: column;  
+     
+    }
+
+    #inbox-list {
+        width: 100%;  
+        height: 40%; 
+        border-right: none;
+        border-bottom: 1px solid var(--text-color); 
+        overflow-y: auto;
+    }
+
+    .email-display {
+        width: 100%; 
+        height: 60%; 
+        overflow-y: auto;
+    }
+}
+    
+    </style>
+    
+
+<div id="email-interface">       
+    <div class="email-header">
+        <div class="email-controls">
+            <div> <i class="fa-solid fa-arrows-up-down-left-right"></i></div>
+            <div> <i class="fa-solid fa-window-minimize"></i> <i class="fa-regular fa-window-restore"></i> <i class="fa-solid fa-xmark"></i></div>
+    </div>
+    </div> 
+    <div class="email-inbox">
+        
+        <ul id="inbox-list" class="inbox-list"></ul>
+        <div id="email-container" class="email-display">
+            <div class="header-row">
+                <div class="email-details">
+                    <p><strong>From:</strong> <span id="email-sender"></span></p>
+                    <p><strong>To:</strong> <span id="email-recipient"></span></p>
+                    <p><strong>Subject:</strong> <span id="email-subject"></span></p>
+                    <p><strong>Date:</strong> <span id="email-date"></span></p>
+                </div>
+                <div class="refresh-button-container">
+                    <button id="refresh-button" title="Refresh email"><i class="fa fa-refresh" aria-hidden="true"></i></button>
+                </div>
+            </div>
+            <hr>
+            <p id="email-content"></p>
+        </div>        
+        </div>
+    </div>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const emails = {{ .Site.Data.emails | jsonify | safeJS }};
+    const inboxList = document.getElementById("inbox-list");
+    const senderDisplay = document.getElementById("email-sender");
+    const recipientDisplay = document.getElementById("email-recipient");
+    const subjectDisplay = document.getElementById("email-subject");
+    const dateDisplay = document.getElementById("email-date");
+    const contentDisplay = document.getElementById("email-content");
+    const refreshButton = document.getElementById("refresh-button");
+
+    // Function to render inbox
+    const renderInbox = () => {
+        inboxList.innerHTML = ""; // Clear the inbox before rendering
+        emails.forEach((email, index) => {
+            const listItem = document.createElement("li");
+            listItem.classList.add("inbox-item");
+            listItem.setAttribute("data-index", index);
+
+            // Only show subject in the inbox
+            listItem.innerHTML = `${email.subject}`;
+            inboxList.appendChild(listItem);
+        });
+    };
+
+    const formatDate = (dateString) => {
+        const options = {
+            weekday: "short",
+            year: "numeric",
+            month: "short",
+            day: "2-digit",
+            hour: "2-digit",
+            minute: "2-digit",
+            hour12: true,
+        };
+        const date = new Date(dateString);
+        return new Intl.DateTimeFormat("en-US", options).format(date);
+    };
+
+    const displayEmail = (email, index) => {
+        senderDisplay.textContent = email.sender;
+        recipientDisplay.textContent = email.recipient;
+        subjectDisplay.textContent = email.subject;
+        dateDisplay.textContent = formatDate(email.date);
+
+        // Process content to render lists and paragraphs
+        let formattedContent = email.content;
+        formattedContent = formattedContent
+            .replace(/(?:^|\n)(- .+(?:\n- .+)*)/g, (match, items) => {
+                const listItems = items
+                    .split("\n")
+                    .map(item => `<li>${item.slice(2)}</li>`)
+                    .join("");
+                return `<ul>${listItems}</ul>`;
+            })
+            .replace(/([^\n])\n([^\n-])/g, "$1<br>$2")
+            .replace(/\n\n/g, "<p></p>")
+            .replace(/<\/ul>\n<p>/g, "</ul>")
+            .replace(/<p>\n<ul>/g, "<ul>");
+        contentDisplay.innerHTML = formattedContent;
+
+        // Highlight the selected email
+        document.querySelectorAll(".inbox-item").forEach(item => item.classList.remove("selected-email"));
+        const selectedItem = inboxList.querySelector(`.inbox-item[data-index="${index}"]`);
+        if (selectedItem) selectedItem.classList.add("selected-email");
+    };
+
+    // Open email when clicked and highlight active email
+    inboxList.addEventListener("click", (event) => {
+        const clickedItem = event.target.closest(".inbox-item");
+        if (clickedItem) {
+            const index = clickedItem.getAttribute("data-index");
+            const email = emails[index];
+            displayEmail(email, index);
+        }
+    });
+
+    // Refresh button logic
+    refreshButton.addEventListener("click", () => {
+        const randomIndex = Math.floor(Math.random() * emails.length);
+        displayEmail(emails[randomIndex], randomIndex);
+    });
+
+    // Initial load
+    const randomIndex = Math.floor(Math.random() * emails.length);
+    renderInbox();
+    displayEmail(emails[randomIndex], randomIndex);
+});
+
+</script>

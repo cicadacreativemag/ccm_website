@@ -2,861 +2,936 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/issue-1/cover/</loc>
+    <loc>http://localhost:1313/issue-1/cover/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/issue-02-cover/</loc>
+    <loc>http://localhost:1313/issue-2/issue-02-cover/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-3/issue-03-cover/</loc>
+    <loc>http://localhost:1313/issue-3/issue-03-cover/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-4/issue-04-cover/</loc>
+    <loc>http://localhost:1313/issue-4/issue-04-cover/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-5/issue-05-cover/</loc>
+    <loc>http://localhost:1313/issue-5/issue-05-cover/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-6/issue-06-cover/</loc>
+    <loc>http://localhost:1313/issue-6/issue-06-cover/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-7/issue-07-cover/</loc>
-    <lastmod>2024-07-26T23:31:04-04:00</lastmod>
+    <loc>http://localhost:1313/issue-7/issue-07-cover/</loc>
+    <lastmod>2024-12-29T16:47:29-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/editors-note/</loc>
-    <lastmod>2024-07-26T23:31:04-04:00</lastmod>
+    <loc>http://localhost:1313/issue-8/issue-08-cover/</loc>
+    <lastmod>2024-12-29T16:47:49-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/editors-note/</loc>
+    <loc>http://localhost:1313/issue-1/editors-note/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-3/editors-note/</loc>
+    <loc>http://localhost:1313/issue-2/editors-note/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-4/editors-note/</loc>
+    <loc>http://localhost:1313/issue-3/editors-note/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-5/editors-note/</loc>
+    <loc>http://localhost:1313/issue-4/editors-note/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-6/editors-note/</loc>
+    <loc>http://localhost:1313/issue-5/editors-note/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-7/editors-note/</loc>
+    <loc>http://localhost:1313/issue-6/editors-note/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-4/crossword-puzzles-the-infinite-library-and-the-importance-of-defining-order/</loc>
+    <loc>http://localhost:1313/issue-7/editors-note/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/abandoned/</loc>
-    <lastmod>2024-07-26T23:31:04-04:00</lastmod>
+    <loc>http://localhost:1313/issue-8/editors-note/</loc>
+    <lastmod>2024-12-29T16:53:06-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-5/at-the-seams/</loc>
+    <loc>http://localhost:1313/issue-4/crossword-puzzles-the-infinite-library-and-the-importance-of-defining-order/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/crumple-vase/</loc>
+    <loc>http://localhost:1313/issue-1/abandoned/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-6/god-speaks/</loc>
+    <loc>http://localhost:1313/issue-5/at-the-seams/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-7/postcard-generator/</loc>
+    <loc>http://localhost:1313/issue-2/crumple-vase/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-3/toll-house/</loc>
+    <loc>http://localhost:1313/issue-6/god-speaks/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/alpine-enchantment/</loc>
+    <loc>http://localhost:1313/issue-7/postcard-generator/</loc>
+    <lastmod>2024-12-27T01:38:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/issue-3/toll-house/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-6/bittersweet/</loc>
+    <loc>http://localhost:1313/issue-8/youve-got-mail/</loc>
+    <lastmod>2024-12-30T01:25:02-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/issue-1/alpine-enchantment/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-3/bold-reminders/</loc>
+    <loc>http://localhost:1313/issue-6/bittersweet/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-7/in-a-corner-of-the-caucuses/</loc>
+    <loc>http://localhost:1313/issue-3/bold-reminders/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-5/mad-mad-mad/</loc>
+    <loc>http://localhost:1313/issue-7/in-a-corner-of-the-caucuses/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-4/sobering-effects/</loc>
+    <loc>http://localhost:1313/issue-5/mad-mad-mad/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/us-as-parents/</loc>
+    <loc>http://localhost:1313/issue-4/sobering-effects/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-6/crane-of-hope/</loc>
+    <loc>http://localhost:1313/issue-2/us-as-parents/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/issue-8/you-didnt-imagine-it-we-were-once-close/</loc>
+    <lastmod>2024-12-29T23:22:53-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/invasion-of-home/</loc>
+    <loc>http://localhost:1313/issue-6/crane-of-hope/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-7/oju%CC%81-%E1%BA%B9%CC%80j%E1%BA%B9%CC%80/</loc>
+    <loc>http://localhost:1313/issue-2/invasion-of-home/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/sweep/</loc>
+    <loc>http://localhost:1313/issue-7/oju%CC%81-%E1%BA%B9%CC%80j%E1%BA%B9%CC%80/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-3/the-color-of-opera/</loc>
+    <loc>http://localhost:1313/issue-8/sirens-call/</loc>
+    <lastmod>2024-12-29T17:16:52-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/issue-1/sweep/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-5/the-last-time-my-father-drives-to-ann-arbor/</loc>
+    <loc>http://localhost:1313/issue-3/the-color-of-opera/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-4/vancouver-village/</loc>
+    <loc>http://localhost:1313/issue-5/the-last-time-my-father-drives-to-ann-arbor/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-6/ballerina/</loc>
+    <loc>http://localhost:1313/issue-4/vancouver-village/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-7/ma-kahakai-o-kahi-kahakai-poina-l%C5%8D%CA%BBihi-on-the-shore-of-a-long-forgotten-beach/</loc>
+    <loc>http://localhost:1313/issue-6/ballerina/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-4/moo-yu/</loc>
+    <loc>http://localhost:1313/issue-8/glitch-cowboy/</loc>
+    <lastmod>2024-12-29T23:20:54-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/issue-7/ma-kahakai-o-kahi-kahakai-poina-l%C5%8D%CA%BBihi-on-the-shore-of-a-long-forgotten-beach/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/nonce-poems-1-4/</loc>
+    <loc>http://localhost:1313/issue-4/moo-yu/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/self-dimension/</loc>
+    <loc>http://localhost:1313/issue-1/nonce-poems-1-4/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-3/used-to-be-pearly/</loc>
+    <loc>http://localhost:1313/issue-2/self-dimension/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-5/year-to-year/</loc>
+    <loc>http://localhost:1313/issue-3/used-to-be-pearly/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-4/what-do-i-call-bullshit-a-contemporary-dilemma/</loc>
+    <loc>http://localhost:1313/issue-5/year-to-year/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-7/chorus-of-the-saltwater-mermaids-now-extinct/</loc>
+    <loc>http://localhost:1313/issue-4/what-do-i-call-bullshit-a-contemporary-dilemma/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/deer-withstanding/</loc>
+    <loc>http://localhost:1313/issue-7/chorus-of-the-saltwater-mermaids-now-extinct/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-5/do-you-know-who-i-am/</loc>
+    <loc>http://localhost:1313/issue-2/deer-withstanding/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/red/</loc>
+    <loc>http://localhost:1313/issue-5/do-you-know-who-i-am/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/issue-8/in-fair-verona/</loc>
+    <lastmod>2024-12-29T23:22:56-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-3/there-too-lilith-shall-repose/</loc>
+    <loc>http://localhost:1313/issue-1/red/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-6/wheel-of-fortune/</loc>
+    <loc>http://localhost:1313/issue-3/there-too-lilith-shall-repose/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-6/banana-slug-tongue/</loc>
+    <loc>http://localhost:1313/issue-6/wheel-of-fortune/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-7/cicadas/</loc>
+    <loc>http://localhost:1313/issue-8/a-copy-a-copy-a/</loc>
+    <lastmod>2024-12-29T17:12:50-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/issue-6/banana-slug-tongue/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-5/eve-means-life/</loc>
+    <loc>http://localhost:1313/issue-7/cicadas/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/in-mother-tongue/</loc>
+    <loc>http://localhost:1313/issue-5/eve-means-life/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/in-my-head-there-is-a-place-i-go-to-when-i-think-of-my-childhood/</loc>
+    <loc>http://localhost:1313/issue-2/in-mother-tongue/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-3/she-flows/</loc>
+    <loc>http://localhost:1313/issue-1/in-my-head-there-is-a-place-i-go-to-when-i-think-of-my-childhood/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-4/the-mother/</loc>
+    <loc>http://localhost:1313/issue-3/she-flows/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-3/mi-isla-del-encanto/</loc>
+    <loc>http://localhost:1313/issue-4/the-mother/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/flesh/</loc>
+    <loc>http://localhost:1313/issue-3/mi-isla-del-encanto/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-5/for-kate/</loc>
+    <loc>http://localhost:1313/issue-2/flesh/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-4/old-main-fire/</loc>
+    <loc>http://localhost:1313/issue-5/for-kate/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/issue-8/harmony-thing-part-4/</loc>
+    <lastmod>2024-12-29T21:01:26-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-6/shacal-2/</loc>
+    <loc>http://localhost:1313/issue-4/old-main-fire/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/untitled-painting/</loc>
+    <loc>http://localhost:1313/issue-6/shacal-2/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-7/x-marks-the-spot/</loc>
+    <loc>http://localhost:1313/issue-1/untitled-painting/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-3/an-abridgement-about-the-end-of-youth/</loc>
+    <loc>http://localhost:1313/issue-7/x-marks-the-spot/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/bury-it/</loc>
+    <loc>http://localhost:1313/issue-3/an-abridgement-about-the-end-of-youth/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-5/for-gianna/</loc>
+    <loc>http://localhost:1313/issue-2/bury-it/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-4/morpheus-an-ode-to-disreality-death-and-you/</loc>
+    <loc>http://localhost:1313/issue-5/for-gianna/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-7/our-miniscule-selves-on-a-map-of-colorado/</loc>
+    <loc>http://localhost:1313/issue-4/morpheus-an-ode-to-disreality-death-and-you/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-6/plastic-dream/</loc>
+    <loc>http://localhost:1313/issue-7/our-miniscule-selves-on-a-map-of-colorado/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/the-harkening-bees/</loc>
+    <loc>http://localhost:1313/issue-6/plastic-dream/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/a-summer-dream/</loc>
+    <loc>http://localhost:1313/issue-1/the-harkening-bees/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-5/acacia-shadow-bears-dusty-witness/</loc>
+    <loc>http://localhost:1313/issue-8/the-static-and-i/</loc>
+    <lastmod>2024-12-29T23:26:27-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/issue-1/a-summer-dream/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-4/han/</loc>
+    <loc>http://localhost:1313/issue-5/acacia-shadow-bears-dusty-witness/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/issue-8/doom-1993/</loc>
+    <lastmod>2024-12-29T23:26:24-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-6/limitless/</loc>
+    <loc>http://localhost:1313/issue-4/han/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-7/marfa-poltergeist/</loc>
+    <loc>http://localhost:1313/issue-6/limitless/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-3/mens-things/</loc>
+    <loc>http://localhost:1313/issue-7/marfa-poltergeist/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/transplant/</loc>
+    <loc>http://localhost:1313/issue-3/mens-things/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-5/bohiti-tarot/</loc>
+    <loc>http://localhost:1313/issue-2/transplant/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-3/cest-si-bon-de-se-dire-des-mots-doux/</loc>
+    <loc>http://localhost:1313/issue-5/bohiti-tarot/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/mementos-of-solitude/</loc>
+    <loc>http://localhost:1313/issue-3/cest-si-bon-de-se-dire-des-mots-doux/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-7/party-4-u/</loc>
+    <loc>http://localhost:1313/issue-1/mementos-of-solitude/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-6/to-leave-half-my-heart-in-philly/</loc>
+    <loc>http://localhost:1313/issue-7/party-4-u/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/to-you/</loc>
+    <loc>http://localhost:1313/issue-8/the-social-environmental-effects-of-large-dams-on-bananasplit927/</loc>
+    <lastmod>2024-12-29T23:29:50-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/issue-6/to-leave-half-my-heart-in-philly/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-4/untitled-culling-scene/</loc>
+    <loc>http://localhost:1313/issue-2/to-you/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-7/a-day-dripped-day/</loc>
+    <loc>http://localhost:1313/issue-4/untitled-culling-scene/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-3/alone/</loc>
+    <loc>http://localhost:1313/issue-7/a-day-dripped-day/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/midnight/</loc>
+    <loc>http://localhost:1313/issue-3/alone/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-4/sarai-portrait/</loc>
+    <loc>http://localhost:1313/issue-2/midnight/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-6/sense-of-place/</loc>
+    <loc>http://localhost:1313/issue-8/mister-artificial/</loc>
+    <lastmod>2024-12-29T23:30:01-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/issue-4/sarai-portrait/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/the-desert-is-a-woman/</loc>
+    <loc>http://localhost:1313/issue-6/sense-of-place/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-5/the-wreckage/</loc>
+    <loc>http://localhost:1313/issue-1/the-desert-is-a-woman/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-6/2709-sagan/</loc>
+    <loc>http://localhost:1313/issue-5/the-wreckage/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-5/breaking/</loc>
+    <loc>http://localhost:1313/issue-6/2709-sagan/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-3/illustrious-men-of-art-history/</loc>
+    <loc>http://localhost:1313/issue-5/breaking/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-7/moments-of-playfulness-in-the-sliding/</loc>
+    <loc>http://localhost:1313/issue-3/illustrious-men-of-art-history/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/remnant/</loc>
+    <loc>http://localhost:1313/issue-7/moments-of-playfulness-in-the-sliding/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/issue-8/outdated/</loc>
+    <lastmod>2024-12-29T23:37:58-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-4/stained-kitchen-table-cloth/</loc>
+    <loc>http://localhost:1313/issue-1/remnant/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/symbol-circle/</loc>
+    <loc>http://localhost:1313/issue-4/stained-kitchen-table-cloth/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-7/a-breakfast-of-birdsongs-in-anambra/</loc>
+    <loc>http://localhost:1313/issue-2/symbol-circle/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-4/bounded-phase-space/</loc>
+    <loc>http://localhost:1313/issue-7/a-breakfast-of-birdsongs-in-anambra/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-5/ferry-ride/</loc>
+    <loc>http://localhost:1313/issue-4/bounded-phase-space/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-3/impression/</loc>
+    <loc>http://localhost:1313/issue-5/ferry-ride/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/jade/</loc>
+    <loc>http://localhost:1313/issue-3/impression/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-6/now-departed/</loc>
+    <loc>http://localhost:1313/issue-1/jade/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/woolgather/</loc>
+    <loc>http://localhost:1313/issue-6/now-departed/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-4/another-night-in-the-american-southwest/</loc>
+    <loc>http://localhost:1313/issue-8/pursuit/</loc>
+    <lastmod>2024-12-29T23:42:28-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/issue-2/woolgather/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-3/dissolved/</loc>
+    <loc>http://localhost:1313/issue-4/another-night-in-the-american-southwest/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-7/from-kigali-with-love/</loc>
+    <loc>http://localhost:1313/issue-3/dissolved/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/numb/</loc>
+    <loc>http://localhost:1313/issue-7/from-kigali-with-love/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/raku-vase/</loc>
+    <loc>http://localhost:1313/issue-1/numb/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/issue-8/paradox/</loc>
+    <lastmod>2024-12-29T23:42:25-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-5/scarlet-crown/</loc>
+    <loc>http://localhost:1313/issue-2/raku-vase/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-4/caring-is-alien-to-me/</loc>
+    <loc>http://localhost:1313/issue-5/scarlet-crown/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/glimmer-of-hope/</loc>
+    <loc>http://localhost:1313/issue-4/caring-is-alien-to-me/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-5/heavens-bottom-feeder/</loc>
+    <loc>http://localhost:1313/issue-2/glimmer-of-hope/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/shes-a-woman-now/</loc>
+    <loc>http://localhost:1313/issue-5/heavens-bottom-feeder/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-3/the-lost-adonis/</loc>
+    <loc>http://localhost:1313/issue-8/landlines/</loc>
+    <lastmod>2024-12-29T23:43:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/issue-1/shes-a-woman-now/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-7/untitled/</loc>
+    <loc>http://localhost:1313/issue-3/the-lost-adonis/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/dear-god/</loc>
+    <loc>http://localhost:1313/issue-7/untitled/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-7/drafting-chapter-titles-for-my-memoir/</loc>
+    <loc>http://localhost:1313/issue-1/dear-god/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-4/la-vida/</loc>
+    <loc>http://localhost:1313/issue-7/drafting-chapter-titles-for-my-memoir/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-5/like-they-were-made-of-mud/</loc>
+    <loc>http://localhost:1313/issue-4/la-vida/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/omaha-library/</loc>
+    <loc>http://localhost:1313/issue-5/like-they-were-made-of-mud/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-3/what-even-am-i/</loc>
+    <loc>http://localhost:1313/issue-2/omaha-library/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/issue-8/tama-time/</loc>
+    <lastmod>2024-12-29T23:42:56-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/judith-and-praying-mantis/</loc>
+    <loc>http://localhost:1313/issue-3/what-even-am-i/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-3/mirror/</loc>
+    <loc>http://localhost:1313/issue-2/judith-and-praying-mantis/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-4/on-my-block/</loc>
+    <loc>http://localhost:1313/issue-3/mirror/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/psyche-in-lilacland/</loc>
+    <loc>http://localhost:1313/issue-4/on-my-block/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-5/strange-nights-with-my-strange-self/</loc>
+    <loc>http://localhost:1313/issue-1/psyche-in-lilacland/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/alms/</loc>
+    <loc>http://localhost:1313/issue-8/spy-dog/</loc>
+    <lastmod>2024-12-29T23:39:27-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/issue-5/strange-nights-with-my-strange-self/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/i-assure-you-its-quite-alright/</loc>
+    <loc>http://localhost:1313/issue-2/alms/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-6/one-pill-at-a-time/</loc>
+    <loc>http://localhost:1313/issue-1/i-assure-you-its-quite-alright/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-5/rudy/</loc>
+    <loc>http://localhost:1313/issue-6/one-pill-at-a-time/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-4/students-anti-war-activists-outside-agitator/</loc>
+    <loc>http://localhost:1313/issue-5/rudy/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-7/studies-in-blue/</loc>
+    <loc>http://localhost:1313/issue-4/students-anti-war-activists-outside-agitator/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/above/</loc>
+    <loc>http://localhost:1313/issue-7/studies-in-blue/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-7/brink/</loc>
+    <loc>http://localhost:1313/issue-8/untitled/</loc>
+    <lastmod>2024-12-30T00:08:08-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/issue-1/above/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-6/celeste/</loc>
+    <loc>http://localhost:1313/issue-7/brink/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-3/familiar-wa/</loc>
+    <loc>http://localhost:1313/issue-6/celeste/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/ka-pow/</loc>
+    <loc>http://localhost:1313/issue-3/familiar-wa/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-5/the-garden/</loc>
+    <loc>http://localhost:1313/issue-2/ka-pow/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-3/weight-of-the-sun/</loc>
+    <loc>http://localhost:1313/issue-5/the-garden/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/issue-8/the-machine-is-hungry/</loc>
+    <lastmod>2024-12-29T23:40:31-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-4/where-is-my-mind/</loc>
+    <loc>http://localhost:1313/issue-3/weight-of-the-sun/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-5/a-merry-dance/</loc>
+    <loc>http://localhost:1313/issue-4/where-is-my-mind/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/an-image-i-cant-get-gut-of-my-head/</loc>
+    <loc>http://localhost:1313/issue-5/a-merry-dance/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-7/bridge/</loc>
+    <loc>http://localhost:1313/issue-1/an-image-i-cant-get-gut-of-my-head/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-3/contributors-page/</loc>
+    <loc>http://localhost:1313/issue-7/bridge/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/family-history-of-disorder/</loc>
+    <loc>http://localhost:1313/issue-3/contributors-page/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-4/no-eyes/</loc>
+    <loc>http://localhost:1313/issue-2/family-history-of-disorder/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-6/when-the-clock-rings-alarming-alarms/</loc>
+    <loc>http://localhost:1313/issue-8/i-agree-to-give-my-honest-opinion/</loc>
+    <lastmod>2024-12-29T23:19:52-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/issue-4/no-eyes/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/1-note.-may-3-2019/</loc>
+    <loc>http://localhost:1313/issue-6/when-the-clock-rings-alarming-alarms/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-4/all-thats-left-is-soymilk/</loc>
+    <loc>http://localhost:1313/issue-1/1-note.-may-3-2019/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-5/contributors-page/</loc>
+    <loc>http://localhost:1313/issue-4/all-thats-left-is-soymilk/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-6/man-power-glub-glub/</loc>
+    <loc>http://localhost:1313/issue-5/contributors-page/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-7/not-perfectly-placed/</loc>
+    <loc>http://localhost:1313/issue-6/man-power-glub-glub/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/those-flowers-out-front/</loc>
+    <loc>http://localhost:1313/issue-7/not-perfectly-placed/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-4/contributors-page/</loc>
+    <loc>http://localhost:1313/issue-2/those-flowers-out-front/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/issue-8/watercolor-bliss/</loc>
+    <lastmod>2024-12-30T01:05:06-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-6/contributors-page/</loc>
+    <loc>http://localhost:1313/issue-4/contributors-page/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/fragility/</loc>
+    <loc>http://localhost:1313/issue-6/contributors-page/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/untitled/</loc>
+    <loc>http://localhost:1313/issue-8/contributors-page/</loc>
+    <lastmod>2024-12-30T01:12:16-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/issue-2/fragility/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/redacted/</loc>
+    <loc>http://localhost:1313/issue-1/untitled/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/snow-falls-inside-of-me/</loc>
+    <loc>http://localhost:1313/issue-1/redacted/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-7/you-are-here/</loc>
+    <loc>http://localhost:1313/issue-2/snow-falls-inside-of-me/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/cain-and-abel/</loc>
+    <loc>http://localhost:1313/issue-7/you-are-here/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/composed-anxiety/</loc>
+    <loc>http://localhost:1313/issue-1/cain-and-abel/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-7/contributors-page/</loc>
+    <loc>http://localhost:1313/issue-2/composed-anxiety/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/issue-7/contributors-page/</loc>
+    <lastmod>2024-12-30T00:00:55-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-7/back-cover/</loc>
+    <loc>http://localhost:1313/issue-7/back-cover/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/dichotomy/</loc>
+    <loc>http://localhost:1313/issue-1/dichotomy/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/spring/</loc>
+    <loc>http://localhost:1313/issue-2/spring/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/nocturne/</loc>
+    <loc>http://localhost:1313/issue-2/nocturne/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/of-decay-and-things-that-dont-matter/</loc>
+    <loc>http://localhost:1313/issue-1/of-decay-and-things-that-dont-matter/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/gift-of-the-daughter-of-nature-%E5%A4%A7%E8%87%AA%E7%84%B6%E4%B9%8B%E5%A5%B3%E7%9A%84%E9%A6%88%E8%B5%A0/</loc>
+    <loc>http://localhost:1313/issue-2/gift-of-the-daughter-of-nature-%E5%A4%A7%E8%87%AA%E7%84%B6%E4%B9%8B%E5%A5%B3%E7%9A%84%E9%A6%88%E8%B5%A0/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/vancouver-reflection/</loc>
+    <loc>http://localhost:1313/issue-1/vancouver-reflection/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/a-poem-of-dream/</loc>
+    <loc>http://localhost:1313/issue-1/a-poem-of-dream/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/ten-days/</loc>
+    <loc>http://localhost:1313/issue-2/ten-days/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/adams-rib/</loc>
+    <loc>http://localhost:1313/issue-2/adams-rib/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/alter/</loc>
+    <loc>http://localhost:1313/issue-1/alter/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/mans-on-mars/warm-sands/</loc>
+    <loc>http://localhost:1313/issue-1/mans-on-mars/warm-sands/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/soil-water-sky/</loc>
+    <loc>http://localhost:1313/issue-2/soil-water-sky/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/notable-persons/</loc>
+    <loc>http://localhost:1313/issue-2/notable-persons/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/recollection/</loc>
+    <loc>http://localhost:1313/issue-1/recollection/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/hoa/</loc>
+    <loc>http://localhost:1313/issue-1/hoa/</loc>
     <lastmod>2024-08-18T00:24:53-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/its-vitality-withers-away/</loc>
+    <loc>http://localhost:1313/issue-2/its-vitality-withers-away/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/pieces/</loc>
+    <loc>http://localhost:1313/issue-2/pieces/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/three-trees-/-sheep-grazing/</loc>
+    <loc>http://localhost:1313/issue-1/three-trees-/-sheep-grazing/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/august/</loc>
+    <loc>http://localhost:1313/issue-1/august/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/look-to-the-future/</loc>
+    <loc>http://localhost:1313/issue-2/look-to-the-future/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/gross-girl-excerpt/</loc>
+    <loc>http://localhost:1313/issue-1/gross-girl-excerpt/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/toska-tap/</loc>
+    <loc>http://localhost:1313/issue-2/toska-tap/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/1s-orbiting/</loc>
+    <loc>http://localhost:1313/issue-2/1s-orbiting/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/cut-off/</loc>
+    <loc>http://localhost:1313/issue-1/cut-off/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/berceuse/</loc>
+    <loc>http://localhost:1313/issue-2/berceuse/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/cross-section/</loc>
+    <loc>http://localhost:1313/issue-1/cross-section/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/astro/</loc>
+    <loc>http://localhost:1313/issue-1/astro/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/lost-ocean-/-ushinawareta-umi-%E5%A4%B1%E3%82%8F%E3%82%8C%E3%81%9F%E6%B5%B7/</loc>
+    <loc>http://localhost:1313/issue-2/lost-ocean-/-ushinawareta-umi-%E5%A4%B1%E3%82%8F%E3%82%8C%E3%81%9F%E6%B5%B7/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/organic/</loc>
+    <loc>http://localhost:1313/issue-2/organic/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/the-voyage-out-erasure-of-virginia-woolf/</loc>
+    <loc>http://localhost:1313/issue-1/the-voyage-out-erasure-of-virginia-woolf/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/anxiety-triptych/</loc>
+    <loc>http://localhost:1313/issue-2/anxiety-triptych/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/process-template/relic-study-excerpt/</loc>
+    <loc>http://localhost:1313/issue-1/process-template/relic-study-excerpt/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/all-night-love/</loc>
+    <loc>http://localhost:1313/issue-2/all-night-love/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/lizard-close-up/</loc>
+    <loc>http://localhost:1313/issue-1/lizard-close-up/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/a-feeling-i-thought-id-imagined/</loc>
+    <loc>http://localhost:1313/issue-1/a-feeling-i-thought-id-imagined/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-2/townships-farmhouse/</loc>
+    <loc>http://localhost:1313/issue-2/townships-farmhouse/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/breezeway-cottage/</loc>
+    <loc>http://localhost:1313/issue-1/breezeway-cottage/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/at-a-crossroads-in-autumn/</loc>
+    <loc>http://localhost:1313/issue-1/at-a-crossroads-in-autumn/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/doors-in-parallel/</loc>
+    <loc>http://localhost:1313/issue-1/doors-in-parallel/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/sum-of-its-parts/</loc>
+    <loc>http://localhost:1313/issue-1/sum-of-its-parts/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/keep-up-with-the-big-dogs/</loc>
+    <loc>http://localhost:1313/issue-1/keep-up-with-the-big-dogs/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/survival/</loc>
+    <loc>http://localhost:1313/issue-1/survival/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/youth/</loc>
+    <loc>http://localhost:1313/issue-1/youth/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/tyke/</loc>
+    <loc>http://localhost:1313/issue-1/tyke/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/a-collection-in-reverse-chronology-from-the-end-of-winter/</loc>
+    <loc>http://localhost:1313/issue-1/a-collection-in-reverse-chronology-from-the-end-of-winter/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/trashion/</loc>
+    <loc>http://localhost:1313/issue-1/trashion/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/pink-angel/</loc>
+    <loc>http://localhost:1313/issue-1/pink-angel/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/obscurantism-after-bin-ramke/</loc>
+    <loc>http://localhost:1313/issue-1/obscurantism-after-bin-ramke/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/natural-phenomena/</loc>
+    <loc>http://localhost:1313/issue-1/natural-phenomena/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/artist-animal/</loc>
+    <loc>http://localhost:1313/issue-1/artist-animal/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/elephant-eye/</loc>
+    <loc>http://localhost:1313/issue-1/elephant-eye/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issue-1/contributors-page/</loc>
+    <loc>http://localhost:1313/issue-1/contributors-page/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/introducing-revise-and-resubmit/</loc>
+    <loc>http://localhost:1313/issues/issue-8/</loc>
+    <lastmod>2024-12-29T23:48:25-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/introducing-revise-and-resubmit/</loc>
     <lastmod>2024-08-24T17:33:55-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/deadline-extension/</loc>
+    <loc>http://localhost:1313/blog/deadline-extension/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/renaissance-pranks-and-protest/</loc>
+    <loc>http://localhost:1313/blog/renaissance-pranks-and-protest/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/celebrations-in-spring/</loc>
+    <loc>http://localhost:1313/blog/celebrations-in-spring/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/reintroducing-ourselves/</loc>
+    <loc>http://localhost:1313/blog/reintroducing-ourselves/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/21st-century-penpals/</loc>
+    <loc>http://localhost:1313/blog/21st-century-penpals/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/an-interview-with-penny-molesso/</loc>
+    <loc>http://localhost:1313/blog/an-interview-with-penny-molesso/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/ccm-updates/</loc>
+    <loc>http://localhost:1313/blog/ccm-updates/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issues/issue-7/</loc>
+    <loc>http://localhost:1313/issues/issue-7/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/when-in-crisis-get-a-plant/</loc>
+    <loc>http://localhost:1313/blog/when-in-crisis-get-a-plant/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/edible-flowers/</loc>
+    <loc>http://localhost:1313/blog/edible-flowers/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/styleguide/</loc>
+    <loc>http://localhost:1313/styleguide/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/parasite/</loc>
+    <loc>http://localhost:1313/blog/parasite/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/spring-is-for-action/</loc>
+    <loc>http://localhost:1313/blog/spring-is-for-action/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/roadmap/</loc>
+    <loc>http://localhost:1313/blog/roadmap/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/were-back/</loc>
+    <loc>http://localhost:1313/blog/were-back/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issues/issue-6/</loc>
+    <loc>http://localhost:1313/issues/issue-6/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/redecorate/</loc>
+    <loc>http://localhost:1313/blog/redecorate/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/astrology-in-art/</loc>
+    <loc>http://localhost:1313/blog/astrology-in-art/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/communal-isolation/</loc>
+    <loc>http://localhost:1313/blog/communal-isolation/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issues/issue-5/</loc>
+    <loc>http://localhost:1313/issues/issue-5/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/gothic-horror/</loc>
+    <loc>http://localhost:1313/blog/gothic-horror/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/ambiguous-endings/</loc>
+    <loc>http://localhost:1313/blog/ambiguous-endings/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/escapism/</loc>
+    <loc>http://localhost:1313/blog/escapism/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/margin-doodles/</loc>
+    <loc>http://localhost:1313/blog/margin-doodles/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/fill-your-pages/</loc>
+    <loc>http://localhost:1313/blog/fill-your-pages/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issues/issue-4/</loc>
+    <loc>http://localhost:1313/issues/issue-4/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/cicada-quiz/</loc>
+    <loc>http://localhost:1313/blog/cicada-quiz/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/boundary-breaking/</loc>
+    <loc>http://localhost:1313/blog/boundary-breaking/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/warhol-kusama/</loc>
-    <lastmod>2024-07-26T23:31:04-04:00</lastmod>
+    <loc>http://localhost:1313/blog/warhol-kusama/</loc>
+    <lastmod>2024-11-12T23:48:04-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/punk/</loc>
+    <loc>http://localhost:1313/blog/punk/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/love-story/</loc>
+    <loc>http://localhost:1313/blog/love-story/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/swamp/</loc>
+    <loc>http://localhost:1313/blog/swamp/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/tattoo-artists/</loc>
+    <loc>http://localhost:1313/blog/tattoo-artists/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/ugly-babies/</loc>
+    <loc>http://localhost:1313/blog/ugly-babies/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/7-ways/</loc>
+    <loc>http://localhost:1313/blog/7-ways/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/nature/</loc>
+    <loc>http://localhost:1313/blog/nature/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/new-sincerity/</loc>
+    <loc>http://localhost:1313/blog/new-sincerity/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/being-a-kid/</loc>
+    <loc>http://localhost:1313/blog/being-a-kid/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/modern-montage/</loc>
+    <loc>http://localhost:1313/blog/modern-montage/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issues/issue-3/</loc>
+    <loc>http://localhost:1313/issues/issue-3/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/social-elements-classroom/</loc>
+    <loc>http://localhost:1313/blog/social-elements-classroom/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/proctoring-software/</loc>
+    <loc>http://localhost:1313/blog/proctoring-software/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/protest-art/</loc>
+    <loc>http://localhost:1313/blog/protest-art/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/manufacturing-consent/</loc>
+    <loc>http://localhost:1313/blog/manufacturing-consent/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/20-designers/</loc>
+    <loc>http://localhost:1313/blog/20-designers/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/unity-of-form/</loc>
+    <loc>http://localhost:1313/blog/unity-of-form/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/shadow-pandemic/</loc>
+    <loc>http://localhost:1313/blog/shadow-pandemic/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/marx-covid/</loc>
+    <loc>http://localhost:1313/blog/marx-covid/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/anti-asian-racism/</loc>
+    <loc>http://localhost:1313/blog/anti-asian-racism/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/reopening-schools/</loc>
+    <loc>http://localhost:1313/blog/reopening-schools/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/navigating-black-allyship/</loc>
+    <loc>http://localhost:1313/blog/navigating-black-allyship/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/reflecting-on-allies/</loc>
+    <loc>http://localhost:1313/blog/reflecting-on-allies/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/brood-x/</loc>
+    <loc>http://localhost:1313/blog/brood-x/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/white-fragility/</loc>
+    <loc>http://localhost:1313/blog/white-fragility/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/new-blog/</loc>
+    <loc>http://localhost:1313/blog/new-blog/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issues/issue-2/</loc>
+    <loc>http://localhost:1313/issues/issue-2/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issues/issue-1/</loc>
+    <loc>http://localhost:1313/issues/issue-1/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
-    <lastmod>2024-07-26T23:31:04-04:00</lastmod>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2024-12-08T15:55:32-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/landing/</loc>
-    <lastmod>2024-10-26T23:36:50-04:00</lastmod>
+    <loc>http://localhost:1313/landing/</loc>
+    <lastmod>2024-12-08T16:32:40-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/issues/</loc>
+    <loc>http://localhost:1313/issues/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/staff/</loc>
-    <lastmod>2024-07-26T23:31:04-04:00</lastmod>
+    <loc>http://localhost:1313/staff/</loc>
+    <lastmod>2024-12-29T23:50:38-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/submit/</loc>
-    <lastmod>2024-07-26T23:31:04-04:00</lastmod>
+    <loc>http://localhost:1313/submit/</loc>
+    <lastmod>2024-12-08T15:52:33-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>//localhost:1313/workshops/</loc>
+    <loc>http://localhost:1313/workshops/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url>
 </urlset>

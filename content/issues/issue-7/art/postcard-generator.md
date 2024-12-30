@@ -13,7 +13,7 @@ To celebrate the release of this issue, we've created a way for you to take a li
 *Notes*:
 - Toggle through different themes to switch the postcard color scheme.
 - Although this generator should be compatible with most displays, if any of your text is cut off, try switching to desktop. 
-- Thumbnail demo photo [credit](https://unsplash.com/photos/twukN12EN7c) 
+- Thumbnail demo photo [credit](https://unsplash.com/photos/twukN12EN7c)  
 
 <script type="text/javascript" src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
 
