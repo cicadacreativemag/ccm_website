@@ -17,7 +17,7 @@ type: writing
 
 {{< contributors name="Nona Lea" piece1link="/issue-8/untitled/" piece1="Untitled" piece1description="Haiku" >}}
 
-{{< contributors name="Alex Lee" statement="Alex recently graduated from UC Santa Barbara with a BA in Art and currently works at a museum in Los Angeles. They're interested in exploring how narratives are conveyed visually and create works that range from painting, digital illustration, and comics. They can be found eating hot pot, browsing the local book store, or trying to perfect homemade lattes." piece1link="/issue-8/issue-08-cover/" piece1="Issue 08 Cover" piece1description="Digital art" >}}
+{{< contributors name="Alex Lee" link="https://www.instagram.com/bonebitten/" linktitle="@bonebitten"  statement="Alex recently graduated from UC Santa Barbara with a BA in Art and currently works at a museum in Los Angeles. They're interested in exploring how narratives are conveyed visually and create works that range from painting, digital illustration, and comics. They can be found eating hot pot, browsing the local book store, or trying to perfect homemade lattes." piece1link="/issue-8/issue-08-cover/" piece1="Issue 08 Cover" piece1description="Digital art" >}}
 
 {{< contributors name="Ben Macnair" link="https://x.com/benmacnair" linktitle="@benmacnair" statement="Ben Macnair is an award-winning poet, playwright and musician from Staffordshire in the United Kingdom." piece1link="/issue-8/harmony-thing-part-4/" piece1="Harmony Thing Part 4" piece1description="Instrumental music composition" >}}
 
