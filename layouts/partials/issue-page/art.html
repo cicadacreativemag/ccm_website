@@ -1,6 +1,11 @@
 {{ $imagePath := .Params.featuredImage }}
 {{ $image := resources.Get $imagePath }}
-{{ $fingerprinted := $image | resources.Fingerprint }}
-{{ with $fingerprinted }}
-<img class="img-fluid" src="{{ .RelPermalink }}" alt="Issue thumbnail">
+
+{{ with $image }}
+  {{ $thumbnail := .Resize "500x webp" }} 
+  {{ $fingerprinted := $thumbnail | resources.Fingerprint }}
+
+  <img class="img-fluid" src="{{ $fingerprinted.RelPermalink }}" alt="Issue thumbnail">
+{{ else }}
+  <p>Error: Thumbnail image not found or could not be processed.</p>
 {{ end }}

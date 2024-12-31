@@ -1,1 +1,13 @@
-<img src="{{ .Get "img-src" }}" class="img-fluid" alt="{{ .Get "alt" }}">
+{{ $img := resources.Get (.Get "img-src") }}
+
+{{ with $img }}
+  {{ $resizedImage := $img.Resize "700x" }}
+  {{ $webpImage := $resizedImage.Convert "image/webp" }}
+  {{ if $webpImage }}
+    <img src="{{ $webpImage.RelPermalink }}" class="img-fluid" alt="{{ .Get "alt" }}">
+  {{ else }}
+    <p>Error: Image couldn't be converted to WebP.</p>
+  {{ end }}
+{{ else }}
+  <p>Error: Image not found.</p>
+{{ end }}

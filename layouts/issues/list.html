@@ -7,12 +7,22 @@
       <div class="col-md-4 py-3">
          <div class="card">
             {{ $imagePath := .Params.featuredImage }}
+            {{ $imagePath := .Params.featuredImage }}
             {{ $image := resources.Get $imagePath }}
-            {{ $resized := $image.Resize "400x" }}
-            {{ $fingerprinted := $image | resources.Fingerprint }} 
-            {{ with $fingerprinted }}
-            <img class="img-fluid" src="{{ .RelPermalink }}" alt="Issue cover image">
-            {{ end }}
+            
+            {{ with $image }}
+              {{ $resized := .Fill "700x600 webp Center" }} <!-- Resize and crop to exactly 400x300px -->
+              {{ $fingerprinted := $resized | resources.Fingerprint }} <!-- Add fingerprinting -->
+            
+              {{ if $fingerprinted }}
+                <img src="{{ $fingerprinted.RelPermalink }}" alt="Issue cover image" class="img-fluid">
+              {{ else }}
+                <p>Error: Image could not be processed.</p>
+              {{ end }}
+            {{ else }}
+              <p>Error: Featured image not found.</p>
+            {{ end }}            
+
             <div class="card-body">
                <div class="card-title">
                   {{ .Title }}

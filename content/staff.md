@@ -10,7 +10,7 @@ While the beating heart of Cicada is our creative community, we want you to know
 
 {{< masonry >}}
 
-{{< staff-card name="Jay Serrano" position="Editor-in-Chief, Web Developer" img-src="/images/staff/jay_alt.png" alt="A photo of a woman with a ponytail taking a mirror selfie with a render of Hiei from Yu Yu Hakusho by one shoulder and a cheeseburger by another. A cat render is at the bottom right." caption="Multimedia artist, perpetual tinkerer, & prototypical Pisces. Recommend me a horror game!" website="https://jayleen.info/">}}
+{{< staff-card name="Jay Serrano" position="Editor-in-Chief, Web Developer" img-src="/images/staff/jay_alt.png" alt="A photo of a woman with a ponytail taking a mirror selfie with a render of Hiei from Yu Yu Hakusho by one shoulder and a cheeseburger by another. A cat render is at the bottom right." caption="Multimedia artist, incorrigble tinkerer, & prototypical Pisces. Recommend me a horror game!" website="https://jayleen.info/">}}
 
 {{< staff-card name="Allyson (Alex) Lee" position="Art Editor" img-src="/images/staff/alex.jpg" alt="A photo of a person with dark hair looking at the camera." caption="Alex recently graduated from UC Santa Barbara with a BA in Art and currently works at a museum in Los Angeles. They're interested in exploring how narratives are conveyed visually and create works that range from painting, digital illustration, and comics. They can be found eating hot pot, browsing the local book store, or trying to perfect homemade lattes.">}}
 

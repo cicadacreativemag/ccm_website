@@ -8,17 +8,17 @@ draft: false
 
 {{< masonry >}}
 
-{{< cards/card-small title="SUBMISSIONS ARE CLOSED" img-src="/images/landing/starmoon-full-callforsubs-02.png" alt="A call to submissions for Issue 08. Features an illustration of a white-haired character with star eyes.">}}
-Thank you to everyone who participated in the review cycle for Issue 08: "Dial-up Dreams." We are hard at working preparing the issue for publication, which will be released  later this month. We will announce the publication via newsletter, social media, and in our RSS feed. We hope this issue delivers everything you hoped for and more. Stay creative!
+{{< cards/card-small title="ISSUE 08 IS LIVE" caption="Read now!" link="/issues/issue-8" img-src="/images/landing/issue08cover.webp" alt="A call to submissions for Issue 08. Features an illustration of a white-haired character with star eyes.">}}
+We are pleased to announce Issue 08: Dial-up Dreams has been released! Thank you all for your patience with this issue's release, and also for your passionate contributions. We are confident you'll love this issue as much as we do.
 {{< /cards/card-small >}}
 
 {{< cards/card-small title="RECENT BLOG POSTS">}}
 {{< blog-feed >}}
 {{< /cards/card-small >}}
 
-{{< cards/card-small title="HALLOWEEN PLAYLIST">}}
-Check out our collaborative Halloween playlist!
-<iframe style="border-radius:0px" src="https://open.spotify.com/embed/playlist/2V2Opt7ELGCWPxa9jQ39un?utm_source=generator" width="100%" height="430" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< cards/card-small title="CCM PLAYLIST">}}
+Need some tunes to write to? Check out our collaborative playlist!
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/playlist/4a8Nhz7K81x9oUc3uOQgIN?si=83e4066d77054590" width="100%" height="530" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 {{< /cards/card-small >}}
 
 {{< cards/card-small title="RSS FEED" caption="RSS feed" link="/index.xml">}}

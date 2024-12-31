@@ -3,7 +3,7 @@ title: "Issue 8: Dial-up Dreams"
 draft: false
 date: 2024-12-29T16:42:26-05:00
 layout: issue-page
-featuredImage: /images/issue7/cover.png
+featuredImage: /images/issue8/cover.png
 summary: Few inventions have revolutionized our interconnectedness like the internet. For this issue, we invited submitters to reflect on a bygone era of whirring modems and the thrill of the unknown. 
 ---
 
