@@ -39,3 +39,18 @@ we pretended to not know where anyone was
 for like 5 minutes  
 Jerd hid under the desk all period  
 while others are burned
+
+I did not get my seat back  
+but I will  
+have no fear  
+mere sentimentalism  
+I shall RULE!!!  
+with sticks  
+to paradise
+
+I am, I am well I’m not sure what I am  
+an intimate constant weeding  
+it was to be a simple case  
+as userish as ever  
+very tan, very fab  
+her Hanes tee rolled up at the cuffs
