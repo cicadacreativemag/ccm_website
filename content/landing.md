@@ -8,6 +8,10 @@ draft: false
 
 {{< masonry >}}
 
+{{< cards/card-small title="STAFF APPLICATIONS ARE OPEN" caption="Apply to staff" link="https://tally.so/r/woExBM" img-src="/images/landing/open_apps.png" alt="We are looking for Reviewers and a Social Media Manager to join our team of volunteers. Check the form to get started today!">}}
+Join our creative team! 🎨 We are looking for volunteer Reviewers and a Social Media Manager. Apply by Feb. 22 for consideration.
+{{< /cards/card-small >}}
+
 {{< cards/card-small title="ISSUE 08 IS LIVE" caption="Read now!" link="/issues/issue-8" img-src="/images/landing/issue08cover.webp" alt="A call to submissions for Issue 08. Features an illustration of a white-haired character with star eyes.">}}
 We are pleased to announce Issue 08: Dial-up Dreams has been released! Thank you all for your patience with this issue's release, and also for your passionate contributions. We are confident you'll love this issue as much as we do.
 {{< /cards/card-small >}}
