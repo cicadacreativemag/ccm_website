@@ -30,12 +30,11 @@
 
   [[menu.main]]
   name = "About"
-  url = "/about/"
   weight = 2
-  [[menu.main]]
 
-  name = "Mission Statement"
-  url = "/about/mission-statement/"
+  [[menu.main]]
+  name = "About Us"
+  url = "/about/"
   parent = "About"
   weight = 1
 
@@ -64,11 +63,16 @@
   name = "Staff"
   url = "/staff/"
   weight = 6
-  
+
+  [[menu.main]]
+  name = "Support Us"
+  url = "/support-us/"
+  weight = 7
+
   [[menu.main]]
   name = "Contact"
   url = "/contact/"
-  weight = 7
+  weight = 8
 
 [markup]
   [markup.goldmark]

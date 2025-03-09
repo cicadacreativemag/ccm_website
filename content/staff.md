@@ -6,7 +6,7 @@ draft: false
 # STAFF
 > Meet the team behind CCM!
 
-While the beating heart of Cicada is our creative community, we want you to know who looks over the editorial process, from selecting our themes to curating each publication.
+While the beating heart of Cicada is our creative community, we want you to know who oversees editorial processes and curates each publication.
 
 {{< masonry >}}
 

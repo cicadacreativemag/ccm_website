@@ -8,8 +8,29 @@ draft: false
 
 {{< masonry >}}
 
-{{< cards/card-small title="STAFF APPLICATIONS ARE OPEN" caption="Apply to staff" link="https://tally.so/r/woExBM" img-src="/images/landing/open_apps.png" alt="We are looking for Reviewers and a Social Media Manager to join our team of volunteers. Check the form to get started today!">}}
-Join our creative team! 🎨 We are looking for volunteer Reviewers and a Social Media Manager. Apply by Feb. 22 for consideration.
+{{< cards/card-small title="SUPPORT CICADA" caption="Donate to Cicada" >}}
+Help Cicada grow! Your support helps keep independent publishing alive.
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Us on Ko-fi', '#72a4f2', 'X8X81BERCG');kofiwidget2.draw();</script> <br><br>
+
+<div id="donate-button-container">
+<div id="donate-button"></div>
+<script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script>
+<script>
+PayPal.Donation.Button({
+env:'production',
+hosted_button_id:'MU7SW5SA9QDPQ',
+image: {
+src:'https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif',
+alt:'Donate with PayPal button',
+title:'PayPal - The safer, easier way to pay online!',
+}
+}).render('#donate-button');
+</script>
+</div><br>
+
+For tax deductible donations:
+
+<a href="https://fundraising.fracturedatlas.org/cicada-creative-magazine"><img alt="Donate now at Fractured Atlas!" src="https://fundraising.fracturedatlas.org/images/fundraiser-share-buttons/share-button--light--white.png" /></a>
 {{< /cards/card-small >}}
 
 {{< cards/card-small title="ISSUE 08 IS LIVE" caption="Read now!" link="/issues/issue-8" img-src="/images/landing/issue08cover.webp" alt="A call to submissions for Issue 08. Features an illustration of a white-haired character with star eyes.">}}
