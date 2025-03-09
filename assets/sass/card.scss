@@ -6,6 +6,11 @@
     font-weight: 500;
     padding: 2vh;
     border-radius: 0px;
+    @media (max-width: 20em) {
+        .card {
+          padding: 2vh;
+        }  
+      }
 }
 
 .card-title {

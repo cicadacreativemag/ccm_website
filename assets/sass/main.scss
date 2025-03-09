@@ -29,7 +29,7 @@ body {
   font-family: $body-font;
   line-height: 1.5;
   padding: 1em;
-  font-size: 1em;
+  font-size:1em;
   @include transition;
   ::selection {
     color: $bg-color;
@@ -51,11 +51,9 @@ a {
   width: 90%;
   margin-top: 2%;
   @media (max-width: 20em) {
-
     .container {
       width: 100%;
-    }
-  
+    }  
   }
 }
 

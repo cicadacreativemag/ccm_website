@@ -105,7 +105,7 @@ function mapThemeToIconColor(themeColor) {
     case "green":
       return "blue";
     case "pink":
-      return "yellow";
+      return "blue";
     case "yellow":
       return "red";
     case "red":
@@ -114,3 +114,5 @@ function mapThemeToIconColor(themeColor) {
       return "red";  // default
   }
 }
+
+

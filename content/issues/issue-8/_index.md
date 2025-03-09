@@ -1,5 +1,5 @@
 ---
-title: "Issue 8: Dial-up Dreams"
+title: "Issue 08: Dial-up Dreams"
 draft: false
 date: 2024-12-29T16:42:26-05:00
 layout: issue-page

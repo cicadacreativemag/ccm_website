@@ -1,35 +1,178 @@
-.navbar,
-.navbar-brand {
-  @include theme;
-  @include transition;
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1.5px solid $text-color;
+  width: 100%;
 }
 
-.nav-item {
+/* group logo & links */
+.nav-left {
+  display: flex;
+  align-items: center;
+  gap: 0.2em;
+}
+
+/* nav links */
+.nav {
+  display: flex;
+  list-style: none;
+  gap: 0.5em;
+}
+
+/* buttons & hamburger */
+.nav-right {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+}
+
+/* nav link styling */
+.nav a {
   font-family: $sub-font;
-  color: $text-color;
-  border: 1.5px solid $text-color;
-  font-size: 0.9rem;
-  padding-inline: 5px;
-  margin: 5px;
-  @include transition;
-  a:hover {
-    text-decoration: none;
-    color: $bg-color;
-  }
-
-  &:hover {
-   @include invert;
-  }
-}
-
-.nav-link {
-  color: $text-color;
-  a {
+  font-size: 0.9em;
+  color: inherit;
+  border: 1px solid $text-color;
+  text-decoration: none;
+  &:hover,
+  &:focus {
     @include invert;
     text-decoration: none;
   }
 }
 
-.navbar-toggler-icon {
-  color: $text-color;
+/* dropdown styling */
+.dropdown {
+  position: relative;
+}
+
+.dropdown-menu {
+  display: none;
+  margin-top: 0.25em;
+  border-radius: 0;
+  background: $bg-color;
+  border: 1.5px solid $text-color;
+  z-index: 10;  
+  @include transition;
+  padding: 0;
+}
+
+.dropdown-menu a {
+  border: 0;  
+  padding-top: 0.5em;
+  padding-top: 0.5em;
+}
+
+.dropdown.open .dropdown-menu {
+  display: block;
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* hamburger menu */
+.hamburger {
+  display: none;
+  background: none;  
+  cursor: pointer;  
+  width: 4em;
+  height: 4em;
+  position: relative;
+  z-index: 20;
+}
+
+.hamburger span {
+  display: block;
+  width: 30px;
+  height: 3px;
+  background: $text-color;
+  margin: 6px auto;
+  transition: all 0.3s ease-in-out;
+}
+
+/* animate burger */
+.nav-open .hamburger span:nth-child(1) {
+  transform: translateY(9px) rotate(45deg);
+}
+.nav-open .hamburger span:nth-child(2) {
+  opacity: 0;
+}
+.nav-open .hamburger span:nth-child(3) {
+  transform: translateY(-9px) rotate(-45deg);
+}
+
+/* rotate chevron when dropdown is open */
+.dropdown.open .fa-chevron-down {
+  transform: rotate(180deg);
+  @include transition;
+}
+
+/* mobile */
+@media (max-width: 768px) {
+  .hamburger {
+    display: block;
+    margin-left: auto;
+    z-index: 50;
+  }
+
+  .nav {
+    display: none;
+    flex-direction: column;
+  }
+
+/* mobile hamburger menu */
+#menu {
+  display: none;
+  flex-direction: column;
+  background: $bg-color;
+  position: fixed;
+  top: 10%; 
+  left: 0;
+  width: 100%;
+  border-bottom: 1.5px solid $text-color;
+  z-index: 15;
+  transform: translateY(-100%);
+  opacity: 0;
+  padding: 2em 3em;
+  @include transition;
+}
+
+#menu.is-active {
+  display: flex;
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* prevent body scroll when menu is open */
+body.nav-open {
+  overflow: hidden;
+}
+
+.dropdown.open .dropdown-menu {
+  display: block;
+}
+
+  .nav-buttons {
+    display: none; // Hide by default
+    gap: 0.3em;
+    padding-top: 1em;
+    display: flex;
+  }
+  
+  /* mobile dropdowns */
+
+/* ensure dropdowns are visible inside the menu */
+.dropdown-menu {
+  display: none;
+  position: relative; /* Instead of absolute, so it pushes content */
+  width: 100%;
+  padding: 0;
+}
+
+.dropdown.open .dropdown-menu {
+  display: block;
+}
+
+.dropdown-menu li {
+  padding: 0.25em;
+}
 }
