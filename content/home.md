@@ -12,22 +12,6 @@ draft: false
 Help Cicada grow! Your support helps keep independent publishing alive.
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Us on Ko-fi', '#72a4f2', 'X8X81BERCG');kofiwidget2.draw();</script> <br><br>
 
-<div id="donate-button-container">
-<div id="donate-button"></div>
-<script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script>
-<script>
-PayPal.Donation.Button({
-env:'production',
-hosted_button_id:'MU7SW5SA9QDPQ',
-image: {
-src:'https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif',
-alt:'Donate with PayPal button',
-title:'PayPal - The safer, easier way to pay online!',
-}
-}).render('#donate-button');
-</script>
-</div><br>
-
 For tax deductible donations:
 
 <a href="https://fundraising.fracturedatlas.org/cicada-creative-magazine"><img alt="Donate now at Fractured Atlas!" src="https://fundraising.fracturedatlas.org/images/fundraiser-share-buttons/share-button--light--white.png" /></a>
