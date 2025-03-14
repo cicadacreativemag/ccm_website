@@ -17,7 +17,13 @@ For tax deductible donations:
 <a href="https://fundraising.fracturedatlas.org/cicada-creative-magazine"><img alt="Donate now at Fractured Atlas!" src="https://fundraising.fracturedatlas.org/images/fundraiser-share-buttons/share-button--light--white.png" /></a>
 {{< /cards/card-small >}}
 
-{{< cards/card-small title="ISSUE 08 IS LIVE" caption="Read now!" link="/issues/issue-8" img-src="/images/landing/issue08cover.webp" alt="A call to submissions for Issue 08. Features an illustration of a white-haired character with star eyes.">}}
+
+{{< cards/card-small title="SUBMIT TO ISSUE 09" caption="Submit your work!" link="https://tally.so/r/wLkEVz" img-src="/images/home/submissions-16.png" alt="A call to submissions for Issue 09. Currently accepting poetry, art, prose, music, video and more.">}}
+Submit your work to Issue 09! Submissions will be open until May 31 with an estimated turnaround time of 6-8 weeks. Stay creative!
+{{< /cards/card-small >}}
+
+
+{{< cards/card-small title="ISSUE 08 IS LIVE" caption="Read now!" link="/issues/issue-8" img-src="/images/home/issue08cover.webp" alt="A call to submissions for Issue 08. Features an illustration of a white-haired character with star eyes.">}}
 We are pleased to announce Issue 08: Dial-up Dreams has been released! Thank you all for your patience with this issue's release, and also for your passionate contributions. We are confident you'll love this issue as much as we do.
 {{< /cards/card-small >}}
 
@@ -25,13 +31,13 @@ We are pleased to announce Issue 08: Dial-up Dreams has been released! Thank you
 {{< blog-feed >}}
 {{< /cards/card-small >}}
 
+{{< cards/card-small title="RSS FEED" caption="RSS feed" link="/index.xml">}}
+Looking for a lightweight way to keep up with Cicada? Add our blog's feed to your favorite RSS reader. <i class="fa-solid fa-square-rss"></i>
+{{< /cards/card-small >}}
+
 {{< cards/card-small title="CCM PLAYLIST">}}
 Need some tunes to write to? Check out our collaborative playlist!
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/playlist/4a8Nhz7K81x9oUc3uOQgIN?si=83e4066d77054590" width="100%" height="530" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-{{< /cards/card-small >}}
-
-{{< cards/card-small title="RSS FEED" caption="RSS feed" link="/index.xml">}}
-Looking for a lightweight way to keep up with Cicada? Add our blog's feed to your favorite RSS reader. <i class="fa-solid fa-square-rss"></i>
 {{< /cards/card-small >}}
 
 {{< /masonry >}}

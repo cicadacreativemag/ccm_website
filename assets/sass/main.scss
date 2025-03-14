@@ -50,11 +50,12 @@ a {
   color: $text-color;
   width: 90%;
   margin-top: 2%;
-  @media (max-width: 20em) {
-    .container {
-      width: 100%;
-    }  
-  }
+}
+
+@media (max-width: 768px) {
+  .container {
+    width: 100%;
+  }  
 }
 
 blockquote {
