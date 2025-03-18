@@ -9,7 +9,7 @@ draft: false
 {{< masonry >}}
 
 {{<  cards/card-medium title="Mission Statement">}}
-CCM aims to cultivate a community of creative voices across disciplines and backgrounds. We leverage our online platform to publish experimental and unconventional work, providing a home for bold ideas that may struggle to fit in traditional spaces. We strive to lower barries of entry to publishing while maintaining a curated, high quality collection that showcases the best our community has to offer.
+Our goal is cultivate a creative community that spans disciplines and backgrounds. Our primary method of doing this is by publishing a curated collection of community-sourced creative work. We use our online platform to publish experimental and multidisciplinary work, providing a home for ideas that may struggle to fit in other spaces. Cicada aims to keep a low barrier of entry and a high standard of quality.
 {{<  /cards/card-medium >}}
 
 {{< cards/card-medium title="Our Origins">}}
