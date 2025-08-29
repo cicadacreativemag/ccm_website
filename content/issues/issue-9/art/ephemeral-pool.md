@@ -8,4 +8,4 @@ featuredImage: "/images/issue9/thumb/ephemeralpool.png"
 type: art
 ---
 
-{{< lightbox-img lightbox-id="pool" img-src="/images/issue9/ephemeralpool.JPG" alt="A photo of a pool in the mountains. A group of people walk past." >}}
+{{< lightbox-img lightbox-id="pool" img-src="/images/issue9/ephemeralpool.jpg" alt="A photo of a pool in the mountains. A group of people walk past." >}}

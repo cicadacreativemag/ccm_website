@@ -8,4 +8,4 @@ featuredImage: "/images/issue9/thumb/stop_drinking_the_christmas_water.png"
 type: art
 ---
 
-{{< lightbox-img lightbox-id="christmas" img-src="/images/issue9/stop_drinking_christmas_tree_water.jpg" alt="A ink-drawn collage including imagery of hands, beasts, plants, and a pyramid of faces." >}}
+{{< lightbox-img lightbox-id="christmas" img-src="/images/issue9/stop_drinking_christmas_tree_water.JPG" alt="A ink-drawn collage including imagery of hands, beasts, plants, and a pyramid of faces." >}}

@@ -8,4 +8,4 @@ featuredImage: "/images/issue9/thumb/Gentle1.png"
 type: art
 ---
 
-{{< lightbox-img lightbox-id="gentle" img-src="/images/issue9/gentle.png" alt="A bouquet of pink flowers." >}}
+{{< lightbox-img lightbox-id="gentle" img-src="/images/issue9/Gentle.png" alt="A bouquet of pink flowers." >}}

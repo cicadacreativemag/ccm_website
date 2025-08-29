@@ -8,4 +8,4 @@ featuredImage: "/images/issue9/thumb/islandinthesky.gif"
 type: art
 ---
 
-{{< lightbox-img lightbox-id="island" img-src="/images/issue9/island.gif" alt="A floating island in the sky with a river overflowing down and off the screen." >}}
+{{< lightbox-img lightbox-id="island" img-src="/images/issue9/island.GIF" alt="A floating island in the sky with a river overflowing down and off the screen." >}}
