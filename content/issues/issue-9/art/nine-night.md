@@ -8,4 +8,4 @@ featuredImage: "/images/issue9/thumb/nine_night.png"
 type: art
 ---
 
-{{< lightbox-img lightbox-id="nine" img-src="/images/issue9/nine_night.JPG" alt="A party. People play the drums and dance. Hello." >}}
+{{< lightbox-img lightbox-id="nine" img-src="/images/issue9/nine_night.JPG" alt="A party. People play the drums and dance." >}}
