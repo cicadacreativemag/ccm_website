@@ -1,7 +1,7 @@
 ---
 weight: 1
 title: "Issue 08 Cover"
-authors: ["Alex Lee"]
+authors: ["Alex Lee"] 
 description: Digital
 draft: false
 featuredImage: "/images/issue8/thumb/cover.png"

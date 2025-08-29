@@ -1,11 +1,22 @@
 {{ $imagePath := .Params.featuredImage }}
-{{ $image := resources.Get $imagePath }}
+{{ $img := resources.Get $imagePath }}
 
-{{ with $image }}
-  {{ $thumbnail := .Resize "500x webp" }} 
-  {{ $fingerprinted := $thumbnail | resources.Fingerprint }}
+{{ with $img }}
+  {{ $sub := .MediaType.SubType }}
+  {{ $out := . }} {{/* default to original */}}
 
-  <img class="img-fluid" src="{{ $fingerprinted.RelPermalink }}" alt="Issue thumbnail">
+  {{ if eq $sub "gif" }}
+    {{ $out = . }}
+
+  {{ else if eq $sub "webp" }}
+    {{/* $out = .Resize "500x" */}}
+
+  {{ else }}
+    {{ $out = .Resize "500x webp" }}
+  {{ end }}
+
+  {{ $fp := $out | resources.Fingerprint }}
+  <img class="img-fluid" src="{{ $fp.RelPermalink }}" alt="Issue thumbnail" width="500" loading="lazy">
 {{ else }}
   <p>Error: Thumbnail image not found or could not be processed.</p>
 {{ end }}

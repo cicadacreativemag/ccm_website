@@ -1,15 +1,25 @@
 {{ $img := resources.Get (.Get "img-src") }}
 
 {{ with $img }}
-  {{ $resizedImage := .Resize "900x webp" }}
-  {{ if $resizedImage }}
+  {{ if eq (lower .MediaType.SubType) "gif" }}
     {{ $lightboxID := $.Get "lightbox-id" }}
     {{ $altText := $.Get "alt" }}
 
-<a href="{{ .RelPermalink }}" data-lightbox="{{ $lightboxID }}"><img src="{{ $resizedImage.RelPermalink }}" class="issue-img" alt="{{ $altText }}"></a>
+    <a href="{{ .RelPermalink }}" data-lightbox="{{ $lightboxID }}">
+      <img src="{{ .RelPermalink }}" class="issue-img" alt="{{ $altText }}">
+    </a>
+  {{ else }}
+    {{ $resizedImage := .Resize "900x webp" }}
+    {{ if $resizedImage }}
+      {{ $lightboxID := $.Get "lightbox-id" }}
+      {{ $altText := $.Get "alt" }}
 
-{{ else }}
-    <p>Error: Image couldn't be resized.</p>
+      <a href="{{ .RelPermalink }}" data-lightbox="{{ $lightboxID }}">
+        <img src="{{ $resizedImage.RelPermalink }}" class="issue-img" alt="{{ $altText }}">
+      </a>
+    {{ else }}
+      <p>Error: Image couldn't be resized.</p>
+    {{ end }}
   {{ end }}
 {{ else }}
   <p>Error: Image not found.</p>

@@ -5,6 +5,9 @@
     <loc>//localhost:1313/issue-1/cover/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/issue-9/cover/</loc>
+    <lastmod>2025-08-27T00:42:59-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/issue-2/issue-02-cover/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
@@ -24,7 +27,7 @@
     <lastmod>2024-12-29T16:47:29-05:00</lastmod>
   </url><url>
     <loc>//localhost:1313/issue-8/issue-08-cover/</loc>
-    <lastmod>2024-12-31T16:10:19-05:00</lastmod>
+    <lastmod>2025-08-27T00:33:53-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/issue-1/editors-note/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
@@ -50,6 +53,9 @@
     <loc>//localhost:1313/issue-8/editors-note/</loc>
     <lastmod>2024-12-29T16:53:06-05:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/issue-9/editors-note/</loc>
+    <lastmod>2025-08-27T22:13:17-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/issue-4/crossword-puzzles-the-infinite-library-and-the-importance-of-defining-order/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
@@ -61,6 +67,9 @@
   </url><url>
     <loc>//localhost:1313/issue-2/crumple-vase/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/issue-9/gentle/</loc>
+    <lastmod>2025-08-28T00:32:53-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/issue-6/god-speaks/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
@@ -76,6 +85,9 @@
   </url><url>
     <loc>//localhost:1313/issue-1/alpine-enchantment/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/issue-9/big-weather/</loc>
+    <lastmod>2025-08-27T22:23:11-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/issue-6/bittersweet/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
@@ -103,6 +115,9 @@
   </url><url>
     <loc>//localhost:1313/issue-2/invasion-of-home/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/issue-9/island-in-the-sky/</loc>
+    <lastmod>2025-08-27T22:35:19-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/issue-7/oju%CC%81-%E1%BA%B9%CC%80j%E1%BA%B9%CC%80/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
@@ -143,6 +158,9 @@
     <loc>//localhost:1313/issue-3/used-to-be-pearly/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/issue-9/wasp-nest/</loc>
+    <lastmod>2025-08-27T22:59:06-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/issue-5/year-to-year/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
@@ -157,6 +175,9 @@
   </url><url>
     <loc>//localhost:1313/issue-5/do-you-know-who-i-am/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/issue-9/face-off/</loc>
+    <lastmod>2025-08-27T23:13:19-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/issue-8/in-fair-verona/</loc>
     <lastmod>2024-12-29T23:22:56-05:00</lastmod>
@@ -188,6 +209,9 @@
     <loc>//localhost:1313/issue-1/in-my-head-there-is-a-place-i-go-to-when-i-think-of-my-childhood/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/issue-9/nasty-business/</loc>
+    <lastmod>2025-08-27T23:18:49-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/issue-3/she-flows/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
@@ -202,6 +226,9 @@
   </url><url>
     <loc>//localhost:1313/issue-5/for-kate/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/issue-9/future-plans-for-when-i-win-the-lottery/</loc>
+    <lastmod>2025-08-28T00:39:46-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/issue-8/harmony-thing-part-4/</loc>
     <lastmod>2024-12-29T21:01:26-05:00</lastmod>
@@ -236,6 +263,9 @@
     <loc>//localhost:1313/issue-6/plastic-dream/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/issue-9/stop-drinking-the-christmas-tree-water/</loc>
+    <lastmod>2025-08-27T23:38:03-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/issue-1/the-harkening-bees/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
@@ -250,6 +280,9 @@
   </url><url>
     <loc>//localhost:1313/issue-8/doom-1993/</loc>
     <lastmod>2024-12-31T13:03:12-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/issue-9/double-six/</loc>
+    <lastmod>2025-08-27T23:35:54-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/issue-4/han/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
@@ -271,6 +304,9 @@
   </url><url>
     <loc>//localhost:1313/issue-3/cest-si-bon-de-se-dire-des-mots-doux/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/issue-9/historical-fiction/</loc>
+    <lastmod>2025-08-28T00:42:51-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/issue-1/mementos-of-solitude/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
@@ -295,6 +331,9 @@
   </url><url>
     <loc>//localhost:1313/issue-3/alone/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/issue-9/episode-6-as-recognition/</loc>
+    <lastmod>2025-08-28T00:42:10-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/issue-2/midnight/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
@@ -332,6 +371,9 @@
     <loc>//localhost:1313/issue-1/remnant/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/issue-9/sparkle/</loc>
+    <lastmod>2025-08-27T23:54:47-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/issue-4/stained-kitchen-table-cloth/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
@@ -340,6 +382,9 @@
   </url><url>
     <loc>//localhost:1313/issue-7/a-breakfast-of-birdsongs-in-anambra/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/issue-9/after-neil-tennant/</loc>
+    <lastmod>2025-08-27T23:51:53-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/issue-4/bounded-phase-space/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
@@ -368,6 +413,9 @@
     <loc>//localhost:1313/issue-3/dissolved/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/issue-9/ephemeral-pool/</loc>
+    <lastmod>2025-08-27T23:54:44-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/issue-7/from-kigali-with-love/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
@@ -391,6 +439,9 @@
   </url><url>
     <loc>//localhost:1313/issue-5/heavens-bottom-feeder/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/issue-9/landed-on-the-wrong-field/</loc>
+    <lastmod>2025-08-28T00:17:53-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/issue-8/landlines/</loc>
     <lastmod>2024-12-29T23:43:00-05:00</lastmod>
@@ -422,8 +473,14 @@
     <loc>//localhost:1313/issue-8/tama-time/</loc>
     <lastmod>2024-12-29T23:42:56-05:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/issue-9/tooth-story/</loc>
+    <lastmod>2025-08-28T00:08:32-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/issue-3/what-even-am-i/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/issue-9/all-businessmen-go-to-heaven/</loc>
+    <lastmod>2025-08-28T00:29:07-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/issue-2/judith-and-praying-mantis/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
@@ -464,6 +521,9 @@
     <loc>//localhost:1313/issue-8/untitled/</loc>
     <lastmod>2024-12-30T00:08:08-05:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/issue-9/vertigo-in-the-verga/</loc>
+    <lastmod>2025-08-28T00:22:23-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/issue-1/above/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
@@ -478,6 +538,9 @@
   </url><url>
     <loc>//localhost:1313/issue-2/ka-pow/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/issue-9/nine-night/</loc>
+    <lastmod>2025-08-28T00:28:44-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/issue-5/the-garden/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
@@ -502,6 +565,9 @@
   </url><url>
     <loc>//localhost:1313/issue-3/contributors-page/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/issue-9/contributors-page/</loc>
+    <lastmod>2025-08-28T00:28:24-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/issue-2/family-history-of-disorder/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
@@ -728,6 +794,12 @@
     <loc>//localhost:1313/issue-1/contributors-page/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/issues/issue-9/</loc>
+    <lastmod>2025-08-27T00:47:51-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/about/mission-statement/</loc>
+    <lastmod>2025-02-03T01:53:36-05:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/issues/issue-8/</loc>
     <lastmod>2025-02-12T15:50:22-05:00</lastmod>
   </url><url>
@@ -906,7 +978,7 @@
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/about/</loc>
-    <lastmod>2025-03-08T01:28:09-05:00</lastmod>
+    <lastmod>2025-03-18T01:31:54-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/blog/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
@@ -918,7 +990,7 @@
     <lastmod>2025-03-08T15:15:42-05:00</lastmod>
   </url><url>
     <loc>//localhost:1313/home/</loc>
-    <lastmod>2025-03-11T01:06:31-04:00</lastmod>
+    <lastmod>2025-03-14T00:22:14-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/issues/</loc>
     <lastmod>2024-07-26T23:31:04-04:00</lastmod>
