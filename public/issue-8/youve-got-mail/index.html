@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="en-US"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+
+
+    
+    <title>You&#39;ve Got Mail!</title>
+    <meta charset="utf-8">
+    <meta name="description"
+        content="Cicada Creative Magazine is an interdisciplinary publication that accepts submissions of all kinds." />
+    <meta name="dc.relation" content="//localhost:1313/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel='icon' type='image/svg+xml' href='../../icons/red-c.svg' />
+
+
+<link href="https://cdn.jsdelivr.net/npm/normalize.css@8.0.1/normalize.min.css" rel="stylesheet" >
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" rel="stylesheet">
+
+
+    <link rel="stylesheet" href="https://use.typekit.net/cqp2hlg.css">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Inconsolata:wght@200..900&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  
+    
+    <link href="../../sass/main.min.967f94f1b3c6b1a69f32c8b3e817a7a4218044f5765825606ee963426107c383.css" rel="stylesheet">
+    <script defer src="https://cloud.umami.is/script.js" data-website-id="fe2f322d-fbdf-4145-877f-ab51ae563003"></script>
+</head><div id="preloader"></div><a id="top"></a>
+    <body>
+    <div class="container"><nav class="navbar" role="navigation">
+  <div class="nav-left">
+  <a class="navbar-brand" href="../../home">
+    <img id="navbarIcon" src='../../icons/red-c.png' width="50" height="50" alt="Site logo">
+  </a>
+  
+  <ul class="nav" id="menu">
+    
+    
+      
+        <li class="nav-item">
+          <a class="nav-link " href="../../home">Home</a>
+        </li>
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link" href="">About <i class="fa-solid fa-chevron-down"></i></a>
+          <ul class="dropdown-menu">
+            
+              <li><a class="dropdown-item" href="../../about/">About Us</a></li>
+            
+              <li><a class="dropdown-item" href="https://docs.cicadacreativemag.com/">Documentation</a></li>
+            
+          </ul>
+        </li>
+      
+    
+      
+        <li class="nav-item">
+          <a class="nav-link " href="../../issues/">Issues</a>
+        </li>
+      
+    
+      
+        <li class="nav-item">
+          <a class="nav-link " href="../../submit/">Submit</a>
+        </li>
+      
+    
+      
+        <li class="nav-item">
+          <a class="nav-link " href="../../blog/">Blog</a>
+        </li>
+      
+    
+      
+        <li class="nav-item">
+          <a class="nav-link " href="../../staff/">Staff</a>
+        </li>
+      
+    
+      
+        <li class="nav-item">
+          <a class="nav-link " href="../../support-us/">Support Us</a>
+        </li>
+      
+    
+      
+        <li class="nav-item">
+          <a class="nav-link " href="../../contact/">Contact</a>
+        </li>
+      
+        
+  </ul>
+  </div>
+
+  <div class="nav-right">
+    <button id="toggle" class="hamburger" aria-expanded="false">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>    
+    <div class="nav-buttons">
+      <button id="blue" class="btn btn-nav-blue theme-button" onclick="handleThemeButtonClick('blue', this)" title="blue"></button>
+      <button id="green" class="btn btn-nav-green theme-button" onclick="handleThemeButtonClick('green', this)" title="green"></button>
+      <button id="pink" class="btn btn-nav-pink theme-button" onclick="handleThemeButtonClick('pink', this)" title="pink"></button>
+      <button id="white" class="btn btn-nav-white theme-button" onclick="handleThemeButtonClick('white', this)" title="white"></button>
+      <button id="yellow" class="btn btn-nav-yellow theme-button" onclick="handleThemeButtonClick('yellow', this)" title="yellow"></button>
+      <button id="red" class="btn btn-nav-red theme-button" onclick="handleThemeButtonClick('red', this)" title="red"></button>
+    </div>
+</div>
+</nav>
+<header>
+
+<div class="row justify-content-sm-center">
+          <div class="col-md-6">
+            <h1>You&#39;ve Got Mail!</h1>
+                <p class="card-text">
+                      Jay Serrano
+                   </p> 
+                    <blockquote>     
+                    Your digital messages in a bottle, lined up on the shore. 
+                    </blockquote>
+                    
+<style>
+#email-interface {
+    display: flex;
+    flex-direction: column;
+    margin: 2rem auto;
+    border: 2px solid var(--text-color);
+    background-color: var(--bg-color);
+    height: 55vh;    
+    box-shadow: 0 4px 6px rgba(5, 17, 73, 0.3);
+    overflow: hidden;
+}
+
+.email-controls {
+    font-size: 1em;      
+    padding: 3px;
+    color: var(--bg-color);
+    display: flex;
+    justify-content: space-between;   
+}
+    
+.email-controls > div {
+    padding: 5px;
+}
+
+.email-header {
+    height: 2.5rem; 
+    background-color: var(--text-color);
+    color: var(--bg-color);
+    border-bottom: 2px solid var(--bg-color);
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.email-inbox {
+    display: flex;    
+    overflow: auto;
+}
+
+#inbox-list {
+    width: 40%;    
+    border-right: 1px solid var(--text-color);
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow-y: auto; 
+}
+
+
+ 
+#inbox-list::-webkit-scrollbar,
+.email-display::-webkit-scrollbar {
+    width: 5px; 
+    background-color: var(--bg-color);
+}
+
+#inbox-list::-webkit-scrollbar-thumb,
+.email-display::-webkit-scrollbar-thumb {
+    background-color: var(--text-color); 
+}
+
+.inbox-item {
+    padding: 0.5em 1em; 
+    cursor: pointer;
+    border-bottom: 1px solid var(--text-color); 
+    line-height: 1.5; 
+}
+
+.inbox-item:hover {
+    background-color: var(--text-color);
+    color: var(--bg-color); 
+}
+
+.selected-email {
+    background-color: var(--text-color); 
+    color: var(--bg-color);
+    font-weight: bold;
+}
+
+.email-display {
+    width: 60%;     
+    padding: 1rem;
+    overflow-y: auto;  
+}
+
+.email-display p {
+    margin: 0.5rem 0;
+}
+
+.header-row {
+    display: flex;
+    justify-content: space-between; 
+    align-items: flex-start;
+    gap: 1em;
+    margin-bottom: 1rem;
+}
+
+.email-details p {
+    margin: 0.2rem 0; 
+}
+
+.refresh-button-container {
+    display: flex;
+    align-items: center; 
+}
+
+#refresh-button {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    border: 1px solid var(--text-color);
+    padding: 0.5em 1em;  
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 1rem;
+}
+
+#refresh-button:hover {
+    background-color: var(--text-color);
+    color: var(--bg-color);
+    transition: background-color 0.2s ease-in-out;
+}
+
+
+ 
+@media (max-width: 768px) {
+    .email-inbox {
+        flex-direction: column;  
+     
+    }
+
+    #inbox-list {
+        width: 100%;  
+        height: 40%; 
+        border-right: none;
+        border-bottom: 1px solid var(--text-color); 
+        overflow-y: auto;
+    }
+
+    .email-display {
+        width: 100%; 
+        height: 60%; 
+        overflow-y: auto;
+    }
+}
+    
+    </style>
+    
+
+<div id="email-interface">       
+    <div class="email-header">
+        <div class="email-controls">
+            <div> <i class="fa-solid fa-arrows-up-down-left-right"></i></div>
+            <div> <i class="fa-solid fa-window-minimize"></i> <i class="fa-regular fa-window-restore"></i> <i class="fa-solid fa-xmark"></i></div>
+    </div>
+    </div> 
+    <div class="email-inbox">
+        
+        <ul id="inbox-list" class="inbox-list"></ul>
+        <div id="email-container" class="email-display">
+            <div class="header-row">
+                <div class="email-details">
+                    <p><strong>From:</strong> <span id="email-sender"></span></p>
+                    <p><strong>To:</strong> <span id="email-recipient"></span></p>
+                    <p><strong>Subject:</strong> <span id="email-subject"></span></p>
+                    <p><strong>Date:</strong> <span id="email-date"></span></p>
+                </div>
+                <div class="refresh-button-container">
+                    <button id="refresh-button" title="Refresh email"><i class="fa fa-refresh" aria-hidden="true"></i></button>
+                </div>
+            </div>
+            <hr>
+            <p id="email-content"></p>
+        </div>        
+        </div>
+    </div>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const emails = [{"content":"Hey kiddo!\n\nIt’s been ages since we talked. I know that you won’t get as excited when you see this because the “you’ve got mail” sound is absent from our lives now. It’s crazy how validating that sound was. You knew someone, somewhere was thinking of you and it reminded you that you weren’t alone. You were important for something in this world. Now your sound is always off. There’s no dopamine hit for you anymore because the new sounds remind you of adulthood. They remind you now that you have things to do and places to be and that most likely, you will be exhausted and “adulting” doesn’t care that you’re overflowing. We wanted the world to change so bad and we were so eager for it and now I can barely remember what your favorite song was or the joy you had for the 45 minutes you were at prom. Now the days are filled with tears, making dinners, cleaning toilets, paying bills, and wishing you were back in your old bedroom, feeling giddy at the screeching of the dial-up sounds. I miss you kiddo. I really do.\n","date":"2024-04-24 22:17","recipient":"Me","sender":"Me","subject":"The Future is Weird"},{"content":"hi, \n\nit’s been awhile. it’s been 4 years since the first time i ever saw you and 3 years since we last spoke. i tried my best to avoid seeing anything that reminded me of you, i blocked any accounts you had, and i prayed on your downfall. my attempts to avoid you didn’t work—my friends would see a post, a reel, or a tiktok \u0026 would tell me about it even if i didn’t want to know. every time i’d get an update about you, i’d feel so bad about myself, my life, my success. i’d get upset, i’d curse the world, i’d feel like a loser. i felt like i couldn’t escape you and was constantly reminded that i got the short-end of the stick. i hated seeing you doing well, hated doing the things you always said you wanted to do. i absolutely fucking despised you. \n\ni cursed you in my sleep. i prayed that karma was going to get you. i hoped that you had a minor inconvenience every day. i hoped that you had a bad haircut. i hoped that you had bad breath when you talked to people and gum couldn’t even help the stench. i could keep on going, but i won’t for the sake of the lengthiness of this e-mail. \n\nanywho! i’m proud to announce that i don’t feel that way anymore. i didn’t want to let my hatred towards you to continue to fester because it made me miserable. this constant cycle of seeing your ex \u0026 then immediately hating yourself does not get you anywhere! \n\ni took a solo trip to nyc \u0026 it gave me clarity. i finally reached peace. on my second day there, around 3am, i was being a bit introspective about the past few years \u0026 i thought about you. \n\n“you know what? good for him. hate what he did to me, but good for him.”\n\ni knew that you were capable of achieving so much. i knew that you were always going to be successful. i always supported you. i felt like i was your biggest fan many, many miles away. although our relationship was rough and one-sided, i’m genuinely proud of how far you’ve come \u0026 i’m happy for you. \n\ni’m glad you were in my life for a bit and i hope you’re doing well. \n\nbest wishes,\nloonie x\n","date":"2024-05-09 05:38","recipient":"egg","sender":"loonie","subject":"i hope you’re doing well"},{"content":"Dear Ink,\n\nI know you think they are your world and you their sunshine. But the reality is, it’s never going to last. No matter how much you crave their friendship, they will never truly be your friend. They will never let you into their world, no matter how many times you bang on that heavy door. The truth is, you’re just chasing ghosts—words and the existence of a person who was never really there.\n\nTake that passion and love and channel it into your own world. There, you will create art, beauty, and so many things they can’t ignore. You will never be too much or not enough; you will be just right as you are.\n\nIn the end, let them go. You are enough, just as you are.\n\nFuck them.\n","date":"2024-05-15 11:43","recipient":"Ink","sender":"Future Ink","subject":"To the Person I Was in 1999"},{"content":"Hi Steve,\n\nYou don't remember me, but I was the you that was in line for The Haunted Mansion 28 years ago. You know, when the line wound all the way out the gate it nearly blocked the few folks spilling out from The Hall of Presidents. You remember, that attraction you were excited to see because when you told Mrs. Weber you were going to Disney World, she told you to say hi to President Bill Clinton for her, and you did, but it wasn't exciting. The animatronics in there were so stale they'd nearly ruined the air conditioning. That's right, when you finally did visit The Hall of Presidents, it was only to get out of the sun. You remember, don't you, how the Florida sun knocked you out faster than you were ready for, how just standing in line was the most exhausting thing and you didn't even know it, because the gravestone played music if you found the right spot and smacked it, and you laughed and laughed until next thing you knew the walls were shrinking and your skull was too. Maybe I shouldn't tell you now, kid, but what you're experiencing won't end in the cool of the air conditioned Hall. True, after a while in there you'll feel all right, and if not quite ready to move on to the next attraction, then at least ready to ignore the pain in your head again. For a little while, at least. But this battle against the sun and your own head will only get worse eight years from now, when Larry slips your tackle and you slide down his back, catch his heel with your chin, wake up minutes late propped up against the fence. Look, kid, I'm sorry. I didn't come here to tell you about the migraines. I just got over a weeklong banger myself and it gets harder to shake the feeling, is all. Step out of line for a minute and wake up hours later, cold towel over the face and thumbs turning circles over the temples, world flipped upside down. Ah shucks, kid, I'm sorry, I'm going on about the migraines again and really what 6-year-old at Disney is gonna care about a bit of headache when that headache's got him staring into the lifeless eyes of a fake President, gesticulating and filibustering and just straight holding him back from the World outside, a whole World of seemingly endless attraction. If you just focus the pain into that loose tooth you felt coming on, you can wiggle it right out of your head. That's right, kid. You learn fast. When the man's got ya down, knocked out, stuck in your own head, locked on repeat, take one on the chin and get the heck outta there. When the tooth breaks free, go ahead and get excited when the Tooth Fairy leaves a whopping Goofy under the pillow. That's five whole Disney Dollars, kid, three more than the Fairy'll ever leave you outside of this magical place. I won't tell you yet that it all flows back to Disney anyway, the dollars, which might be cool if Walt were still alive, which you believe he is, because you were told he was frozen until Disney-paid scientists find a cure for his disease, and if you study right and go to work for him you might be the one to wake and cure him. And you'd say Thank you, Mr. Disney, and what a wonderful life we've lived in your World in the mean time. And you haven't thought of it yet but maybe you'd say And in the mean time, Mr. Disney, have you thought of all the folks who've made images in your name. And in the mean time, Mr. Disney, have you changed your views on skin tones. And in the mean time, Mr. Disney, have the Dippy Dogs and Bilge-rat bullies grown rich on your World of Dollars. And in the mean time, Mr. Disney, have we found a cure for the lifeless eyes of your Presidents. We can pay for that, can we not, Mr. Disney? We can pay to make the World a better place. Yeah, kid, we can make the World a better place. We can hold back the ringing in our heads, we can stare into the eyes of our Presidents, we can make the ghosts sing damn it. Ah shit, kid, I didn't mean to curse, ring me up for the swear jar. I can pay.\n\nSteve\n","date":"2024-05-23 04:40","recipient":"Steve circa 1996","sender":"Steve circa 2024","subject":"In Line for The Haunted Mansion"},{"content":"I like you. I have for years now. You've always known what I wanted to say without me having to say it. Even though I complain about it, I'm secretly relieved that you know me so well. Besides, you know how hard it is for me to say the things I want to. But it makes me wonder if you know how I feel already...If that's the case, you'll have to say it first. I'd apologize for being like this, but you're the one who told me you like me the way I am. You said I'm your favorite. Did you really mean that? Then, I'll never tell you how I feel. Figure it out yourself.","date":"2024-05-27 15:13","recipient":"You","sender":"Me","subject":"(No Subject)"},{"content":"Hi mom,\n\nI feel like its been forever since we’ve really talked and enjoyed each others presence in our life. Ever since the divorce I’ve really done my best to hold everything down. You, the kids, and the household duties. It really felt like i was just a kid trying to raise a whole family. Only then did i realize thats what you had to do. You had my older sister when you weren't even a proper teenager. You were out and about still trying. You had another, then another, and so on. Our big family is not the result of your failures or mistakes. Our big family is here to hold you and love you for the person my mother never got to be. I can only imagine what had happened to you for you to push us away as a reaction to any disagreements or arguments we have had with each other. I am here to show you that you are still worthy of our love. I miss you so much mom. I mean this as a promise and a vow. I love you always mother.\n\n-your son\n","date":"2024-06-02 21:10","recipient":"Mother","sender":"Your son","subject":"I still love you."},{"content":"i crave so deeply\nto be seen\nto be pried open\n\nwithin me\nwithin my ribcage\nis a blackhole\n\ni absorb anything\nand everything\n\nsometimes\nit's too much\n\nperhaps it would be easier\nto share it\n\nbut i know\ndespite what i want\nit's too much\n\ni might scare them away\ni might pull them in too deep\n\nthat's why i am what i am\nwhy i feel the way i feel\n\nanything, everything,\nand nothing\n\na blackhole\na cosmic void     \n","date":"2024-06-03 02:31","recipient":"Someone","sender":"Void","subject":"Into the void"},{"content":"Dear You,\n\nYour debit card history indicates that you have purchased three of those PS matcha lattes at TLJ just this week alone. I have included an extremely helpful and not vague recipe below so you can spend maybe $20 on ingredients and have enough to make one latte every day for a week. \n\nIced Pumpkin Spice Matcha Latte\n\nINGREDIENTS:\n- Culinary Grade Matcha (make sure it’s pure matcha without any added sugar)\n- Califia Pumpkin Spice Oat Barista. I’m pretty sure TLJ uses this exact thing (trust) you can find it on Amazon too apparently.\n- Unsweetened oat milk (You can use regular milk too but I’m kind of lactose intolerant)\n- A milk foamer or some other implement to foam milk like a jar. \n\nDIRECTIONS:\n- Foam the pumpkin spice oat milk to make a cold foam.\n- In another cup, sift 4 teaspoons of matcha. Pour 2 tablespoons of hot water into the matcha and mix until there are no dry clumps of matcha left.\n- In your final serving cup, add these in the following order: ice, oat milk, matcha, and the foamed pumpkin spice oat milk. Doing it this way should give you a cool layer effect which totally makes it taste better.\n- If you’re feeling fancy dust a bit of pumpkin spice on the top of the foam. Now enjoy your cool iced autumn drink because it’s still like 80 degrees outside for some reason.\n\nBest,\nAnonymous\n","date":"2024-10-12 02:51","recipient":"You","sender":"Anonymous","subject":"Stop spending $8 on pumpkin spice matcha lattes almost every day"},{"content":"Life goes on. Keep pushing. You'll be glad that you did.","date":"2024-10-31 15:35","recipient":"My former self","sender":"Me","subject":"Keep Going"},{"content":"Dear future me,\n\nSometimes, I wonder how we are doing. Are we in a better place than we were before? Are we no longer suffering in silence and finally free from the restraints we put on ourselves? Do we have someone who holds us and tells us everything will be okay? Or do we have to be that person again? Do we have to keep our hands and tell our inner child everything will be okay? Is the same one constantly neglected and pushed towards the back of our mind, the one silenced and told that they could no longer come out until they behave? \n\nI wonder how we are doing? Does the future hold something nice? Are we still the same strong individual that roams the earth, or are we like the broken toys that once lay scattered on the floor of our old bedroom? Sometimes, I wonder where we might be in the future. I wonder if you're doing alright and if we finally have our lives sorted out. \n\nI hope you can give me a sign that everything will be alright.\nJust know that I still love you. \n\nSincerely,\n\nMe from the present \n","date":"2024-11-1 22:23","recipient":"To future me","sender":"Quinn","subject":"Where are you now?"},{"content":"To my only surviving hija,\n\nI miss seeing you on the streets of Puerto Rico and wish you a good life wherever you are.\n\nI have so many questions about your life now and hope you will learn to use email like I have, so I might hear back from you. \n\nAre you enjoying your fancy life now?\n\nDo you still practice your Spanish?\n\nDo you think of me and the rest of your family?\n\nAlways remember where you came from. Don't be fooled by the rocks that you got. You're still Buttmeg from the block. \n\nWrite back.\n\nLove,\nMamí\n","date":"2024-11-3 12:20","recipient":"Nutmeg","sender":"Caramel","subject":"Mother to Daughter"},{"content":"Small Town Girl,\n\nI love you. Truly and deeply. I would've protected you forever, like a shivering baby bird in my hands. But then you would never get the chance to fly. \n\nFrom what I've heard, you haven't taken that chance. You're stuck in your tiny apartment, stuck in your junk car, stuck in a dead-end job. Please, for the love of God, get out of there. Get out of there. I want you to bloom, to thrive, to find your peace. Because then I won't feel so much like I mercilessly destroyed it.\n\nIn the meantime, I'll work on accepting that some people don't die, but they still disappear.  Life goes on, with a lump in my throat that never really goes away. \n\nI love you, Small Town Girl. Forever.\n\n-Mid-Sized City Girl\n","date":"2024-11-15 10:17","recipient":"Small Town Girl","sender":"Mid-Sized City Girl","subject":"A Plea"},{"content":"It's well-trodden ground how deeply important online friends are in the modern world, despite people of my age growing up utterly subsumed in internet-flavored stranger danger rhetoric. But it's still striking to me how important so many people whose faces I've never seen, voices I've never heard, hands I've never touched can be so deeply important to my life, past present and future. You've taught me to feel, to laugh, to understand others and to present myself. I cannot really envision the life I would be leading, had I not made one or two fateful decisions. Thank you so much for being there. I'd burn the world for any one of you.","date":"2024-11-15 15:51","recipient":"Flesh, blood, and electrical signals","sender":"A name and avatar on the internet","subject":"I love you"},{"content":"Hey. Got a bone to pick with you.\n\nI would have really appreciated it if you’d taken a shower earlier, instead of the final 25 minutes possible to take a shower and still get ready on time. I think whichever one of us realized that we could start driving at 12:56 and still make it to work by 1:00- you know, give or take a few lucky lights or two- should be shot in the street.\n\nI also really would have appreciated it if you’d done the dishes, taken out the trash, called Grandma about Thanksgiving, etc, so on and so forth. Fed the stray cat in the backyard when he made sad eyes at you from the window, maybe.\n\nStarted or finished the online data analysis course we decided to do. Applied to another job. Got another job. Cleaned the counter, the living room, the entryway, the bathroom. Learned Chinese completely fluently so we can talk to our mother in her native language before she dies, when we didn’t before our grandfather did. Finished about three books, two movies, four manga, two games, and about five stories that could all maybe be the best thing we’ve ever written. Gone back in time and reversed all the bad decisions we’ve ever made. \n\nGotten up early in the morning and watched the light arrive at the top of the mountains, just the lightest little touch. I guess that’s before your time, before now, so that’s really more me than you. Walked outside anyway and saw the clouds hanging massive in the air and a little sprinkle of rain just starting up. Ate the rest of the vegetable soup I took weeks to get around to making, used up the rest of my bread. Read more of the book I got into at my sister’s insistence. Listened to a wonderful new song.\n\nWent to a random store, drove to a random place, took a long walk and listened to music and thought too intensely. Messed up while playing a game with friends and lost my shit laughing. Checked out a book on woodworking from the library so I can talk to my living grandfather about it. Woke up, went to bed, breathe in, exhale.\n\nThe stray cat is eating a leftover can of cat food from the window as I write this email, so something must be going right. \n\nTomorrow. Well, if not today, there’s always tomorrow. ","date":"2024-11-16 02:59","recipient":"Zoe at 12:35, Approximately 30 Minutes Before She Needs to Go to Work","sender":"Zoe","subject":"Today"}];
+    const inboxList = document.getElementById("inbox-list");
+    const senderDisplay = document.getElementById("email-sender");
+    const recipientDisplay = document.getElementById("email-recipient");
+    const subjectDisplay = document.getElementById("email-subject");
+    const dateDisplay = document.getElementById("email-date");
+    const contentDisplay = document.getElementById("email-content");
+    const refreshButton = document.getElementById("refresh-button");
+
+    
+    const renderInbox = () => {
+        inboxList.innerHTML = ""; 
+        emails.forEach((email, index) => {
+            const listItem = document.createElement("li");
+            listItem.classList.add("inbox-item");
+            listItem.setAttribute("data-index", index);
+
+            
+            listItem.innerHTML = `${email.subject}`;
+            inboxList.appendChild(listItem);
+        });
+    };
+
+    const formatDate = (dateString) => {
+        const options = {
+            weekday: "short",
+            year: "numeric",
+            month: "short",
+            day: "2-digit",
+            hour: "2-digit",
+            minute: "2-digit",
+            hour12: true,
+        };
+        const date = new Date(dateString);
+        return new Intl.DateTimeFormat("en-US", options).format(date);
+    };
+
+    const displayEmail = (email, index) => {
+        senderDisplay.textContent = email.sender;
+        recipientDisplay.textContent = email.recipient;
+        subjectDisplay.textContent = email.subject;
+        dateDisplay.textContent = formatDate(email.date);
+
+        
+        let formattedContent = email.content;
+        formattedContent = formattedContent
+            .replace(/(?:^|\n)(- .+(?:\n- .+)*)/g, (match, items) => {
+                const listItems = items
+                    .split("\n")
+                    .map(item => `<li>${item.slice(2)}</li>`)
+                    .join("");
+                return `<ul>${listItems}</ul>`;
+            })
+            .replace(/([^\n])\n([^\n-])/g, "$1<br>$2")
+            .replace(/\n\n/g, "<p></p>")
+            .replace(/<\/ul>\n<p>/g, "</ul>")
+            .replace(/<p>\n<ul>/g, "<ul>");
+        contentDisplay.innerHTML = formattedContent;
+
+        
+        document.querySelectorAll(".inbox-item").forEach(item => item.classList.remove("selected-email"));
+        const selectedItem = inboxList.querySelector(`.inbox-item[data-index="${index}"]`);
+        if (selectedItem) selectedItem.classList.add("selected-email");
+    };
+
+    
+    inboxList.addEventListener("click", (event) => {
+        const clickedItem = event.target.closest(".inbox-item");
+        if (clickedItem) {
+            const index = clickedItem.getAttribute("data-index");
+            const email = emails[index];
+            displayEmail(email, index);
+        }
+    });
+
+    
+    refreshButton.addEventListener("click", () => {
+        const randomIndex = Math.floor(Math.random() * emails.length);
+        displayEmail(emails[randomIndex], randomIndex);
+    });
+
+    
+    const randomIndex = Math.floor(Math.random() * emails.length);
+    renderInbox();
+    displayEmail(emails[randomIndex], randomIndex);
+});
+
+</script>
+
+
+                  </div>
+                </div><div class="arrows">
+    
+        <a href="//localhost:1313/issue-8/editors-note/"> <i class="fas fa-long-arrow-alt-left"> </i></a>
+    
+    
+        <a href="../../issues/issue-8/"><i class="fas fa-home"> 
+        </i></a>
+    
+    
+        <a href="//localhost:1313/issue-8/you-didnt-imagine-it-we-were-once-close/"> <i class="fas fa-long-arrow-alt-right"> </i></a>
+    
+</div></div><div class="footer">
+    <div class="row justify-content-center">
+      <div class="col text-center text-md-left">
+        
+  
+  <form action="https://assets.mailerlite.com/jsonp/1254690/forms/142300829746988102/subscribe" method="post">
+    
+    <input type="hidden" name="ml-submit" value="1">
+    <input type="hidden" name="anticsrf" value="true">
+
+    
+    <p>
+        <label><small class="text-muted">Subscribe to our newsletter</small></label><br>
+        <input type="email" placeholder="Your Email" name="fields[email]" required autocomplete="email" />
+        <button class="button-ok" type="submit">OK</button>
+    </p>
+
+    
+    <div style="display:none;">
+        <input type="text" name="fields[honeypot]" value="" tabindex="-1" autocomplete="off">
+    </div>
+
+    
+    <div id="ml-success-message" style="display: none;">
+        <p>Thank you for subscribing! Please check your email to confirm.</p>
+    </div>
+</form>
+
+  </div>
+
+
+  
+    <div class="col-auto py-3"> 
+        
+        <a href="https://ko-fi.com/cicadacreativemagazine" role="button"><i class="fa-solid fa-mug-hot"></i></a>
+
+        <a href="https://x.com/cicadacreatemag" role="button"><i class="fa-brands fa-x-twitter"></i></a>
+        
+        <a href="https://www.instagram.com/cicadacreativemag/" role="button"><i class="fa-brands fa-instagram"></i></a>
+        
+        <a href="https://discord.gg/sgneFPdpNh" role="button"><i class="fa-brands fa-discord"></i></a>
+        
+        <a href="mailto:info@cicadacreativemag.com" role="button"><i class="fa-solid fa-envelope"></i></a>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const form = document.querySelector("form");
+        const successMessage = document.getElementById("ml-success-message");
+
+        form.addEventListener("submit", function (event) {
+            event.preventDefault(); 
+            const formData = new FormData(form);
+
+            fetch(form.action, {
+                method: "POST",
+                body: formData,
+            })
+                .then((response) => response.json())
+                .then((data) => {
+                    if (data.success) {
+                        
+                        successMessage.style.display = "block";
+                        form.reset(); 
+                    } else {
+                        alert("Something went wrong. Please try again.");
+                    }
+                })
+                .catch((error) => {
+                    console.error("Error:", error);
+                    alert("An error occurred. Please try again.");
+                });
+        });
+    });
+</script>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
+
+<script type="text/javascript" src="../../js/theme.js"></script>
+<script type="text/javascript" src="../../js/hamburger-menu.js"></script>
+<script type="text/javascript" src="../../js/lightbox.js"></script>
+<script type="text/javascript" src="../../js/imagesLoaded.js"></script>
+<script type="text/javascript" src="../../js/masonry-fix.js"></script>
+<script type="text/javascript" src="../../js/backtotop.js"></script>
+
+<script>
+var loader = document.getElementById("preloader");
+window.addEventListener("load", function () {
+  loader.style.display = "none";
+});
+var s = document.getElementById("preloader").style;
+s.opacity = 1;
+(function fade() {
+  (s.opacity -= 0.1) < 0 ? (s.display = "none") : setTimeout(fade, 40);
+})();
+</script></body>
+</html>
+
+     
+   
