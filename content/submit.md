@@ -4,7 +4,7 @@ draft: false
 ---
 
 # SUBMIT
-> Submissions for Issue 09 are currently **open**! Submissions will close on **May 31, 2025.** 
+> Submissions for Issue 10 are currently **under preparation**! Submissions will open in **Fall, 2025**.
 
 {{< masonry >}}
 
@@ -18,17 +18,16 @@ draft: false
 {{< /cards/card-medium >}}
 
 {{< cards/card-medium title="Submission Guidelines">}}
-*   The maximum number of pieces anyone can submit to CCM (or have published) per issue is **three**.
-*   Staff members may submit to CCM, but must abstain from reviewing it and cannot disclose it is theirs.
-*   Staff members also cannot review or vote on pieces that are created by someone they know.
-*   There is a 5,000 word limit on writing.
-*   We allow simultaneous submissions.
-*   Work may be previously published, but you must clarify this on your submission and include a source as to where the work has been previously published. Please also ensure the other publication permits you to re-publish the piece.
-*   It does not cost money to submit to CCM.
-*   We value documentation. Even if we like a piece, if the documentation is poor (low resolution, shaky, dimly lit), its odds of being published are lower.
+Submissions that fail to adhere to submission guidelines will not be considered for publication.
+
+*   Please only submit **once** per issue cycle. The maximum number of pieces you can include in your submission is **three**.
+*   Writing submissions should not exceed 1500 words each.
+*   We allow simultaneous submissions. If another magazine accepts your piece, please notify us as soon as possible.
+*   We allow previously published work as long as you have the rights to it. Please clarify this on your submission and include a source to where the work has been previously published. Please ensure the other publication permits the piece to be republished.
+*   Our review process is anonymous. Please do not include your name or any other identifying information in the document you submit.
+*   If you are submitting visual art, please submit high-quality images (1500 px on long edge, 300 ppi recommended). We value quality documentation. Even if we like a piece, if the documentation is poor (low resolution, shaky, dimly lit), its odds of being published are low.
 *   Our submission form will accept file sizes up to 10MB per submission. If your files exceed this limit (as might be the case for audio recordings or videos), please email us so we can figure out an alternative.
-    *   If you are submitting visual art, please be sure to submit high-quality images. 150 to 300 ppi is ideal. However, please be mindful of space considerations. Try to keep your images under 3MB.
-*   _Note on AI-generated work:_ AI-generated work is not allowed unless it involves substantial human creativity or transformative modification beyond simple prompting and generation. If AI-tools are used, they must be disclosed. If you are unsure whether your work falls within accepted use, please email us at info@cicadacreativemag.com.
+
 {{< /cards/card-medium >}}
 
 {{< /masonry >}}
