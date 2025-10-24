@@ -8,6 +8,11 @@ draft: false
 
 {{< masonry >}}
 
+
+{{< cards/card-small title="SUBMIT TO ISSUE 10" caption="Submit now" link="/submit/" img-src="/images/home/subs.png" alt="Currently accepting poetry, prose, video, art, music, and more. Submissions close on December 1 at 11:59PM ET.">}}
+Submissions are currently **open**! Submit your work by December 1, 2025 to be considered for publication in Issue 10. 
+{{< /cards/card-small >}}
+
 {{< cards/card-small title="ISSUE 09 IS LIVE" caption="Read now!" link="/issues/issue-9" img-src="/images/home/cover_09.jpg" alt="The cover of Issue 09.">}}
 We are happy to announce that Issue 09: Feverglow has been released! Our most competitive issue to date, this collection is one to remember. 
 {{< /cards/card-small >}}
@@ -21,17 +26,20 @@ For tax deductible donations:
 <a href="https://fundraising.fracturedatlas.org/cicada-creative-magazine"><img alt="Donate now at Fractured Atlas!" src="https://fundraising.fracturedatlas.org/images/fundraiser-share-buttons/share-button--light--white.png" /></a>
 {{< /cards/card-small >}}
 
-{{< cards/card-small title="RECENT BLOG POSTS">}}
-{{< blog-feed >}}
-{{< /cards/card-small >}}
 
 {{< cards/card-small title="CCM PLAYLIST">}}
 Need some tunes to write to? Check out our collaborative playlist!
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/playlist/4a8Nhz7K81x9oUc3uOQgIN?si=83e4066d77054590" width="100%" height="430" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 {{< /cards/card-small >}}
 
+{{< cards/card-small title="RECENT BLOG POSTS">}}
+{{< blog-feed >}}
+{{< /cards/card-small >}}
+
+
 {{< cards/card-small title="RSS FEED" caption="RSS feed" link="/index.xml">}}
 Looking for a lightweight way to keep up with Cicada? Add our blog's feed to your favorite RSS reader. <i class="fa-solid fa-square-rss"></i>
 {{< /cards/card-small >}}
+
 
 {{< /masonry >}}
