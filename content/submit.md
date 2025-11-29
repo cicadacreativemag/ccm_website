@@ -4,7 +4,7 @@ draft: false
 ---
 
 # SUBMIT
-> Submissions for Issue 10 are currently **open**! Submissions will open close on **December 1, 2025**.
+> Submissions for Issue 10 are currently **open**! Submissions will open close on **March 30, 2025**.
 
 {{< masonry >}}
 
