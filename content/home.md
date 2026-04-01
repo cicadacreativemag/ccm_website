@@ -9,8 +9,8 @@ draft: false
 {{< masonry >}}
 
 
-{{< cards/card-small title="SUBMIT TO ISSUE 10" caption="Submit now" link="/submit/" img-src="/images/home/subs1.png" alt="Currently accepting poetry, prose, video, art, music, and more. Submissions close on March 30 at 11:59PM ET.">}}
-Submissions are currently **open**! Submit your work by March 30, 2026 to be considered for publication in Issue 10. 
+{{< cards/card-small title="SUBMIT TO ISSUE 10" caption="Submit now" link="/submit/" img-src="/images/home/subs2.png" alt="Currently accepting poetry, prose, video, art, music, and more. Submissions close on April 30 at 11:59PM ET.">}}
+Submissions are currently **open**! Submit your work by April 30, 2026 to be considered for publication in Issue 10. 
 {{< /cards/card-small >}}
 
 {{< cards/card-small title="ISSUE 09 IS LIVE" caption="Read now!" link="/issues/issue-9" img-src="/images/home/cover_09.jpg" alt="The cover of Issue 09.">}}
