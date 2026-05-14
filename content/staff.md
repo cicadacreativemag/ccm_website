@@ -20,5 +20,6 @@ While the beating heart of Cicada is our creative community, we want you to know
 
 {{< staff-card name="Esther Grover" position="Reviewer" img-src="/images/staff/placeholder.png" alt="A green bug cartoon." caption="" website="https://putzed.neocities.org/" >}}
 
+{{< staff-card name="Leo Dodge-Sheingate" position="Reviewer" img-src="/images/staff/placeholder.png" alt="A green bug cartoon." caption="" >}}
 
 {{< /masonry >}}

@@ -9,8 +9,8 @@ draft: false
 {{< masonry >}}
 
 
-{{< cards/card-small title="SUBMIT TO ISSUE 10" caption="Submit now" link="/submit/" img-src="/images/home/subs2.png" alt="Currently accepting poetry, prose, video, art, music, and more. Submissions close on April 30 at 11:59PM ET.">}}
-Submissions are currently **open**! Submit your work by April 30, 2026 to be considered for publication in Issue 10. 
+{{< cards/card-small title="Review is ongoing" img-src="/images/home/review.png" alt="Review is currently in progress. Thank you for your patience as we review your work!">}}
+Submissions are currently **closed**. We're sorting through your work now to shape Issue 10. Stay tuned!
 {{< /cards/card-small >}}
 
 {{< cards/card-small title="ISSUE 09 IS LIVE" caption="Read now!" link="/issues/issue-9" img-src="/images/home/cover_09.jpg" alt="The cover of Issue 09.">}}
@@ -20,10 +20,6 @@ We are happy to announce that Issue 09: Feverglow has been released! Our most co
 {{< cards/card-small title="SUPPORT CICADA" caption="Donate to Cicada" >}}
 Help Cicada grow! Your support helps keep independent publishing alive.
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Us on Ko-fi', '#72a4f2', 'X8X81BERCG');kofiwidget2.draw();</script> <br><br>
-
-For tax deductible donations:
-
-<a href="https://fundraising.fracturedatlas.org/cicada-creative-magazine"><img alt="Donate now at Fractured Atlas!" src="https://fundraising.fracturedatlas.org/images/fundraiser-share-buttons/share-button--light--white.png" /></a>
 {{< /cards/card-small >}}
 
 {{< cards/card-small title="CCM PLAYLIST">}}

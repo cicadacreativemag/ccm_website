@@ -30,18 +30,7 @@
 
   [[menu.main]]
   name = "About"
-  weight = 2
-
-  [[menu.main]]
-  name = "About Us"
   url = "/about/"
-  parent = "About"
-  weight = 1
-
-  [[menu.main]]
-  name = "Documentation"
-  url = "https://docs.cicadacreativemag.com/"
-  parent = "About"
   weight = 2
 
   [[menu.main]]

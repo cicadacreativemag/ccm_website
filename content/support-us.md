@@ -16,27 +16,4 @@ As a thank you, donors who contribute $10 or more will be recognized on our Cont
 <iframe id='kofiframe' src='https://ko-fi.com/cicadacreativemagazine/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;' height='712' title='cicadacreativemagazine'></iframe>
 {{< /cards/card-medium >}}
 
-{{< cards/card-medium title="Paypal">}}
-<div id="donate-button-container">
-<div id="donate-button"></div>
-<script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script>
-<script>
-PayPal.Donation.Button({
-env:'production',
-hosted_button_id:'MU7SW5SA9QDPQ',
-image: {
-src:'https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif',
-alt:'Donate with PayPal button',
-title:'PayPal - The safer, easier way to pay online!',
-}
-}).render('#donate-button');
-</script>
-</div>
-{{< /cards/card-medium >}}
-
-
-{{< cards/card-medium title="Fractured Atlas">}}
-<a href="https://fundraising.fracturedatlas.org/cicada-creative-magazine"><img alt="Donate now at Fractured Atlas!" src="https://fundraising.fracturedatlas.org/images/fundraiser-share-buttons/share-button--light--white.png" /></a>
-{{< /cards/card-medium >}}
-
 {{< /masonry >}}
