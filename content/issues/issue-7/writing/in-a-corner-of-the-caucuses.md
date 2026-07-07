@@ -1,7 +1,7 @@
 ---
 weight: 4
 title: "In a Corner of the Caucuses"
-authors: ["Ariella Kissin"]
+authors: ["Ari Kissin"]
 description: Poem
 draft: false
 type: writing
